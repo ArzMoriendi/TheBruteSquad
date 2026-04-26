@@ -1,12 +1,14 @@
-
-
 ---
+title: Daeric Elmlight
+---
+
+
 
 ### **Daeric Elmlight**
 
 **Race:** Firbolg  
 **Class:** Commoner  
-**Occupation:** Merchant of Wine, Mead, Grains, and Sundry Goods  
+**Occupation:** Merchant
 **Location:** Longsaddle, North Faerûn (south of Mirabar)  
 **Alignment:** Neutral Good
 
