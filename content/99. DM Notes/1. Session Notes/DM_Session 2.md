@@ -25,6 +25,6 @@ End on a short rest.
 
 
 ### Current Threads
-#### [[Kragnoroth The Drunk]]
+#### [[Kragnoroth the Drunk]]
 
 ### Things the Party Should Know

@@ -20,8 +20,8 @@ Kragnoroth is highly **intelligent, cunning, and charismatic**, qualities that h
 
 Motivated by a desire for freedom and survival, Kragnoroth uses a blend of charisma and tactical acumen to command his gang. He balances the chaotic lifestyle of his men with a steady hand, ensuring that their revelry never endangers their safety or their base behind the waterfall.
 
-Certainly! Below is a detailed official-style description of **Kragnoroth the Drunk**, the primary villain from _Sword Coast Side Quests Volume 1: The Lair of Kragnoroth the Drunk_, based primarily on that source and other 5e canon like _Sword Coast Adventurer's Guide_ and _Storm King’s Thunder_ where relevant.
 
+He was in a relationship with a Yuanti Trueblood named Vanessa
 
 #### History & Important Lore
 
