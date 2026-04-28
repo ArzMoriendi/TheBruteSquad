@@ -8,7 +8,7 @@
 
 ### Scene Setter
  
-
+**CHES 22**
 When last we left our adventurers…  
 The Brute Squad stood within the depths of Hammerfall Run, in a ritual chamber carved of stone and intent. Goliath zombies lay destroyed at the threshold. Beyond them, the hexagonal chamber worked stone and natural pillars, centered on a raised dais where a stunning stone and ruby gem hovered and pulsed as if alive.  
 The battle had nearly turned against them. As GhoulMan rushed ahead, he found a living goliath guarding the dais and a Thayan mage mid ritual. With a word and a gesture, the mage twisted his will, turning him against the party with a simple, brutal command: “Kill your friends.” It was only through Zwargie’s Compel Duel that her concentration broke and GhoulMan was freed. As the tide of battle shifted against the adversary goliath and the mage, the mage unleashed a Cone of Cold, freezing both goliaths in place before vanishing from the chamber entirely. The surviving goliath died where she stood, frozen and unmoving, her body too brittle to even search.  
@@ -62,4 +62,16 @@ Veldar
 Zwarg  
 - Traded Great Axe for Maul (2gp)
 
+### Current Threads
+#### Kragnoroth The Drunk
+- collect on bounty-Luskan
+#### Lathander Order
+- Learn what happened to the doomed area
+#### Tomb of Annihilation 
+- head to Neverwinter/Waterdeep
 
+
+### Things the Party Should Know
+Luskan - direction
+Pirate lords - names [[Luskan]]
+Why Kragnoroth wanted nothing 

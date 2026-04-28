@@ -4,18 +4,16 @@
 Human Wizard, younger, 
 Fiery red hair
 
-Subclass: Bladesinger
+Subclass: Evoker
 
 Where she came from:
 Neverwinter; 
 
 ### Rank
-Level 3 Wizard
+Level 4 Wizard
 
 ### Personal Quest
 Seek out knowledge
-Find Agatha*
-Agatha was revived by an order of clerics that Carla did not know about.  But now Agatha is affected by the wasting sickness.  Agatha sends Carla on a quest that takes her to space.   
 
 Sub: The evil order is after the text of secrets (come up with story) Order of Thay?
 

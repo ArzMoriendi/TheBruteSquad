@@ -24,4 +24,7 @@ Party gets 12sp
 End on a short rest.
 
 
+### Current Threads
+#### [[Kragnoroth The Drunk]]
 
+### Things the Party Should Know

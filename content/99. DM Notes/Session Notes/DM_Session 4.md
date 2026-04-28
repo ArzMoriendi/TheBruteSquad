@@ -25,3 +25,7 @@ The party comes to a door and inspects it.  Shadow Scale notices the trap.  Leya
 Party ends after releasing the trap and unlocking the door. 
 
 
+### Current Threads
+#### Kragnoroth The Drunk
+
+### Things the Party Should Know

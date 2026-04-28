@@ -8,7 +8,7 @@
 
 ### Scene Setter
  
-
+**CHES 21**
 
 Our session picks up with The Brute Squad preparing to enter the recently opened section inside the mines of Hammerfall Run. They successfully solved the puzzle to cause the doors to open and were reviewing how best to move forward when an anomaly distracted them.
 
@@ -41,4 +41,16 @@ Upon departing, the room turned dark and still. Using light and the light from S
 Leyawiin and Bronn inspected the hovering stone and gem up close. They learned it had transmutation magical properties and has been touched by necromancy. 
 
 The party chose to end there in the quiet of the ritual chamber
+### Current Threads
+#### Kragnoroth The Drunk
+- collect on bounty-Luskan
+#### Lathander Order
+- Learn what happened to the doomed area
+#### Tomb of Annihilation 
+- head to Neverwinter/Waterdeep
 
+
+### Things the Party Should Know
+Luskan - direction
+Pirate lords - names [[Luskan]]
+Why Kragnoroth wanted nothing 

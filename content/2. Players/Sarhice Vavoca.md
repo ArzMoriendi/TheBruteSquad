@@ -3,15 +3,12 @@
 ### Description
 Elf, Warlock, appears as a very rough/shallowed druid. 
 
-Subclass: Hexblade
-
 Where he came from:
 Longsaddle
 
 ### Rank
 Level 3 Warlock
-- Haunted
-- Hollow One
+
 
 ### Personal Quest
 Seek respite/peace in death
@@ -26,5 +23,5 @@ The entire group was killed by bandits including the merchant we were escorting 
 Since awakening, Sarhice no longer has access to his druidic magic and doesn't know why. Filled with an unknown source of vengeance, Sarhice only wants to avenge his comrades and return to death.
 
 From Longsaddle. 
-Escort through the area.
+
 

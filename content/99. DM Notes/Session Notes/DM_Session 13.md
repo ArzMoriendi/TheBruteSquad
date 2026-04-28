@@ -8,7 +8,7 @@
 
 ### Scene Setter
  
-
+**CHES 21**
 Our adventurers awake after a long rest on the hillside and start making their way up the foothills into the mountain.  As they make their way up, the snow begins coming down, obscuring their path.  Thankfully, the make sufficient survival checks to find the pathway up the hill.
 
 As they near Hammerfall Run, Leyawiin notices that the mountains become eerily silent, amplified by the fresh and falling snow.  
@@ -27,4 +27,16 @@ They move towards the entrance of the mine and Bronn uses tremorsense to see whe
 
 Sarhice and Bronn pushed forward, taking on the undead.  Bronn used Turn Undead to cause several to flee, and a mix of magic and direct attack ultimately took out the skeletons and zombies (after one managed to hang around thanks to undead fortitude).   No loot was claimed at this time as the party chose to pause there.  (No Rest)
 
+### Current Threads
+#### Kragnoroth The Drunk
+- collect on bounty-Luskan
+#### Lathander Order
+- Learn what happened to the doomed area
+#### Tomb of Annihilation 
+- head to Neverwinter/Waterdeep
 
+
+### Things the Party Should Know
+Luskan - direction
+Pirate lords - names [[Luskan]]
+Why Kragnoroth wanted nothing 

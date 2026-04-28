@@ -14,4 +14,4 @@ Redemption
 
 
 ### Backstory
-B'Imbo is a Grung with a criminal background. He was kicked out of his tribe and is in search of redemption. 
+B'Imbo is a Grung with a criminal background. 

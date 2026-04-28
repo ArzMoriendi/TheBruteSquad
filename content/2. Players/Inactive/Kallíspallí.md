@@ -13,7 +13,7 @@ Level 2 Druid
 ### Personal Quest
 Document Creatures
 Save her forest
-Help her old mentor*
+
 
 
 ### Backstory

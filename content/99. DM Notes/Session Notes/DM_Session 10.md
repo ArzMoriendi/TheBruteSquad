@@ -49,4 +49,16 @@ After a short while on the road, the party is overtaken by a wagon being driven 
 
 End inside the tower.  
 
+### Current Threads
+#### Kragnoroth The Drunk
+- collect on bounty-Luskan
+#### Lathander Order
+- inspect the doomed area
+#### Tomb of Annihilation 
+- head to Neverwinter/Waterdeep
 
+
+### Things the Party Should Know
+Luskan - direction
+Pirate lords - names [[Luskan]]
+Why Kragnoroth wanted nothing 

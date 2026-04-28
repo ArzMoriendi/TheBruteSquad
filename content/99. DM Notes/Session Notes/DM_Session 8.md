@@ -50,3 +50,7 @@ Loot: 150 gp.
 - the Seal returned to Magistrate. 
 
 
+### Current Threads
+#### Kragnoroth The Drunk
+
+### Things the Party Should Know

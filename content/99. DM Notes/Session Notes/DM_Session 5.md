@@ -22,3 +22,8 @@ Total Loot:  1 potion of healing. 2 x Platinum, 22 GP, 11 SP. a pretty rock, a s
 
 They move on, finding a shaft that leads outside to a small grove.  The group takes a long rest. 
 
+
+### Current Threads
+#### Kragnoroth The Drunk
+
+### Things the Party Should Know

@@ -1,4 +1,4 @@
-[[_Shadow Scale.pdf]]
+
 
 ### Description
 Formerly and elf ranger named Elareal
@@ -7,7 +7,7 @@ Dark/black scales
 
 Subclass: Dragonwarden
 
-Where she came from:
+Where he came from:
 Eldrin forests; 
 
 Pet Drake - 
@@ -21,8 +21,7 @@ Level 3 Ranger
 Alignment Choice
 - ~~Choose~~
 - Subquest - prove worth.
-Choice of life - Dragonborn or Elf
-- Nephew to a noble in [place] must come to terms with his disappearance
+
 Guard natural world
 
 

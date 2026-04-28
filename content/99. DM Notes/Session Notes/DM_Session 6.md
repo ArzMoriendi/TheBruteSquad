@@ -29,3 +29,8 @@ Loot: 1 potion of healing, 24 CP.
 
 The party pauses before moving onward. 
 
+
+### Current Threads
+#### Kragnoroth The Drunk
+
+### Things the Party Should Know

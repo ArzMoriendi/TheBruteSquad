@@ -34,3 +34,16 @@ The party followed the trail towards the Crags for the better part of a day, whe
 
 End inside the tower.  
 
+### Current Threads
+#### Kragnoroth The Drunk
+- collect on bounty-Luskan
+#### Lathander Order
+- inspect the doomed area
+#### Tomb of Annihilation 
+- head to Neverwinter/Waterdeep
+
+
+### Things the Party Should Know
+Luskan - direction
+Pirate lords - names [[Luskan]]
+Why Kragnoroth wanted nothing 

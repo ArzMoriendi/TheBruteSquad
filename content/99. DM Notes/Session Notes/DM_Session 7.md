@@ -23,4 +23,7 @@ Loot: Treasure room key,  Head of Kragnoroth, 40 GP worth of Gems, and 220 GP, 1
 The party stops on a long rest. 
 
 
+### Current Threads
+#### Kragnoroth The Drunk
 
+### Things the Party Should Know

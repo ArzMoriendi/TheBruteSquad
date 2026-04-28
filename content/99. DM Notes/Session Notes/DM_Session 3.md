@@ -33,3 +33,7 @@ Misc: 2 x Aces, 1 x Yuan-Ti Pureblood head, 1x Satyr Skull
 Party ends on a Short Rest. 
 
 
+### Current Threads
+#### Kragnoroth The Drunk
+
+### Things the Party Should Know

@@ -34,4 +34,16 @@ Sarhice - Fitting Gloves
 The party moves off the path, makes camp, and settles in for a long rest. (Northwest).  
 
 
+### Current Threads
+#### Kragnoroth The Drunk
+- collect on bounty-Luskan
+#### Lathander Order
+- Learn what happened to the doomed area
+#### Tomb of Annihilation 
+- head to Neverwinter/Waterdeep
 
+
+### Things the Party Should Know
+Luskan - direction
+Pirate lords - names [[Luskan]]
+Why Kragnoroth wanted nothing 

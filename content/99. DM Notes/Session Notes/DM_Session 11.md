@@ -36,4 +36,16 @@ The party met Geldryn Axebinder, Justiciar of the Marchion of Mirabar.  He expla
 The party had until nightfall to depart.  They went back to the market where Zwargie purchased a two handed greataxe in trade for chainmail armor from Ghorza gra‑Bagol at the Greystone Smithy.  They made their way back to the Hall, secured papers of entry for the party, and took Zwargie (hidden in a carriage) to the outermost ring/bridge of Mirabar (Northwest).  
 
 
+### Current Threads
+#### Kragnoroth The Drunk
+- collect on bounty-Luskan
+#### Lathander Order
+- Learn what happened to the doomed area
+#### Tomb of Annihilation 
+- head to Neverwinter/Waterdeep
 
+
+### Things the Party Should Know
+Luskan - direction
+Pirate lords - names [[Luskan]]
+Why Kragnoroth wanted nothing 

@@ -14,7 +14,6 @@ Aligned to [[Kelemvor]]
 Level 3 Cleric
 
 ### Personal Quest
-Repent to his temple
 Find purpose
 
 
