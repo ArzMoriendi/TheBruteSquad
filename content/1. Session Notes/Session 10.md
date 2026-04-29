@@ -9,11 +9,11 @@
 
 ### Scene Setter
  
-Our adventure picks up at the mysterious tower at the base of the Crags, the foothills of the Spine of the World. As our adventurers explore the area, Bronn the cleric decides to go back in and reinvestigate the basement of the tower. Through diligent investigation (and several lucky rolls), Bronn is able to identify that the tower belonged to a mage of the Red Wizards of Thay, a culture, people, and organization focused on the necromantic arts. He is able to discern that the rituals being conducted in the tower were focused on harnessing an arcane source of power.
+Our adventure picks up at the mysterious tower at the base of the Crags, the foothills of the [[Spine of the World]]. As our adventurers explore the area, Bronn the cleric decides to go back in and reinvestigate the basement of the tower. Through diligent investigation (and several lucky rolls), Bronn is able to identify that the tower belonged to a mage of the Red Wizards of Thay, a culture, people, and organization focused on the necromantic arts. He is able to discern that the rituals being conducted in the tower were focused on harnessing an arcane source of power.
 
 Our party returns outside to the mysterious mound where again Bronn focuses his investigation and efforts Through communion with his patron deity, he is able to consecrate and cleanse the land of the evil radiating from the mass grave. (He also levels up and obtains his subclass)
 
-With the tower thoroughly investigated and the mound consecrated, the party turns it’s attention back to the trail of the kobolds who made off with some of their goods. Veldar and Shadow Scale are able to pick up the trail winding its way to a small cave in the foothills. Knowing draconic, Shadow Scale engages the kobolds guarding the cave trying to convince them to return the party’s property. Shadow Scale convinces one of the kobolds to fetch a leader and, after small back and forth, the leader agrees to take them further into the cave to talk to the overall kobold outpost leader.
+With the tower thoroughly investigated and the mound consecrated, the party turns it’s attention back to the trail of the [[kobolds]] who made off with some of their goods. Veldar and Shadow Scale are able to pick up the trail winding its way to a small cave in the foothills. Knowing draconic, Shadow Scale engages the kobolds guarding the cave trying to convince them to return the party’s property. Shadow Scale convinces one of the kobolds to fetch a leader and, after small back and forth, the leader agrees to take them further into the cave to talk to the overall kobold outpost leader.
 
 Our party enters the cave and learns that the kobold leader that they are following is named Ding and they are introduced to the rest of the small troop:  
 - Areh  
@@ -45,7 +45,7 @@ The party is invited to stay the night by the kobolds and decide it is the best 
 
 They wake the next day (after a long rest) and thank their hosts for the meal and the chance to rest. Egga apologizes for the issues caused by the theft and assures them that they have the friendship of the kobolds of the Emberforge Outpost and the Neverwinter Woods kobold tribe. Our heroes make their way back to the Long Road, eventually heading north on foot.
 
-After a short while on the road, the party is overtaken by a wagon being driven by a large humanoid. They hail him and after a short exchange purchase some wine and offer compensation to be taken to Mirabar. He agrees and the party clambers into the wagon and starts their long trek north..  
+After a short while on the road, the party is overtaken by a wagon being driven by a large humanoid. They hail him and after a short exchange purchase some wine and offer compensation to be taken to Mirabar. He agrees and the party clambers into the wagon and starts their long trek north.
 
 End inside the tower.  
 

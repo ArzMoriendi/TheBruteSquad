@@ -12,7 +12,7 @@
 
 Kallíspallí, a female tiefling druid, and her traveling companion, a male wizard grung known as B'Imbo, arrived in the small, northern town of [[Erentir]].  At the same time, a human female wizard named Leyawiin entered the town from the East, a male dragonborn ranger named Shadow Scale entered from the South, and a pair of companions (an old, female, human cleric named Loreli Lynn Porter, and a female fey elastin barbarian named Artiran) wandered in from the East. 
 
-Upon spying a robed, male half-orc paladin named Zwargie sleeping under the tree in the center of town, Bimbo went up and kicked him awake. Seeing this, Leyawiin rushed over and offered Zwargie healing which he declined.
+Upon spying a robed, male half-orc paladin named Zwargie sleeping under the tree in the center of town, B'Imbo went up and kicked him awake. Seeing this, Leyawiin rushed over and offered Zwargie healing which he declined.
 
 ## [[Erentir]]
 

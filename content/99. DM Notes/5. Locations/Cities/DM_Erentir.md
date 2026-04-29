@@ -1,6 +1,8 @@
 ### Description
 Small Frontier village in the Northern part of the Sword Coast, several miles/km outside of Luskan.  It's set up like some older towns, centered around a large tree and the main hall/magistrate's house being near the center.  
 
+![[Erentir.jpg|543]]
+
 ### Primary Buildings/Businesses
 - Tavern: The Farmer's Daughter Tavern  
 - Blacksmith: The Sparking Anvil

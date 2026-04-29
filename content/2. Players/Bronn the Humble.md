@@ -11,7 +11,7 @@ Waterdeep;
 Aligned to [[Kelemvor]]
 
 ### Rank
-Level 3 Cleric
+Level 4 Cleric
 
 ### Personal Quest
 Find purpose

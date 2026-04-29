@@ -16,7 +16,7 @@ Loreli takes two Aces hidden up the sleeve of one bandit.   XP: 15 each (25 per 
 
 22 cp
 
-The move further into the tunnel, coming onto a lavishly decorated room.  Silk pillows, couch, table, comfortable setting. Two female bandits and one Yuan-Ti (Vanessa). Kallí attempts to throw B'Imbo into the Yuan-Ti, failing the strength role and B'Imbo failing the acrobatics role.  They dispatch the bandits quickly and take a moment to fight the Yuan-Ti.  She drops hints about her love and never getting out.  They kill her as she tries to flee.  Artiran beheads her using Fey Step.  (Loreli uses Toll the Dead on bandit).  Shadow Scale takes the head.  XP: 36  (25 per bandit; 200 for Yuant-ti Pureblood).  Potion of Healing - Shadow Scale.  Key - Shadow Scale.   Investigation reveals "V+K" carved into the table. 
+The move further into the tunnel, coming onto a lavishly decorated room.  Silk pillows, couch, table, comfortable setting. Two female bandits and one Yuan-Ti ([[Kragnoroth the Drunk|Vanessa]]). Kallí attempts to throw B'Imbo into the Yuan-Ti, failing the strength role and B'Imbo failing the acrobatics role.  They dispatch the bandits quickly and take a moment to fight the Yuan-Ti.  She drops hints about her love and never getting out.  They kill her as she tries to flee.  Artiran beheads her using Fey Step.  (Loreli uses Toll the Dead on bandit).  Shadow Scale takes the head.  XP: 36  (25 per bandit; 200 for Yuant-Ti Pureblood).  Potion of Healing - Shadow Scale.  Key - Shadow Scale.   Investigation reveals "V+K" carved into the table. 
 
 17sp
 

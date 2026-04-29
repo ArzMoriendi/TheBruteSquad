@@ -9,7 +9,7 @@ Where he came from:
 Frostfang Tribe; Spine of the world 
 
 ### Rank
-Level 3 Barbarian
+Level 4 Barbarian
 
 ### Personal Quest
 Find Purpose
