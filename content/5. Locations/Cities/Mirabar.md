@@ -1,37 +1,18 @@
-Here’s a detailed overview of **Mirabar**, based on official D&D lore and the Forgotten Realms Wiki:
 
-| Section                            | Key Highlights                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Overview & Geography**           | Human city atop dwarven caverns near River Mirar; gateway between mountains and Sea of Swords ([FlipHTML5](https://fliphtml5.com/tbbno/gjjy?utm_source=chatgpt.com "Sword Coast Adventurer's Guide - Flipbook by Ralvagar \| FlipHTML5"))                                                                                                                                                                                               |
-| **Government & Politics**          | Marchion (Selin Raurym) with Council of Sparkling Stones; dwarven elder council controls mine output ([FlipHTML5](https://fliphtml5.com/tbbno/gjjy?utm_source=chatgpt.com "Sword Coast Adventurer's Guide - Flipbook by Ralvagar \| FlipHTML5"), [Reddit](https://www.reddit.com/r/Forgotten_Realms/comments/ebciae?utm_source=chatgpt.com "My main problem with Sundabar & Mirabar is the same"))                                      |
-| **Population & Size**              | Humans dominate surface, dwarves in undercity; modest-sized regional hub ([FlipHTML5](https://fliphtml5.com/tbbno/gjjy?utm_source=chatgpt.com "Sword Coast Adventurer's Guide - Flipbook by Ralvagar \| FlipHTML5"), [FlipHTML5](https://fliphtml5.com/vovua/glts/Sword_Coast_Adventurer_Guide?utm_source=chatgpt.com "Sword Coast Adventurer Guide - Flipbook by Twitchedup0989 \| FlipHTML5"))                                        |
-| **People**                         | Surface humans with dwarves, gnomes, halflings; underground mostly dwarves; all honor Moradin ([FlipHTML5](https://fliphtml5.com/tbbno/gjjy?utm_source=chatgpt.com "Sword Coast Adventurer's Guide - Flipbook by Ralvagar \| FlipHTML5"), [FlipHTML5](https://fliphtml5.com/vovua/glts/Sword_Coast_Adventurer_Guide?utm_source=chatgpt.com "Sword Coast Adventurer Guide - Flipbook by Twitchedup0989 \| FlipHTML5"))                   |
-| **Police, Military & Militia**     | **Axe of Mirabar**: shield dwarf garrison protecting mines and city; quick responders to sabotage ([FlipHTML5](https://fliphtml5.com/tbbno/gjjy?utm_source=chatgpt.com "Sword Coast Adventurer's Guide - Flipbook by Ralvagar \| FlipHTML5"), [FlipHTML5](https://fliphtml5.com/vovua/glts/Sword_Coast_Adventurer_Guide?utm_source=chatgpt.com "Sword Coast Adventurer Guide - Flipbook by Twitchedup0989 \| FlipHTML5"))               |
-| **Economy**                        | Rich mining center (gems, ore), exports weapons/armor, docks ships on islands; advanced everbright metallurgy ([FlipHTML5](https://fliphtml5.com/tbbno/gjjy?utm_source=chatgpt.com "Sword Coast Adventurer's Guide - Flipbook by Ralvagar \| FlipHTML5"), [FlipHTML5](https://fliphtml5.com/vovua/glts/Sword_Coast_Adventurer_Guide?utm_source=chatgpt.com "Sword Coast Adventurer Guide - Flipbook by Twitchedup0989 \| FlipHTML5"))   |
-| **History**                        | Built by Prince Ereskas ~800 years ago atop Gharraghaur mines; everbright discovery; tensions with Mithral Hall and Gauntlgrym ([AnyFlip](https://anyflip.com/pdxkx/hxck/basic/51-100?utm_source=chatgpt.com "D&D 5e Sword Coast Adventurer's Guide - Flip eBook Pages 51-100 \| AnyFlip"), [FlipHTML5](https://fliphtml5.com/tbbno/gjjy?utm_source=chatgpt.com "Sword Coast Adventurer's Guide - Flipbook by Ralvagar \| FlipHTML5"))  |
-| **Areas & Regions**                | Surface city, dwarven undercity, river islands, fortified docks and hills ([AnyFlip](https://anyflip.com/pdxkx/hxck/basic/51-100?utm_source=chatgpt.com "D&D 5e Sword Coast Adventurer's Guide - Flip eBook Pages 51-100 \| AnyFlip"), [FlipHTML5](https://fliphtml5.com/vovua/glts/Sword_Coast_Adventurer_Guide?utm_source=chatgpt.com "Sword Coast Adventurer Guide - Flipbook by Twitchedup0989 \| FlipHTML5"))                      |
-| **Primary Structures & Buildings** | Council Hall, mine shafts, docks, city fortifications, island harbors ([AnyFlip](https://anyflip.com/pdxkx/hxck/basic/51-100?utm_source=chatgpt.com "D&D 5e Sword Coast Adventurer's Guide - Flip eBook Pages 51-100 \| AnyFlip"), [FlipHTML5](https://fliphtml5.com/vovua/glts/Sword_Coast_Adventurer_Guide?utm_source=chatgpt.com "Sword Coast Adventurer Guide - Flipbook by Twitchedup0989 \| FlipHTML5"))                          |
-| **Additional Notable Locations**   | Mirabar Underdark Gate rumored undead lair; trade embassies; magical protective enchantments ([Reddit](https://www.reddit.com/r/dndmaps/comments/q5k0kf?utm_source=chatgpt.com "Trouble for Mirabar - The Way In"), [Reddit](https://www.reddit.com/r/Forgotten_Realms/comments/1f1k3ju?utm_source=chatgpt.com "Mirabar, Undead incursion and Lady Gemcloak"))                                                                          |
-| **Notable People & Factions**      | Marchion Selin Raurym; Council of Sparkling Stones; Axe of Mirabar; Lords’ Alliance ([Reddit](https://www.reddit.com/r/Forgotten_Realms/comments/ebciae?utm_source=chatgpt.com "My main problem with Sundabar & Mirabar is the same"), [FlipHTML5](https://fliphtml5.com/tbbno/gjjy?utm_source=chatgpt.com "Sword Coast Adventurer's Guide - Flipbook by Ralvagar \| FlipHTML5"))                                                       |
-| **NPCs**                           | Selin Raurym, high-ranking dwarven council elders, guild-lord diplomats reserve representatives ([FlipHTML5](https://fliphtml5.com/tbbno/gjjy?utm_source=chatgpt.com "Sword Coast Adventurer's Guide - Flipbook by Ralvagar \| FlipHTML5"), [Reddit](https://www.reddit.com/r/TyrannyOfDragons/comments/1dbjkwu?utm_source=chatgpt.com "Adding Mirabar to the Council of Waterdeep"))                                                   |
-| **Primary Religion(s)**            | Moradin and dwarven deities dominate; general reverence for dwarven pantheon; philosophical dwarven mindset ([FlipHTML5](https://fliphtml5.com/tbbno/gjjy?utm_source=chatgpt.com "Sword Coast Adventurer's Guide - Flipbook by Ralvagar \| FlipHTML5"), [FlipHTML5](https://fliphtml5.com/vovua/glts/Sword_Coast_Adventurer_Guide?utm_source=chatgpt.com "Sword Coast Adventurer Guide - Flipbook by Twitchedup0989 \| FlipHTML5"))     |
-| **Additional Details**             | Everbright craftsmanship; small but wealthy; invests heavily in defenses; politically cautious and conservative ([FlipHTML5](https://fliphtml5.com/tbbno/gjjy?utm_source=chatgpt.com "Sword Coast Adventurer's Guide - Flipbook by Ralvagar \| FlipHTML5"), [FlipHTML5](https://fliphtml5.com/vovua/glts/Sword_Coast_Adventurer_Guide?utm_source=chatgpt.com "Sword Coast Adventurer Guide - Flipbook by Twitchedup0989 \| FlipHTML5")) |
+![[Pasted image 20260429205802.png|550]]
 
----
 
-## 🏰 Overview & History
+Mirabar is a thriving mining city set atop a knoll on the north bank of the River Mirar, in the Sword Coast North region. The city is structured in concentric rings, leading up to the center area where the elite of the city and the marchion live. The merchant districts cross the second and third rings.  
 
-**Mirabar** is a **thriving mining city** set atop a knoll on the north bank of the River Mirar, in the Sword Coast North region ([Forgotten Realms](https://forgottenrealms.fandom.com/wiki/Mirabar?utm_source=chatgpt.com "Mirabar | Forgotten Realms Wiki - Fandom")). Founded in **626 DR** on the ruins of an ancient dwarven citadel (Gharraghaur), Mirabar rose under human colonization led by Prince Ereskas of Amn. When dwarves returned to work the mines, their combined industries made it the **wealthiest city north of Waterdeep by 1368 DR** ([World Anvil](https://www.worldanvil.com/w/toril-in-the-age-of-enialis-eearmstro/a/mirabar-settlement?utm_source=chatgpt.com "Mirabar Settlement in Toril in the Age of Enialis - World Anvil")).
+Mirabar’s governance is headed by a hereditary marchion. Day-to-day justice issues are handled by the Justiciar of the marchion. 
 
-Over centuries, it thrived as a center of **metal, gemstone, and stone mining**, supplying smithies and trade houses across Faerûn. Despite periodic threats—such as a goblin sack in 753 DR—it remained formidable ([Forgotten Realms](https://forgottenrealms.fandom.com/wiki/Mirabar?utm_source=chatgpt.com "Mirabar | Forgotten Realms Wiki - Fandom")).
+During the current time, the justiciar is [[Geldryn Axebinder]].
 
----
+In the Hall of Sparkling stones, the seat of justice and governance of Mirabar, there is a vast library of knowledge, lore, arcana, and history.  One dwarven mage there, [[Harbek Bronzewarden]], studies the tomes.
 
-## 🏛 Government & Rulers
+[[Daeric Elmlight]], a firbolg merchant, trades in mead and sundry goods in the merchant district.
 
-Mirabar’s governance is headed by a **hereditary marchion**—historically _Elastul Raurym_ (1368 DR), later _Selin Raurym_ circa 1490s DR ([Forgotten Realms](https://forgottenrealms.fandom.com/wiki/Mirabar?utm_source=chatgpt.com "Mirabar | Forgotten Realms Wiki - Fandom")). However, real power lies with the **Council of Sparkling Stones**, a 42‑member elected body of mostly dwarves (with some humans) controlling mine quotas, sales, and policy ([Forgotten Realms](https://forgottenrealms.fandom.com/wiki/Mirabar?utm_source=chatgpt.com "Mirabar | Forgotten Realms Wiki - Fandom")). The Council meets annually and can even threaten to cut off exports to enforce terms ([Scabard](https://m.scabard.com/pbs/campaign/3951866/place/4103230?utm_source=chatgpt.com "Mirabar - Scabard")).
-
-The **marchion**, tasked with diplomacy and representation—especially within the Lord’s Alliance—often travels with a formidable retinue, using wealth for security and influence ([World Anvil](https://whitelabel.worldanvil.com/w/not-forgotten-realms-palant/a/mirabar-article?utm_source=chatgpt.com "Mirabar Settlement in Not Forgotten Realms - World Anvil")).
+Ghorza gra‑Bagol runs the Greystone Smithy in the merchant district.  She deals in martial weapons and armor, but does not do enchanting. 
 
 ---
 
@@ -219,10 +200,9 @@ While dwarves and humans dominate, you may also find:
 ---
 
 
+ **Ghorza gra‑Bagol – Greystone Smithy**
 
-### **Ghorza gra‑Bagol – Greystone Smithy**
-
-- **Description**: A formidable orcish blacksmith, Ghorza grinds away at her forge in the open, surrounded by a spacious furnace patio with benches, anvils, and storage crates [World Anvil](https://www.worldanvil.com/w/forgotten-realms-whombolino/a/mirabar-s-locations-location?utm_source=chatgpt.com).
+- **Description**: A formidable female orcish blacksmith, Ghorza grinds away at her forge in the open, surrounded by a spacious furnace patio with benches, anvils, and storage crates [World Anvil](https://www.worldanvil.com/w/forgotten-realms-whombolino/a/mirabar-s-locations-location?utm_source=chatgpt.com).
     
 - **Role**: Serves as a Common Smithing trainer and merchant, peddling arms, armor, and smithing supplies. Among her offerings are:
     
@@ -233,6 +213,6 @@ While dwarves and humans dominate, you may also find:
     - **Armour +1** – rare, retailing for 1145–2685 gp
 
 
-### **Caldrin Glassen - The Tempered Glyph
+ **Caldrin Glassen - The Tempered Glyph
 
-### **Merribell “Merri” Underbough - Merri’s Boil & Bottle
+**Merribell “Merri” Underbough - Merri’s Boil & Bottle

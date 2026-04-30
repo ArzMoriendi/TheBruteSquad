@@ -1,4 +1,4 @@
-Here’s a canon-based overview of **Longsaddle**, strictly using **official Wizards of the Coast 5e lore**—especially the _Sword Coast Adventurer’s Guide_—and the **Forgotten Realms Wiki**, which itself cites those official sources. No World Anvil content was used.
+
 
 ---
 
@@ -27,7 +27,9 @@ Here’s a canon-based overview of **Longsaddle**, strictly using **official Wiz
 
 ### Overview & Geography
 
-Longsaddle is a tiny hamlet along the **Long Road** between Triboar and Mirabar, nestled in cattle and horse ranch country of the Savage Frontier. Founded in **1042 DR** by Shardra Harpell, an escaped Calishite slave, it is a remote but magically infused settlement fully integrated into the **Lords’ Alliance** despite its size .
+Longsaddle is a tiny hamlet along the Long Road between Triboar and Mirabar, nestled in cattle and horse ranch country of the Savage Frontier. Founded in 1042 DR by Shardra Harpell, an escaped Calishite slave, it is a remote but magically infused settlement fully integrated into the Lords’ Alliance despite its size .
+
+Longsaddle is home to [[DM_Daeric Elmlight]] and is where [[DM_Sarhice]] originally hails from 
 
 ### Government & Politics
 

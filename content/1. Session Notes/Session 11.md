@@ -11,15 +11,15 @@
  
 Our adventure resumes with the Brute Squad on the Long Road.
 
-The party had accepted a ride from a tall, friendly stranger named Daeric Elmlight.  They learned later that he is a firbolg, a giant-kin with bovine features.  
+The party had accepted a ride from a tall, friendly stranger named [[Daeric Elmlight]].  They learned later that he is a firbolg, a giant-kin with bovine features.  
 
 He asked the party more information about themselves, where they were from, how they came together, and information about where they were headed. 
 
 They talked through their journey up the long road, camping overnight.
 
-They talked about Kragnoroth and how they were headed to Luskan.  Daeric had heard of Luskan and told them a little of what he knew about the pirate lords. 
+They talked about [[Kragnoroth the Drunk|Kragnoroth]] and how they were headed to [[Luskan]].  Daeric had heard of Luskan and told them a little of what he knew about the pirate lords. 
 
-He told them about his background (came from a firbolg druid conclave), settled in Longsaddle and runs a farm and apiary where he peddles grains, wines, and mead.  Specifically Elmlight Gold. He has a wife, Marta, and three kids: Tirna, Orlem, and Bree.
+He told them about his background (came from a firbolg druid conclave), settled in [[Longsaddle]] and runs a farm and apiary where he peddles grains, wines, and mead.  Specifically Elmlight Gold. He has a wife, Marta, and three kids: Tirna, Orlem, and Bree.
 
 Bronn, Zwargie, and Veldar shared mead with Daeric, getting nice and toasty. 
 

@@ -12,9 +12,9 @@ Small Frontier village in the Northern part of the Sword Coast, several miles/km
 - Dusthoof Stables
 
 ### NPCs
-- Triss Hardin - Tavern Owner; Careworn face, traditional peasant garb.  She is the Farmer's daughter
+- [[DM_Triss Hardin]] - Tavern Owner; Careworn face, traditional peasant garb.  She is the Farmer's daughter
 - Valeria - Serving girl and farm hand at The Farmer's Daughter
-- Ned Drummond - Blacksmith (owner of Sparking Anvil) - Son was killed during initiation into the Flying Drunks
+- [[DM_Ned Drummond]]- Blacksmith (owner of Sparking Anvil) - Son was killed during initiation into the Flying Drunks
 - Shosven Peacesworn - Human Magistrate
 - Alyss Copperglenwz - Human Apothecary; owner of Mortar and Pestle   (attracted to Shadow Scale)
 - Artwick Stanland - Human Textile Merchant; owner of Shuttle and Loom (attracted to Shadow Scale)
@@ -24,5 +24,4 @@ Small Frontier village in the Northern part of the Sword Coast, several miles/km
 - Galeric Darkbane - half-elf, ranger, hunter/trapper - taxidermiest - \
 - Franz - magistrate assistant (deceased)
 - Moldren Duskfire - Female half-drow, work hand.  Stable owner
-- 
 

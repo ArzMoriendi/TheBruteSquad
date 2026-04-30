@@ -6,7 +6,7 @@ Bald, goliath, with gray skin and dark tattoo markings.
 Subclass: Path of the Beast
 
 Where he came from:
-Frostfang Tribe; Spine of the world 
+Frostfang Tribe; [[Spine of the World]]
 
 ### Rank
 Level 4 Barbarian

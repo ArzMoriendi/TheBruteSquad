@@ -11,7 +11,7 @@
 
 Our adventurers awake after a long rest on the hillside and start making their way up the foothills into the mountain.  As they make their way up, the snow begins coming down, obscuring their path.  Thankfully, the make sufficient survival checks to find the pathway up the hill.
 
-As they near Hammerfall Run, Leyawiin notices that the mountains become eerily silent, amplified by the fresh and falling snow.  
+As they near [[Hammerfall Run]], Leyawiin notices that the mountains become eerily silent, amplified by the fresh and falling snow.  
 
 The party progresses slowly, finally seeing the guard tower, gate, and palisade of Hammerfall Run.  A closer inspection reveals damage, an open gate, and an empty entry way. Footfalls show a combination of dwarves, humans, and goliath.  Marks of necromancy throughout the area. 
 
@@ -19,7 +19,7 @@ The party explores further, seeing signs of fighting, but no bodies and no comba
 
 They continue to search, exploring a storage shed next to the cabin.  Inside, they hear a squeak and whimper and discovered an aged dwarf hiding in the back.  Questioning him, they learn he is the foreman Durni Copperpick, and he is absolutely terrified.  Upon discussion, the party learns that Goliaths, supported by undead, raided the camp.  He mentions a search for something called the Stoneheart Reliquary.  The party asks for a map and he hastily draws one up and hands it over.  Zwarg intimidates Durni to lead them, to which he agrees after thoroughly soiling himself.  
 
-After gentle discussion, the party agrees to allow Durni to go, but they ask him to go back to Mirabar and convince the Justiciar that Veldar had nothing to do with the attack.  He agrees and goes to his cabin to change his pants. 
+After gentle discussion, the party agrees to allow Durni to go, but they ask him to go back to [[Mirabar]] and convince the Justiciar that Veldar had nothing to do with the attack.  He agrees and goes to his cabin to change his pants. 
 
 The party continues to explore and investigate, taking a look at the smelting forge and the tool yard. 
 

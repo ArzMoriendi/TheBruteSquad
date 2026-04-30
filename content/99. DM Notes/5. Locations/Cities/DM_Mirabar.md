@@ -1,4 +1,5 @@
 Here’s a detailed overview of **Mirabar**, based on official D&D lore and the Forgotten Realms Wiki:
+![[Pasted image 20260429212739.png|478]]
 
 | Section                            | Key Highlights                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -24,6 +25,16 @@ Here’s a detailed overview of **Mirabar**, based on official D&D lore and the 
 **Mirabar** is a **thriving mining city** set atop a knoll on the north bank of the River Mirar, in the Sword Coast North region ([Forgotten Realms](https://forgottenrealms.fandom.com/wiki/Mirabar?utm_source=chatgpt.com "Mirabar | Forgotten Realms Wiki - Fandom")). Founded in **626 DR** on the ruins of an ancient dwarven citadel (Gharraghaur), Mirabar rose under human colonization led by Prince Ereskas of Amn. When dwarves returned to work the mines, their combined industries made it the **wealthiest city north of Waterdeep by 1368 DR** ([World Anvil](https://www.worldanvil.com/w/toril-in-the-age-of-enialis-eearmstro/a/mirabar-settlement?utm_source=chatgpt.com "Mirabar Settlement in Toril in the Age of Enialis - World Anvil")).
 
 Over centuries, it thrived as a center of **metal, gemstone, and stone mining**, supplying smithies and trade houses across Faerûn. Despite periodic threats—such as a goblin sack in 753 DR—it remained formidable ([Forgotten Realms](https://forgottenrealms.fandom.com/wiki/Mirabar?utm_source=chatgpt.com "Mirabar | Forgotten Realms Wiki - Fandom")).
+
+The city is structured in concentric rings, leading up to the center area where the elite of the city and the marchion live. The merchant districts cross the second and third rings.  
+
+Mirabar’s governance is headed by a hereditary marchion. Day-to-day justice issues are handled by the Justiciar of the marchion. 
+
+During the current time, the justiciar is [[DM_Geldryn Axebinder]].
+
+In the Hall of Sparkling stones, the seat of justice and governance of Mirabar, there is a vast library of knowledge, lore, arcana, and history.  One dwarven mage there, [[DM_Harbek Bronzewarden]], studies the tomes.
+
+[[DM_Daeric Elmlight]], a firbolg merchant, trades in mead and sundry goods in the merchant district.
 
 ---
 
@@ -220,10 +231,13 @@ While dwarves and humans dominate, you may also find:
 
 
 
-### **Ghorza gra‑Bagol – Greystone Smithy**
+**Ghorza gra‑Bagol – Greystone Smithy**
 
 - **Description**: A formidable orcish blacksmith, Ghorza grinds away at her forge in the open, surrounded by a spacious furnace patio with benches, anvils, and storage crates [World Anvil](https://www.worldanvil.com/w/forgotten-realms-whombolino/a/mirabar-s-locations-location?utm_source=chatgpt.com).
-    
+
+Ghorza gra‑Bagol runs the Greystone Smithy in the merchant district.  She deals in martial weapons and armor, but does not do enchanting. 
+
+
 - **Role**: Serves as a Common Smithing trainer and merchant, peddling arms, armor, and smithing supplies. Among her offerings are:
     
     - **Frost-biter (battle axe)** – uncommon, cost ranges 750–1250 gp
@@ -233,6 +247,6 @@ While dwarves and humans dominate, you may also find:
     - **Armour +1** – rare, retailing for 1145–2685 gp
 
 
-### **Caldrin Glassen - The Tempered Glyph
+ **Caldrin Glassen - The Tempered Glyph
 
-### **Merribell “Merri” Underbough - Merri’s Boil & Bottle
+ **Merribell “Merri” Underbough - Merri’s Boil & Bottle

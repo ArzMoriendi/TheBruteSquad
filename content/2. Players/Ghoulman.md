@@ -16,7 +16,7 @@ Seek out knowledge
 
 
 ### Backstory:
-Haunted by the loss from a Great War lead by a supposedly close friend that took those that they loved most, Ghoulman learned early that the world offers no mercy without someone willing to fight for it. The grief carved something deep and cold inside them: a heart of darkness forged from anger, guilt, and a relentless need for control. Yet, beneath that shadow, compassion still flickers. They channel their pain into purpose, helping others in ways they wish someone had helped them. Every act of kindness is both atonement and rebellion against the cruelty that took so much from them. People see a savior with a haunted stare - someone driven not by hope, but by the refusal to let others suffer the same fate.
+Haunted by the loss from a Great War lead by a supposedly close friend that took those that they loved most, GhoulMan learned early that the world offers no mercy without someone willing to fight for it. The grief carved something deep and cold inside them: a heart of darkness forged from anger, guilt, and a relentless need for control. Yet, beneath that shadow, compassion still flickers. They channel their pain into purpose, helping others in ways they wish someone had helped them. Every act of kindness is both atonement and rebellion against the cruelty that took so much from them. People see a savior with a haunted stare - someone driven not by hope, but by the refusal to let others suffer the same fate.
 
 My name is Sergeant Ragnar Bloodfist, but I go by GhoulMan now. After watching my wife (Princess Rion) and three children (Ty the Tantrum , Brooks the Whimsical, and Ryse the Wise,) slaughtered by the invading force of gnolls, I have lost my sense of self.  
 

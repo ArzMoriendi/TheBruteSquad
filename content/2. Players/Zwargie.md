@@ -11,7 +11,7 @@ Aligned to [[Lathander]]
 Carries a 
 
 ### Rank
-Level 3 Paladin
+Level 4 Paladin
 
 ### Personal Quest
 Solve mystery of his lost memory

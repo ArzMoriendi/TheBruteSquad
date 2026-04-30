@@ -28,11 +28,11 @@ Bronn and Sarhice's shift was uneventful.
 
 During Shadow Scale and Veldar's shift, Shadow Scale had an urgent call of nature. While gone, a large beast came up stalking Veldar. Veldar grappled with the beast. Back and forth, the creature and Veldar were matched strength. Finally the beast ran away leaving Veldar empowered with the Path of the Beast.
 
-The party awoke and made their way into town. They stopped by the Tavern and found [[Erentir|Ned]] passed out drunk at the bar. They took him home. They obtained smelling salts from an apothecary, went back and woke him up. He promised them payment if they came back the next day.
+The party awoke and made their way into town. They stopped by the Tavern and found [[Ned Drummond|Ned]] passed out drunk at the bar. They took him home. They obtained smelling salts from an apothecary, went back and woke him up. He promised them payment if they came back the next day.
 
 They obtained a shirt and pants from a clothier for Veldar.
 
-The party went to the Magistrate's office to seek out their reward. They learned Franz was hung for lying and usurping power. The Magistrate ([[Erentir|Shosven Peacesworn]], human, in fine, we'll kept robes but looking distinctively careworn in face.) offered a small amount of gold for reward (50, upped to 100). He told them they may be able to go to Luskan for more. He asks who they are, and they decide to call themselves "The Brute Squad." He writes a letter that covers meals and board at *The Farmer's Daughter* while they are in Erentir as additional repayment and sends it to [[Erentir|Triss]].
+The party went to the Magistrate's office to seek out their reward. They learned Franz was hung for lying and usurping power. The Magistrate ([[Erentir|Shosven Peacesworn]], human, in fine, we'll kept robes but looking distinctively careworn in face.) offered a small amount of gold for reward (50, upped to 100). He told them they may be able to go to [[Luskan]] for more. He asks who they are, and they decide to call themselves "The Brute Squad." He writes a letter that covers meals and board at *The Farmer's Daughter* while they are in Erentir as additional repayment and sends it to [[Triss Hardin|Triss]].
 
 They spend the night, Leyawiin with Valerie the serving girl, Sarhice and Bronn in a room. Shadow Scale and Veldar in the stables, and Zwargie out by the tree. Zwargie hears a voice stating "You have done well. Continue forth and vanquish evil."
 

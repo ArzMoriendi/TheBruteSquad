@@ -7,7 +7,7 @@ Fiery red hair
 Subclass: Evoker
 
 Where she came from:
-Neverwinter; 
+[[Neverwinter]]; 
 
 ### Rank
 Level 4 Wizard
@@ -15,7 +15,6 @@ Level 4 Wizard
 ### Personal Quest
 Seek out knowledge
 
-Sub: The evil order is after the text of secrets (come up with story) Order of Thay?
 
 ### Backstory
 Leyawiin, a fledgling sorceress, found herself in a whirlwind of wonder and uncertainty. Her beloved mentor, the eccentric wizard Agatha, had left her a curious inheritance: a magical bookstore filled with enchanted volumes and whispering shelves. Among these treasures, Leyawiin stumbled upon a strange, ancient text, its pages radiating an otherworldly power.

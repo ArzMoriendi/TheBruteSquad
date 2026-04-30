@@ -33,7 +33,7 @@ Abernathy's rise began when he sponsored a group of adventurers in the **Ruins o
 
 Though his adventurers were often successful, they were little more than tools in Boniface’s larger plan. The man behind the curtain, he began taking a hefty percentage of their earnings, sometimes up to 50%—or more, if a job went sideways. He learned how to manipulate contracts, twist promises, and convince adventurers to take greater risks for a share of the potential rewards. Over time, his network expanded from small-time treasure hunters to larger mercenary bands, political operatives, and even **rogue wizards** with questionable allegiances.
 
-Boniface established his operations in **Waterdeep**, leveraging its influence and wealth to secure powerful patrons and allies, using his charm to smooth over rough edges when necessary. Over the years, his influence spread, and he soon became one of the most recognized—and feared—patrons in the **Sword Coast**. He is now the owner of a lavish mansion near the **City of Splendors** and regularly hosts grand soirées attended by nobles, adventurers, and influential figures.
+Boniface established his operations in [[DM_Waterdeep]], leveraging its influence and wealth to secure powerful patrons and allies, using his charm to smooth over rough edges when necessary. Over the years, his influence spread, and he soon became one of the most recognized—and feared—patrons in the **Sword Coast**. He is now the owner of a lavish mansion near the **City of Splendors** and regularly hosts grand soirées attended by nobles, adventurers, and influential figures.  He established a trade location in [[DM_Neverwinter]] and moved his headquarters there.  
 
 ---
 

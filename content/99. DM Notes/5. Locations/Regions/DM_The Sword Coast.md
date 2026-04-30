@@ -1,4 +1,5 @@
-Here’s a richly detailed and official 5e–era profile of the **Sword Coast**, drawing exclusively from the _Sword Coast Adventurer’s Guide_, _Storm King’s Thunder_, and other canonical Wizards of the Coast sources, along with verified information from the Forgotten Realms Wiki.
+[[Waterdeep]], [[Neverwinter]], [[Mirabar]], and [[Luskan]] are major or notable cities in the area known as the Sword Coast.
+
 
 ---
 

@@ -28,7 +28,7 @@ When the winds finally died down, the party set out once more. The descent was s
   
 Hours later, through thinning snow and rising dawn, Mirabar came into view—its tiered rings cut into the mountainside, lights glimmering across stone walls and high bridges. At the outer guard post, the party presented their papers and explained their return. Before long, Captain Durnan Kraghelm appeared, grizzled and familiar. He looked them over and said simply that the Justiciar had told him to expect them.  
   
-Escorted across the bridge and into the city proper, the Brute Squad was once again brought before Geldryn Axebinder, Justiciar of the Marchion. He listened as Derni Copperpick confirmed their deeds at Hammerfall Run. Bronn spoke of the ancient dwarven burial chamber and the consecration that would prevent the dead from ever rising again. Veldar stood cleared of suspicion at last.  
+Escorted across the bridge and into the city proper, the Brute Squad was once again brought before Geldryn Axebinder, Justiciar of the Marchion. He listened as Durni Copperpick confirmed their deeds at Hammerfall Run. Bronn spoke of the ancient dwarven burial chamber and the consecration that would prevent the dead from ever rising again. Veldar stood cleared of suspicion at last.  
   
 Then the party presented the stone. Geldryn’s reaction was immediate and unguarded. Taking the relic in hand, he said, “This is no mere spoil. You’ve carried something out of legend. This is the Stoneheart Reliquary.” He explained that it was a historical dwarven artifact, capable of transmuting deep veins of ordinary ore into their purest forms, long thought lost to history. Looking at the party, he added that what they had placed into his care could shape the fate of Mirabar itself.  
   
