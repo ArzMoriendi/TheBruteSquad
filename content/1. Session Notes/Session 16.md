@@ -11,6 +11,7 @@
  
 
 When last we left our adventurers…  
+
 The Brute Squad stood within the depths of [[Hammerfall Run]], in a ritual chamber carved of stone and intent. Goliath zombies lay destroyed at the threshold. Beyond them, the hexagonal chamber worked stone and natural pillars, centered on a raised dais where a stunning stone and ruby gem hovered and pulsed as if alive.  
 The battle had nearly turned against them. As GhoulMan rushed ahead, he found a living goliath guarding the dais and a Thayan mage mid ritual. With a word and a gesture, the mage twisted his will, turning him against the party with a simple, brutal command: “Kill your friends.” It was only through Zwargie’s Compel Duel that her concentration broke and GhoulMan was freed. As the tide of battle shifted against the adversary goliath and the mage, the mage unleashed a Cone of Cold, freezing both goliaths in place before vanishing from the chamber entirely. The surviving goliath died where she stood, frozen and unmoving, her body too brittle to even search.  
 When the battle finally ended, the chamber fell silent. Using fire, torches, magic, and even burning zombie remains, the party worked slowly to thaw Veldar from solid ice. Leyawiin and Bronn examined the hovering stone, learning that it radiated transmutation magic and had been tainted by necromancy. With no further threats apparent, the party chose to rest in the ritual chamber itself.  
@@ -19,7 +20,7 @@ During the long rest, each of the Brute Squad was changed.
 In the depths of sleep, Veldar felt once more the presence he had faced in darkness before—the same primal force that had tested him on the mountainside. It did not threaten or speak, but when he woke, he felt stronger, heartier, more firmly rooted in the power of the Beast.  
 Zwargie was visited again by the voice he recognized all too well, the one that had guided and tempted him before. There was a sense of pride and pleasure in it as it spoke: “You’ve done well. I will make you stronger.” When he woke, he found that power had answered the promise.  
 GhoulMan’s rest was no rest at all. Terror and memory interwove as visions of his home returned to him—his wife, Princess Rion, and his children, Ty the Tantrum, Brooks the Whimsical, and Ryse the Wise, slaughtered in the gnoll invasion. Once a gladiator, once a father, now something else entirely. Rage and grief hardened into resolve. In his mind, he made a vow to become faster, stronger, deadlier. Revenge and death were all that remained to him, and the darkness answered.  
-  
+
 Leyawiin alone awoke dissatisfied. Where the others felt renewed or resolved, she felt uncertain and frustrated. Bladesinging no longer sat right with her. In the quiet after battle, she found herself wishing she could speak to her mentor again, but she was deep in a mountain cave, far from guidance, with only the path ahead to choose.  
 When the party finally stirred and prepared to leave the ritual chamber, GhoulMan lingered in silence, staring into the dark stone as if it might stare back.  
   
@@ -42,7 +43,7 @@ Demonstrating his command of flame, he offered to teach her what he could, telli
   
 With business concluded, the party dispersed through Mirabar. Weapons were traded and reforged at Greystone Smithy under the watchful eye of [[Mirabar|Ghorza gra-Bagol]]. Armor was ordered and purchased. Spell components were gathered. At last, the Brute Squad reconvened at [[Daeric Elmlight]]’s establishment, sharing warmth, mead, and rooms for the night (LONG REST).  
 There, at last, they rested—not as suspects or fugitives, but as proven adventurers in the eyes of Mirabar.  
-  
+ 
 And with roads, seas, and portals now open before them, the question lingered as the session came to a close.  Where would the Brute Squad go next?
 
 Major Rewards  

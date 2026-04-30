@@ -11,6 +11,7 @@
 [[Veldar]]
 
 ### Scene Setter
+**CHES 15**
 After a long rest, our party wakes in the evening hours. Jethro the wolf has ran off.   Loreli and Artiran are deep in discussion.  Loreli tells the party that this isn't what she expected and her old bones are a bit sore.  She's off to find opportunities elsewhere and Artiran is going with her.  B'Imbo croaks that he wants to go with the old woman.  The three of them move off on their own adventure. 
 
 Leyawiin, Shadow Scale, and Zwargie discuss next steps.  Shadow Scale suggests going into town to find more adventurers and the other two agree.  They begin traveling towards Erentir.  As they follow the path, they hear a noise coming towards them.  After a while, a very battered elf appears stumbling towards them.  He tells how he was ambushed and his party killed by a gang of thugs. They ask him his name and if he can recall anything about the gang. Sarhice recalls the logo of the Flying Drunks and the name [[Kragnoroth the Drunk]]. The party decide to continue their adventure and seek revenge. 

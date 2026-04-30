@@ -8,6 +8,7 @@
 [[Zwargie]]
 
 ### Scene Setter
+**CHES 14**
 Our party decides to take a rest and several things happen at once.  A haze descends across the group and Kallíspallí disappears. All party members have no memory of her and their memories of her part of the party are now attributed to other members. Loreli, B'Imbo, Leyawiin, Zwargie, and Shadow Scale are contacted by deities in their dream and have new powers imparted on them.  The party levels up.
 
 Continuing our adventure with our party, our group of intrepid explorers breach the door that they unlocked. On the other side, they encounter 8 sleeping shapes (guards and bandits).  B'Imbo attempts to stealthily travel through the sleeping group, but unfortunately wakes up a sleeping guard.  This initiates a melee. Zwargie, Shadow Scale, and Artiran each deal a healthy amount of damage, each killing an enemy or two, while Leyawiin, B'Imbo, and Loreli send spells and magical support.  Leyawiin lands the killing blow, if igniting a guard on fire.  

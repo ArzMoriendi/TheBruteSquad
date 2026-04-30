@@ -14,7 +14,7 @@ Our heroic adventurers continue on through the caverns of the Flying Drunks.  Th
 The group loot the bodies and pick up 17cp
 
 Our group, suffering, decides to take risk a long rest, hiding in the empty wine barrels in the storage closet space.  While there, they hear chittering, but do not get noticed. 
-
+**CHES 13**
 When they wake, Loreli attempts to tame animal on Jethro, but fails.  
 
 They continue on and notice an area overgrown with spider webs.  They attempt to stealth past but their movements are noticed by 4 giant wolf spiders.  In an attempt to control them, Shadow Scale jumps forward and lunges with the head of Vanessa and tells the spiders to back down.  They do not.  The party works swiftly to kill the Spiders.  

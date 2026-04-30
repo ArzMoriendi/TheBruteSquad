@@ -9,6 +9,7 @@
 [[Zwargie]]
 
 ### Scene Setter
+**CHES 12**
 Coming off of a long rest, Kallí takes note of the body, skin, and overall structure of the Owl Bear, noting it in her book.  The party makes its way further into the forest to the entrance to a cave.  At the entrance, they find 4 guards and 2 bandits. They work to dispatch the guards and the bandits.  
 
 Shadow Scale attempts to sneak up, but draws the attention of a guard.  He immediately dispatches the guard, alerting the party to intruders.  The party in the shadows work to quickly kill all the hostile combatants. 

@@ -12,7 +12,7 @@
 
 Our session picks up with The Brute Squad preparing to enter the recently opened section inside the mines of Hammerfall Run. They successfully solved the puzzle to cause the doors to open and were reviewing how best to move forward when an anomaly distracted them.
 
-A rifft opened in the cavern room, tearing through the plane, and a large, humanoid entity came through. As he stood up, the party saw a dirty tiefling man who called himself GhoulMan. He described how he was running from a war in his home territory and he had lost all the people he loved and an unknown magic user caused him to fall through the rift.
+A rift opened in the cavern room, tearing through the plane, and a large, humanoid entity came through. As he stood up, the party saw a dirty tiefling man who called himself GhoulMan. He described how he was running from a war in his home territory and he had lost all the people he loved and an unknown magic user caused him to fall through the rift.
 
 After a short discussion, the party invited GhoulMan to join them on their current adventure and gave him a quick rundown of what was happening. 
 

@@ -40,6 +40,7 @@ The party made their way back to the primary chamber and went down the right-han
 
 The Brute squad made their way back to the burial chamber, where Bronn casts _Ceremony_, dispelling the magic ward in the area and allowing the buried dwarves to rest in perpetuity.  Finding the area safe, the party camped by the front door (full rest), and then left to explore further into the cavern.
 
+**CHES 22**
 After their rest, the party made its way to the primary chamber, going through a recently broken through cavern and discovering another larger, metallic and stone wrought doorway with three interlocking hexes.  Investigation and perception shows one panel damaged by physical attacks, bearing scratches, dents, and pock marks, and one panel with scorch marks, lightning, etching, and other arcane marks.  The third panel bears very minimal marks, but shows images of crowns, gems, and jewels.
 
 After further investigation, the party finds another poem in Dwarven runes. Bronn translates:

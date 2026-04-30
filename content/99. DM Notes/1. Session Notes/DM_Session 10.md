@@ -42,12 +42,11 @@ Shadow Scale gets up and explores the cave, finding the common sleeping chamber 
 After some back and forth between Shadow Scale, Leyawiin, and Scil, Scil returns Leyawiin’s spell book.
 
 The party is invited to stay the night by the kobolds and decide it is the best for safety. During the night, one of the younger kobolds attempts to steal from the party again, but Bronn uses sacred flame, scorching the kobold and ensuring no further disturbances in the night.
-
+**CHES 20**
 They wake the next day (after a long rest) and thank their hosts for the meal and the chance to rest. Egga apologizes for the issues caused by the theft and assures them that they have the friendship of the kobolds of the Emberforge Outpost and the Neverwinter Woods kobold tribe. Our heroes make their way back to the Long Road, eventually heading north on foot.
 
-After a short while on the road, the party is overtaken by a wagon being driven by a large humanoid. They hail him and after a short exchange purchase some wine and offer compensation to be taken to Mirabar. He agrees and the party clambers into the wagon and starts their long trek north..  
+After a short while on the road, the party is overtaken by a wagon being driven by a large humanoid. They hail him and after a short exchange purchase some wine and offer compensation to be taken to Mirabar. He agrees and the party clambers into the wagon and starts their long trek north.
 
-End inside the tower.  
 
 ### Current Threads
 #### Kragnoroth The Drunk

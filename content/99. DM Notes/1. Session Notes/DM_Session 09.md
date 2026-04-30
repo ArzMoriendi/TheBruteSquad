@@ -18,7 +18,7 @@ They then head to the general store and purchase bedrolls and tents, haggling th
 Their last stop is at the stables to see if they can rent or purchase a mule or horse.  After discussing the costs, they determine that they will trek and carry their gear.  
 
 They depart the town and head north. After a day of travel, they make camp on the side of the road. As they prepare to bed down, they talk about their past and experiences.  We learn that Sarhice is from Longsaddle and Veldar is from the Spine of the World.  They agree to take shifts for watch and bed down.  During Leyawiin's shift, she spots a shape and wake's Sarhice.  They determine it's a bear and use a spell to convince the bear to depart.  
-
+**CHES 19**
 No other shifts reported any issues. However, Leyawiin notices several items missing when she woke as did Bronn.  A quick inventory showed the following items missing:
 Leyawiin: spellbook, lamp, tinderbox, parchment, dagger
 Veldar: banana hammock

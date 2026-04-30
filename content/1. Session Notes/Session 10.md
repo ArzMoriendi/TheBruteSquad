@@ -47,6 +47,5 @@ They wake the next day (after a long rest) and thank their hosts for the meal an
 
 After a short while on the road, the party is overtaken by a wagon being driven by a large humanoid. They hail him and after a short exchange purchase some wine and offer compensation to be taken to Mirabar. He agrees and the party clambers into the wagon and starts their long trek north.
 
-End inside the tower.  
 
 

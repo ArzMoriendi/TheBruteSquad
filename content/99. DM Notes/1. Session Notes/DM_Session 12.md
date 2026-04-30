@@ -32,7 +32,7 @@ Bronn - 5 copper
 Sarhice - Fitting Gloves
 
 The party moves off the path, makes camp, and settles in for a long rest. (Northwest).  
-
+**CHES 21**
 
 ### Current Threads
 #### Kragnoroth The Drunk
