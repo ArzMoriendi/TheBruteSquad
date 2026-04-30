@@ -1,5 +1,5 @@
 
-![[dr4gon-5oul-.jpg|382]]
+![[Boniface.jpg|382]]
 Boniface Abernathy is a striking figure at first glance—a tall, broad-chested man with a commanding presence. His thick red hair, though thinning in patches, remains proudly atop his head, often slicked back with an extra layer of pomade that adds an exaggerated sheen to his appearance. His face is ruddy, as though he’s spent years basking in the sun, but it's the bright green eyes that captivate most who meet him—they glint with an energy that borders on mischievous, almost as if he knows something you don’t. His laughter is loud and contagious, often filling a room, and his mannerisms are bold and expressive, a true performer.
 
 He dresses well, but with a deliberate flamboyance that screams "I have money to spare" while not being too ostentatious. His tailored coats, embroidered with subtle gold thread, and shiny boots are always perfectly maintained. However, there's a touch of discomfort about him—his wardrobe is slightly too tight around the chest and waist, as though he’s still trying to project an image of the adventurer he once was, even though the body has long since outgrown it.

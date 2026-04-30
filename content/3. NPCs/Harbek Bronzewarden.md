@@ -1,1 +1,1 @@
-![[Pasted image 20260427225313.png|464]]
+![[Harbek.png|464]]

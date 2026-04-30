@@ -1,1 +1,1 @@
-![[Pasted image 20260427224903.png|442]]
+![[Durnan.png|442]]

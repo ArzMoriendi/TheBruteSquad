@@ -1,0 +1,1 @@
+![[Wizard's Tower (basement 2, digital, grid).jpg]]

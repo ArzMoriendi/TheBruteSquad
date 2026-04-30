@@ -1,5 +1,5 @@
 
-![[Pasted image 20260429205802.png|550]]
+![[Mirabar.png|550]]
 
 
 Mirabar is a thriving mining city set atop a knoll on the north bank of the River Mirar, in the Sword Coast North region. The city is structured in concentric rings, leading up to the center area where the elite of the city and the marchion live. The merchant districts cross the second and third rings.  

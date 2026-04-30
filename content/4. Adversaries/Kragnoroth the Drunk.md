@@ -4,11 +4,11 @@ Kragnoroth the Drunk is a **seasoned human fighter**, known for his skill in com
 He dresses in **well-kept studded leather armor** that balances protection and mobility, and wields a **scimitar and dagger**, both meticulously maintained. His appearance is rugged but composed, with sharp, intelligent eyes that betray a keen mind.
 
 
-![[Pasted image 20260428214017.png|251]]
+![[Kragnoroth.png|251]]
 
 He was in a relationship with a Yuan-Ti Pureblood named Vanessa
 
-![[Pasted image 20260428214058.png|184]]
+![[Vanessa.png|184]]
 
 #### History & Important Lore
 

@@ -11,6 +11,12 @@ The Kobolds of the Emberforge Outpost are:
 - Vend  
 - Shrim
 
-![[Pasted image 20260428215048.png|473]]
-
+Ding:
+![[Ding.png|346]]
+Kud/Vend/Shrim:
+![[Kud.png]]
+Qarux:
+![[Qarux.png]]
+Scil:
+![[Scil.png]]
 Egga explains that Qarux was banished from the overall kobold society in the Neverwinter Woods due to his inventions and eccentricity. However, the kobold elders did not want to lose sight of what he was working on, so they assigned the security detail led by Ding and support from Egga as a den mother to ensure Qarux’s safety and support.
