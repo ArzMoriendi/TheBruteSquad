@@ -1,15 +1,17 @@
 ---
-tags:
+Tags:
   - player-character
   - dnd
   - campaign
-created: {{date}}
-updated: {{date}}
+Type: Player Character
+Created: <% tp.date.now("YYYY-MM-DD") %>
+Updated: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
-# {{Character Name}}
+# <% tp.file.title %>
 
 > **Player:** {{Player Name}} 
+> **Character Sheet:** {{Link to PDF sheet}}
 > **Full Name:** {{Character Full Name}}
 > **Race:** {{Race}}  
 > **Class(es):** {{Class(es)}}  
@@ -84,14 +86,6 @@ Describe the character’s upbringing, major life events, defining traumas or tr
 - {{Language}}  
 - {{Language}}  
 
----
-
----
-
-# DM NOTES
-
-> Remove this section from player-facing notes if desired.
-
 
 ## Trinkets / Special Equipment
 
@@ -99,6 +93,12 @@ Describe the character’s upbringing, major life events, defining traumas or tr
 - {{Inherited keepsake}}
 - {{Magic item}}
 - {{Odd trinket}}
+---
+
+# DM NOTES
+
+> Remove this section from player-facing notes if desired.
+
 
 
 ## Reputation / Rumors

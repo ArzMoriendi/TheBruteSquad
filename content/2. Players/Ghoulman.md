@@ -1,12 +1,13 @@
 ---
-tags:
+Tags:
   - player-character
   - dnd
   - campaign
-created: 2026-05-01
-updated: 2026-05-01
+Type: Player Character
+Created: 2026-05-01
+Updated: 2026-05-01
 ---
-
+![[GhoulMan.png|254]]
 # GhoulMan
 
 > **Player:**  Christian
@@ -103,3 +104,5 @@ After watching my family killed in the last onslaught, I vowed payback. Many of 
 - {{Inherited keepsake}}
 - {{Magic item}}
 - {{Odd trinket}}
+
+---
