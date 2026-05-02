@@ -1,9 +1,5 @@
 [![forgottenrealms.fandom.c...](https://images.openai.com/thumbnails/url/fQ9prnicu1mUUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw40CA-I8CnzNfIuMS1MTA7TzU7K87PwtPByD_DQTQuICHdKtNC1LA-KN4k0dM9O8jcMTfPJzTROzSpXKwYAmzwoCg)](https://forgottenrealms.fandom.com/wiki/Kelemvor)
 
-Here’s a **detailed, 5e‑official profile** of **Kelemvor**, the Faerûnian deity of Death and the Dead, based solely on official Dungeons & Dragons 5th Edition source material and the Forgotten Realms Wiki:
-
----
-
 ## **Kelemvor** – _Lord of the Dead, Judge of the Damned_
 
 ### 🛐 Portfolio & Domains

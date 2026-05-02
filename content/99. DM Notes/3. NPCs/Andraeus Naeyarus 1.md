@@ -19,7 +19,7 @@ Status: Alive
 
 > [!info] NPC Overview
 > **Race:** Wood Elf
-> **Gender / Identity:** {{gender}}  
+> **Gender / Identity:** Female
 > **Age:** UNK
 > **Occupation:** Bladesinger of the Emerald Grove 
 > **Class / Type:** Wizard 

@@ -1,7 +1,3 @@
-Here’s an official 5e‑era profile of **Lathander**, based exclusively on *Wizards of the Coast* 5th‑edition materials and canon-level sources like the *Forgotten Realms Wiki*:
-
----
-
 ## **Lathander** — *The Morninglord, Lord of Birth and Renewal*
 
 ### 📜 Titles & Alignment
