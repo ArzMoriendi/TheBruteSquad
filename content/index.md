@@ -1,6 +1,5 @@
 ---
 title: The Brute Squad
-draft: false
 tags:
   - dnd
   - campaign
@@ -27,3 +26,4 @@ Welcome to **The Brute Squad** Dungeons & Dragons campaign notes.
 [[Session 14]]
 [[Session 15]]
 [[Session 16]]
+[[Session 17]]

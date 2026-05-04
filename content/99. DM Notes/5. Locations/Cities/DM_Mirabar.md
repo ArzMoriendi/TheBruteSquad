@@ -250,4 +250,18 @@ Ghorza gra‑Bagol runs the Greystone Smithy in the merchant district.  She deal
 
  **Caldrin Glassen - The Tempered Glyph
 
- **Merribell “Merri” Underbough - Merri’s Boil & Bottle
+ **Merribell “Merri” Underbough - Merri’s Boil & Bottl
+
+**Saren's Sundries**  Saren Willowfoot - Halfling
+
+**Northwall Livery** Torven Hale - Human
+Torven Hale - Northwall Livery
+- Sons:  Jarek, Bren, and Collen
+
+
+**Ironwool Stables** Dagna Ironbraid - Dwarf
+
+Marmoreal - a black market facilitator.  An Earth Genasi with brown/taupe skin, cracks across like baked mud or clay, and gold eyes.   Dust and dirt rose from him as he moved.  
+
+Theriggs Darkjaw - a fence. A duergar with pale, ashen-gray skin, overly white sclera, a bald head with quills along the back of his head. 
+
