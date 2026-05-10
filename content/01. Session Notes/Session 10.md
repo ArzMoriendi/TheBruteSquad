@@ -13,7 +13,7 @@ Our adventure picks up at the mysterious tower at the base of the Crags, the foo
 
 Our party returns outside to the mysterious mound where again Bronn focuses his investigation and efforts Through communion with his patron deity, he is able to consecrate and cleanse the land of the evil radiating from the mass grave. (He also levels up and obtains his subclass)
 
-With the tower thoroughly investigated and the mound consecrated, the party turns it’s attention back to the trail of the [[kobolds]] who made off with some of their goods. Veldar and Shadow Scale are able to pick up the trail winding its way to a small cave in the foothills. Knowing draconic, Shadow Scale engages the kobolds guarding the cave trying to convince them to return the party’s property. Shadow Scale convinces one of the kobolds to fetch a leader and, after small back and forth, the leader agrees to take them further into the cave to talk to the overall kobold outpost leader.
+With the tower thoroughly investigated and the mound consecrated, the party turns it’s attention back to the trail of the [[Kobolds]] who made off with some of their goods. Veldar and Shadow Scale are able to pick up the trail winding its way to a small cave in the foothills. Knowing draconic, Shadow Scale engages the kobolds guarding the cave trying to convince them to return the party’s property. Shadow Scale convinces one of the kobolds to fetch a leader and, after small back and forth, the leader agrees to take them further into the cave to talk to the overall kobold outpost leader.
 
 Our party enters the cave and learns that the kobold leader that they are following is named Ding and they are introduced to the rest of the small troop:  
 - Areh  

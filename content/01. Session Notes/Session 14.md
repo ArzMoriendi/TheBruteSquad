@@ -8,7 +8,7 @@
 
 ### Scene Setter
  
-Our adventurers turn their attention to the mine at [[Hammerfall Run]].  They make their way into the tunnel, following the map given to them by Durni (the site foreman).  Traveling down the stone mineshaft, Zwarg triggers a trap taking damage from darts flying from the wall. Learning from this, the party uses Leyawiin and some light magic to detect and find the rest.  As they descend into the mine, they look for any signs of either the camp miners and residents or the potential attackers. 
+Our adventurers turn their attention to the mine at [[05. Locations/Cities/Hammerfall Run]].  They make their way into the tunnel, following the map given to them by Durni (the site foreman).  Traveling down the stone mineshaft, Zwarg triggers a trap taking damage from darts flying from the wall. Learning from this, the party uses Leyawiin and some light magic to detect and find the rest.  As they descend into the mine, they look for any signs of either the camp miners and residents or the potential attackers. 
 
 As the party approached the primary chamber, they detected a glyph of warding.  Zwarg sought to set it off by lobbing a weapon at it.  He overestimated his strength and caused a partial cave-in between the hit and the explosion.  The party had to dig out to clear the pathway.
 

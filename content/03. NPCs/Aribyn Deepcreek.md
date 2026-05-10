@@ -1,3 +1,5 @@
+
+
 *Lightfoot Halfling, Oath of Glory Paladin  
 Acolyte (Order of the Aster - Lathander) 
 ![[Aribyn.png|412]]

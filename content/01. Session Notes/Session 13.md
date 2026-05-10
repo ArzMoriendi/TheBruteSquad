@@ -11,7 +11,7 @@
 
 Our adventurers awake after a long rest on the hillside and start making their way up the foothills into the mountain.  As they make their way up, the snow begins coming down, obscuring their path.  Thankfully, the make sufficient survival checks to find the pathway up the hill.
 
-As they near [[Hammerfall Run]], Leyawiin notices that the mountains become eerily silent, amplified by the fresh and falling snow.  
+As they near [[05. Locations/Cities/Hammerfall Run]], Leyawiin notices that the mountains become eerily silent, amplified by the fresh and falling snow.  
 
 The party progresses slowly, finally seeing the guard tower, gate, and palisade of Hammerfall Run.  A closer inspection reveals damage, an open gate, and an empty entry way. Footfalls show a combination of dwarves, humans, and goliath.  Marks of necromancy throughout the area. 
 

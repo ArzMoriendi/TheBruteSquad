@@ -5,14 +5,14 @@
 [[Sarhice Vavoca]]
 [[Bronn the Humble]]
 [[Veldar]]
-[[GhoulMan]]
+[[Ghoulman]]
 
 ### Scene Setter
  
 
 When last we left our adventurers…  
 
-The Brute Squad stood within the depths of [[Hammerfall Run]], in a ritual chamber carved of stone and intent. Goliath zombies lay destroyed at the threshold. Beyond them, the hexagonal chamber worked stone and natural pillars, centered on a raised dais where a stunning stone and ruby gem hovered and pulsed as if alive.  
+The Brute Squad stood within the depths of [[05. Locations/Cities/Hammerfall Run]], in a ritual chamber carved of stone and intent. Goliath zombies lay destroyed at the threshold. Beyond them, the hexagonal chamber worked stone and natural pillars, centered on a raised dais where a stunning stone and ruby gem hovered and pulsed as if alive.  
 The battle had nearly turned against them. As GhoulMan rushed ahead, he found a living goliath guarding the dais and a Thayan mage mid ritual. With a word and a gesture, the mage twisted his will, turning him against the party with a simple, brutal command: “Kill your friends.” It was only through Zwargie’s Compel Duel that her concentration broke and GhoulMan was freed. As the tide of battle shifted against the adversary goliath and the mage, the mage unleashed a Cone of Cold, freezing both goliaths in place before vanishing from the chamber entirely. The surviving goliath died where she stood, frozen and unmoving, her body too brittle to even search.  
 When the battle finally ended, the chamber fell silent. Using fire, torches, magic, and even burning zombie remains, the party worked slowly to thaw Veldar from solid ice. Leyawiin and Bronn examined the hovering stone, learning that it radiated transmutation magic and had been tainted by necromancy. With no further threats apparent, the party chose to rest in the ritual chamber itself.  
   

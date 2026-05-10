@@ -9,7 +9,7 @@
 
 ### Scene Setter
  
-Our adventurers find themselves on the outer side of the northwest bridge exiting [[Mirabar]], having just secured Veldar's release and being given an opportunity to clear his name.  The party is tasked with investigating [[Hammerfall Run]] and why they've stopped communicating.
+Our adventurers find themselves on the outer side of the northwest bridge exiting [[Mirabar]], having just secured Veldar's release and being given an opportunity to clear his name.  The party is tasked with investigating [[05. Locations/Cities/Hammerfall Run]] and why they've stopped communicating.
 
 As they prepare to depart, [[Daeric Elmlight|Daeric]] comes running out and asks Shadow Scale's help to track down a missing vendor (a grocer).  He agrees, handing off the party materials to Sarhice. 
 

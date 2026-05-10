@@ -5,7 +5,7 @@
 [[Sarhice Vavoca]]
 [[Bronn the Humble]]
 [[Veldar]]
-[[GhoulMan]]
+[[Ghoulman]]
 
 ### Scene Setter
 
