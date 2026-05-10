@@ -1,1 +1,0 @@
-He was kicked out of his tribe and is in search of redemption. 
