@@ -1,0 +1,1 @@
+Chult is a large, remote peninsula in southwestern Faerûn, roughly comparable in size to France or Spain, dominated by dense tropical rainforest (“Jungles of Chult”).  It is considered a mysterious area with only limited trade and exploration. 

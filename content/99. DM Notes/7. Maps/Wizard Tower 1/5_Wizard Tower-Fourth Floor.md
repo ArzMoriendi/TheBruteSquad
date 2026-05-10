@@ -1,0 +1,1 @@
+![[Wizard's Tower (4th floor, digital, grid).jpg]]

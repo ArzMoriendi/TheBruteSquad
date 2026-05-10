@@ -1,0 +1,1 @@
+![[_Wizard's Tower (outside, digital, grid).jpg|697]]
