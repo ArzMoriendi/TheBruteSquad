@@ -8,7 +8,7 @@ Created: 2026-05-01
 Updated: 2026-05-01
 ---
 ![[Zwargie.png|278]]
-# {{Character Name}}
+# Zwargie
 
 > **Player:** Jaysen
 > **Character Sheet:** [[_Zwargie.pdf]]

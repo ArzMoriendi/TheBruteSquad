@@ -1,1 +1,1 @@
-![[Kragnoroth_the_Drunk.pdf]]
+![[The Lair of Kragnoroth the Drunk.pdf]]
