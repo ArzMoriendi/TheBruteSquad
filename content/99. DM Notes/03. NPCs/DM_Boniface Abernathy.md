@@ -1,3 +1,34 @@
+---
+Tags:
+  - dnd
+  - campaign
+  - dm_npc
+Type: NPC
+Created: 2026-05-01
+Updated: 2026-05-10
+Race: Human
+Occupation: Merchant
+Location: Neverwinter
+Faction: UNK
+Disposition: Friendly
+Status: Alive
+---
+
+# Boniface Abernathy
+
+
+> [!info] NPC Overview
+> **Race:** Human
+> **Gender / Identity:** Male  
+> **Age:** {{age}}  
+> **Occupation:** Merchant/  
+> **Class / Type:** {{subclass}}
+> **Alignment:** Lawful Evil
+> **Location:** Neverwinter
+> **Faction:** UNK
+> **Status:** Alive
+
+![[Boniface.jpg|382]]
 **Boniface Abernathy, Patron of Adventurers**
 
 ---

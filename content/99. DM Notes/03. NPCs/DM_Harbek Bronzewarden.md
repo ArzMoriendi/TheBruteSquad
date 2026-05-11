@@ -1,3 +1,34 @@
+---
+Tags:
+  - dnd
+  - campaign
+  - dm_npc
+Type: NPC
+Created: 2026-05-01
+Updated: 2026-05-10
+Race: Dwarf
+Occupation: Evoker Wizard
+Location: Mirabar
+Faction: UNK
+Disposition: Friendly
+Status: Alive
+---
+
+# Harbek Bronzewarden
+
+
+> [!info] NPC Overview
+> **Race:** Dwarf
+> **Gender / Identity:** Male  
+> **Age:** {{age}}  
+> **Occupation:** Wizard/Teacher
+> **Class / Type:** Wizard/Evoker
+> **Alignment:** Lawful Neutral
+> **Location:** Mirabar
+> **Faction:** UNK
+> **Status:** Alive
+
+![[Harbek.png|464]]
 Here’s your finalized, table-ready NPC with his new name and personality baked in:
 
 ---

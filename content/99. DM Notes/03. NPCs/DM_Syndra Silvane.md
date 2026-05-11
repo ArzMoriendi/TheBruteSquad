@@ -1,3 +1,35 @@
+---
+Tags:
+  - dnd
+  - campaign
+  - dm_npc
+Type: NPC
+Created: 2026-05-01
+Updated: 2026-05-10
+Race: Human
+Occupation: Patron adventurer
+Location: Baldur's Gate
+Faction: UNK
+Disposition: Neutral
+Status: Alive
+---
+
+# Syndra Silvane
+
+
+> [!info] NPC Overview
+> **Race:** Human
+> **Gender / Identity:** Female  
+> **Age:** {{age}}  
+> **Occupation:** Patron adventurer
+> **Class / Type:** {{subclass}}
+> **Alignment:** True Neutral
+> **Location:** Baldur's Gate
+> **Faction:** UNK
+> **Status:** Alive
+
+![[Syndra.jpg|467]]
+
 Here’s a detailed, 5e‑canonical profile of **Syndra Silvane**, based on *Tomb of Annihilation*, official Wizards of the Coast 5e materials, and verified lore from the Forgotten Realms Wiki and sourcebooks:
 
 ---

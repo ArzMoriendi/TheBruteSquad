@@ -3,6 +3,7 @@ Tags:
   - npc
   - dnd
   - campaign
+  - dm_npc
 Type: NPC
 Created: <% tp.date.now("YYYY-MM-DD") %>
 Updated: <% tp.date.now("YYYY-MM-DD") %>
@@ -138,7 +139,7 @@ Describe upbringing, career, major events, and current situation.
 ## Dataview Notes
 
 ```dataview
-TABLE race, occupation, location, faction, disposition, status
+TABLE Race, Occupation, Location, Faction, Disposition, Status
 FROM #npc
 WHERE file.name = this.file.name
 ```

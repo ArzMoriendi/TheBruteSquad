@@ -1,3 +1,34 @@
+---
+Tags:
+  - dnd
+  - campaign
+  - dm_npc
+Type: NPC
+Created: 2026-05-01
+Updated: 2026-05-10
+Race: Dwarf
+Occupation: Justiciar of the Marchion
+Location: Mirabar
+Faction: UNK
+Disposition: Friendly
+Status: Alive
+---
+
+# Geldryn Axebinder
+
+
+> [!info] NPC Overview
+> **Race:** Dwarf
+> **Gender / Identity:** Male  
+> **Age:** {{age}}  
+> **Occupation:** Justiciar of the Marchion 
+> **Class / Type:** {{subclass}}
+> **Alignment:** Lawful Good
+> **Location:** Mirabar
+> **Faction:** UNK
+> **Status:** Alive
+
+![[Geldryn.png|305]]
 Perfect — here are **roleplay prompts for Geldryn Axebinder**, tailored to **multiple party states**: under arrest, cleared, or simply summoned. His tone varies depending on the party's situation and behavior but always reflects his duty, intelligence, and commitment to Mirabar's security and trade dominance.
 
 These prompts include the **required line** integrated seamlessly into each version of the encounter.

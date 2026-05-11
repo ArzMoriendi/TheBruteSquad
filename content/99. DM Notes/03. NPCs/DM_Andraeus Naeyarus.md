@@ -5,7 +5,7 @@ Tags:
   - dm_npc
 Type: NPC
 Created: 2026-05-01
-Updated: 2026-05-01
+Updated: 2026-05-10
 Race: Wood Elf
 Occupation: Bladesinger of the Emerald Grove
 Location: The Savage Frontier*
@@ -23,7 +23,7 @@ Status: Alive
 > **Age:** UNK
 > **Occupation:** Bladesinger of the Emerald Grove 
 > **Class / Type:** Wizard 
-> **Alignment:** Unk: Good 
+> **Alignment:** Neutral Good 
 > **Location:** The Savage Frontier*
 > **Faction:** Bladesinger
 > **Status:** Alive

@@ -1,12 +1,32 @@
 ---
-title: Daeric Elmlight
+Tags:
+  - dnd
+  - campaign
+  - dm_npc
+Type: NPC
+Created: 2026-05-01
+Updated: 2026-05-10
+Race: Firbolg
+Occupation: Merchant
+Location: Mirabar
+Faction: UNK
+Disposition: Friendly
+Status: Alive
 ---
 
+# Daeric Elmlight
 
 
-### **Daeric Elmlight**
-
-Firbolg Merchant
+> [!info] NPC Overview
+> **Race:** Firbolg
+> **Gender / Identity:** Male  
+> **Age:** {{age}}  
+> **Occupation:** Merchant
+> **Class / Type:** Commoner
+> **Alignment:** True Neutral
+> **Location:** Mirabar
+> **Faction:** UNK
+> **Status:** Alive
 
 ![[Daeric.png|454]]
 

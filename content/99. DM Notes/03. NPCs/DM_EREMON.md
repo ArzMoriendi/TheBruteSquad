@@ -1,3 +1,33 @@
+---
+Tags:
+  - dnd
+  - campaign
+  - dm_npc
+Type: NPC
+Created: 2026-05-01
+Updated: 2026-05-10
+Race: Planetar
+Occupation: Voice of Unyielding Light
+Location: Trapped/pocket dimension
+Faction: UNK
+Disposition: Neutral
+Status: Alive
+---
+
+# EREMON
+
+
+> [!info] NPC Overview
+> **Race:** Celestial/Planetar
+> **Gender / Identity:** Male  
+> **Age:** {{age}}  
+> **Occupation:** Voice of Unyielding Light
+> **Class / Type:** {{subclass}}
+> **Alignment:** Lawful Neutral
+> **Location:** Trapped/pocket dimension
+> **Faction:** UNK
+> **Status:** Alive
+
 Absolutely—this setup is rich with **slow corruption wrapped in righteousness**. The celestial doesn't see itself as fallen or evil—**it believes it's enacting the divine will**, even as its interpretation becomes warped.
 
 Let’s shape its influence with **layered suggestions**, each justified as righteous, moral, or necessary. These will evolve from subtle nudges into morally dubious directives, always couched in the language of justice and duty.

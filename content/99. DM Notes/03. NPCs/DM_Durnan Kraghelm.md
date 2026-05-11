@@ -1,3 +1,34 @@
+---
+Tags:
+  - dnd
+  - campaign
+  - dm_npc
+Type: NPC
+Created: 2026-05-01
+Updated: 2026-05-10
+Race: Dwarf
+Occupation: Captain of the guard
+Location: Mirabar
+Faction: UNK
+Disposition: Neutral
+Status: Alive
+---
+
+# Durnan Kraghelm
+
+
+> [!info] NPC Overview
+> **Race:** Human
+> **Gender / Identity:** Male  
+> **Age:** {{age}}  
+> **Occupation:** Merchant/  
+> **Class / Type:** {{subclass}}
+> **Alignment:** Lawful Evil
+> **Location:** Neverwinter
+> **Faction:** UNK
+> **Status:** Alive
+
+![[Durnan.png|442]]
 Absolutely! Here are **roleplay prompts for Captain Durnan Kraghelm**, the dwarven guard captain stationed at Mirabar’s gate, designed to bring him to life during the players’ arrival scene. These prompts are based on the tone and politics of Mirabar, your session plot, and potential outcomes of the players’ choices (persuasion, conflict, or surrender).
 
 [[Mirabar plot]]; [[Mirabar]]; [[Coming to Mirabar]]

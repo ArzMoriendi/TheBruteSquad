@@ -1,3 +1,151 @@
+---
+Tags:
+  - dnd
+  - campaign
+  - dm_npc
+Type: NPC
+Created: 2026-05-01
+Updated: 2026-05-10
+Race: Halfling
+Occupation: Acolyte/Paladin
+Location: The Savage Frontier*
+Faction: The Order of Aster ([[Lathandar]])
+Disposition: Friendly
+Status: Alive
+---
+
+# Aribyn Deepcreek
+
+
+> [!info] NPC Overview
+> **Race:** Halfling 
+> **Gender / Identity:** Female  
+> **Age:** {{age}}  
+> **Occupation:** Acolyte/Paladin  
+> **Class / Type:** Oath of Glory
+> **Alignment:** Lawful Good
+> **Location:** The Savage Frontier*
+> **Faction:** The Order of Aster ([[Lathandar]])
+> **Status:** Alive
+
+![[Aribyn.png|412]]
+---
+
+## Quick Summary
+
+Write a short summary of who this NPC is and why they matter.
+
+---
+
+## Appearance
+
+- **Height / Build:**  
+- **Hair:**  
+- **Eyes:**  
+- **Distinct Features:**  
+- **Clothing / Gear:**  
+- **Voice / Accent:**  
+
+---
+
+
+# DM NOTES
+
+> Remove this section from player-facing notes if desired.
+
+
+
+## Personality
+
+- **Traits:**  
+- **Mannerisms:**  
+- **Likes:**  
+- **Dislikes:**  
+- **Flaws:**  
+- **Secrets:**  
+
+---
+
+## Background
+
+Describe upbringing, career, major events, and current situation.
+
+---
+
+## Motivations
+
+- Primary Goal:
+- Secondary Goal:
+- Fear:
+- Desire:
+
+---
+
+## Relationships
+
+### Family
+
+| Name | Relation | Status | Notes |
+|------|----------|--------|------|
+| [[ ]] |  |  |  |
+
+### Allies
+
+| Name | Role | Notes |
+|------|------|------|
+| [[ ]] |  |  |
+
+### Rivals / Enemies
+
+| Name | Conflict | Notes |
+|------|----------|------|
+| [[ ]] |  |  |
+
+---
+
+## Knowledge
+
+- Rumor:
+- Secret:
+- Local Information:
+- Quest Hook:
+
+---
+
+## Inventory / Possessions
+
+- 
+- 
+- 
+
+---
+
+
+## Encounter Notes
+
+- **First Met:**  
+- **Last Seen:**  
+- **Party Opinion:**  
+- **Current Status:** Alive / Dead / Missing / Unknown
+
+---
+
+## Linked Notes
+
+- [[Locations]]
+- [[Organizations]]
+- [[Quest Log]]
+
+## Dataview Notes
+
+```dataview
+TABLE Race, Occupation, Location, Faction, Disposition, Status
+FROM #dm_npc
+WHERE file.name = this.file.name
+```
+
+
+
 Race: Lightfoot Halfling  
 Class: Paladin (Level 10)  
 Subclass: Oath of Glory  
@@ -132,7 +280,7 @@ Ring of Protection (gifted by the village priest)
 
 Standard Adventurer’s Gear, including a hand-carved flute
 
-Quirks & Flavor
+Quirks \& Flavor
 
 Calls divine smites "sunbursts."
 
@@ -142,7 +290,7 @@ Bakes tiny honeycakes for allies after a successful quest.
 
 Writes hopeful letters to villages she helps.
 
-Would you like a digital character sheet PDF or a stat block formatted for a virtual tabletop (like Foundry or Roll20)?  
+Would you like a digital character sheet PDF or a stat block formatted for a virtual tabletop (like Foundry or Roll20)?
 
 Absolutely! Here is a creature-style stat block for Aribyn Deepcreek, formatted for use by DMs or for narrative/combat use in adventures. This makes her ideal for use as an NPC ally, quest giver, or even a temporary companion in a campaign.
 
@@ -247,3 +395,4 @@ Uses Divine Smite liberally, especially against undead.
 Protects squishier allies with Glorious Defense and Aura of Protection.
 
 Moves tactically to boost speed and saves of nearby allies via Aura of Alacrity.
+
