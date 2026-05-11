@@ -1,8 +1,8 @@
 ---
 Tags:
+  - npc
   - dnd
   - campaign
-  - dm_npc
 Type: NPC
 Created: 2026-05-01
 Updated: 2026-05-10

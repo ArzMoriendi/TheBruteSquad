@@ -1,3 +1,54 @@
+---
+Tags:
+  - npc
+  - dnd
+  - campaign
+Type: NPC
+Created: 2026-05-01
+Updated: 2026-05-10
+Race: Human
+Occupation: Bandit Leader of the Flying Drunks
+Location: The Savage Frontier
+Faction: Flying Drunks
+Disposition: Hostile
+Status: Deceased
+---
+
+# Kragnoroth the Drunk
+
+
+> [!info] NPC Overview
+> **Race:** Human
+> **Gender / Identity:** Male  
+> **Age:** {{age}}  
+> **Occupation:** Bandit Leader of the Flying Drunks 
+> **Class / Type:** Fighter
+> **Alignment:** Neutral Evil  
+> **Location:** The Savage Frontier  
+> **Faction:** Flying Drunks
+> **Status:** Deceased
+
+![[Kragnoroth.png|251]]
+---
+
+## Quick Summary
+
+Write a short summary of who this NPC is and why they matter.
+
+---
+
+## Appearance
+
+- **Height / Build:**  
+- **Hair:**  
+- **Eyes:**  
+- **Distinct Features:**  
+- **Clothing / Gear:**  
+- **Voice / Accent:**  
+
+---
+
+
 
 Kragnoroth the Drunk is a **seasoned human fighter**, known for his skill in combat and careful maintenance of his arms and armor. Despite his nickname, he does not allow drink to cloud his judgment. While his men revel and lose themselves in celebration, Kragnoroth remains alert, constantly aware of his surroundings and any threats that may arise.
 

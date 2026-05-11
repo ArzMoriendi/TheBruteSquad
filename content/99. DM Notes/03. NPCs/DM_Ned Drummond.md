@@ -6,12 +6,12 @@ Tags:
 Type: NPC
 Created: 2026-05-01
 Updated: 2026-05-10
-Race:
-Occupation:
-Location:
-Faction:
-Disposition:
-Status:
+Race: Human
+Occupation: Merchant/Blacksmith
+Location: Erentir
+Faction: UNK
+Disposition: Friendly
+Status: Alive
 ---
 
 # Ned Drummond
@@ -21,10 +21,10 @@ Status:
 > **Race:** Human
 > **Gender / Identity:** Male  
 > **Age:** {{age}}  
-> **Occupation:** Merchant/  
-> **Class / Type:** {{subclass}}
-> **Alignment:** Lawful Evil
-> **Location:** Neverwinter
+> **Occupation:** Merchant/Blacksmith 
+> **Class / Type:** Commoner
+> **Alignment:** Lawful Neutral
+> **Location:** Erentir
 > **Faction:** UNK
 > **Status:** Alive
 

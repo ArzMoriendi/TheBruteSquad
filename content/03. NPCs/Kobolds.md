@@ -3,13 +3,12 @@ Tags:
   - npc
   - dnd
   - campaign
-  - dm_npc
 Type: NPC
 Created: 2026-05-01
 Updated: 2026-05-10
 Race: Kobold
 Occupation: Tinkerer/Soldier/Enchanter
-Location: Emerforge Outpost
+Location: Emberforge Outpost
 Faction: UNK
 Disposition: Friendly
 Status: Alive

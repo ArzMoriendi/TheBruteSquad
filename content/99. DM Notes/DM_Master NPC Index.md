@@ -1,3 +1,4 @@
+
 ```dataview  
 TABLE Race, Occupation, Location, Faction  
 FROM #dm_npc
