@@ -30,6 +30,9 @@ Welcome to **The Brute Squad** Dungeons & Dragons campaign notes.
 [[Session 15]]
 [[Session 16]]
 
+## Basic Rules for DND
+[[Basic Rules 2024]]
+
 ## Master NPC List
 
 | NPCs                    | Race     | Occupation                       | Location             | Faction                            |
