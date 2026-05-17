@@ -28681,8 +28681,6 @@ While you have the Invisible condition, you experience the following effects.
 
 ***Attacks Affected.*** Attack rolls against you have [Disadvantage](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Disadvantage), and your attack rolls have Advantage. If a creature can somehow see you, you don’t gain this benefit against that creature.
 
-**NOOR RAHMAN**<img src="./media/image2.png" style="width:6.5in;height:0.69722in" />
-
 ------------------------------------------------------------------------
 
 Jumping
@@ -28981,7 +28979,6 @@ Round Down
 
 Whenever you divide or multiply a number in the game, round down if you end up with a fraction, even if the fraction is one-half or greater. Some rules make an exception and tell you to round up.
 
-**NOOR RAHMAN**
 ------------------------------------------------------------------------
 
 Save

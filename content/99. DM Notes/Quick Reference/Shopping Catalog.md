@@ -688,59 +688,59 @@ Potion Availability
 |---|
 |\|   \|<br>\|---\|<br>\|Hard Sell (daily) at 750 gp (Cheap: 562 gp, Expensive: 1125)<br><br>Selling Cap (daily) at 1500 gp (Cheap: 1125 gp, Expensive: 2260 gp)\|| 
 
-|   |   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|---|
-|Item Name|   |Cost (Normal)|Cost (Cheap)|Cost (Expensive)|Limited Stock|Rural Locale|Urban Locale|Premium Locale|
-|[Weapons]|   ||||||||
-|_Simple Melee Weapons_|   ||||||||
-|Quarterstaff|   |2 sp|1 sp|3 sp|X|X|X|X|
-|[Adventuring Gear]|   ||||||||
-|Abacus|   ||||||X|X|
-|_Arcane Focus_|   ||||||||
-|Crystal|   |10 gp|7 gp|15 gp|X|X|X|X|
-|Orb|   |20 gp|15 gp|30 gp|||X|X|
-|Rod|   |10 gp|7 gp|15 gp||X|X|X|
-|Staff|   |5 gp|3 gp|8 gp|X|X|X|X|
-|Wand|   |10 gp|7 gp|15 gp|X|X|X|X|
-|Bottle, glass|   |2 gp|1 gp|3 gp||X|X|X|
-|Candle|   |1 cp|1 cp|2 cp|X|X|X|X|
-|Case, Map or Scroll|   |1 gp|7 sp|2 gp||X|X|X|
-|Item Name\|   \|<br>\|---\|<br>\|\\|   \\|<br>\\|---\\|<br>\\|Continued from "Arcane Shop" section...\\||   |**Cost (Normal)**|**Cost (Cheap)**|**Cost (Expensive)**|**Limited Stock**|**Rural Locale**|**Urban Locale**|**Premium Locale**|
-|Component Pouch|   |25 gp|18 gp|38 gp|||||
-|_Druidic Focus_|   ||||||||
-|Sprig of Mistletoe|   |1 gp|7 sp|2 gp|X|X|X|X|
-|Totem|   |1 gp|7 sp|2 gp|||X|X|
-|Wooden Staff|   |5 gp|3 gp|8 gp|X|X|X|X|
-|Yew Wand|   |10 gp|7 gp|15 gp||X|X|X|
-|Hourglass|   |25 gp|18 gp|38 gp||||X|
-|Ink (1 ounce bottle)|   |10 gp|7 gp|15 gp||X|X|X|
-|Ink Pen|   |2 cp|1 cp|3 cp||X|X|X|
-|Paper (one sheet)|   |2 sp|1 sp|3 sp|||X|X|
-|Parchment (one sheet)|   |1 sp|7 cp|2 sp||X|X|X|
-|Pouch|   |5 sp|3 sp|8 sp||X|X|X|
-|Robes|   |1 gp|7 sp|2 gp|||X|X|
-|Spellbook|   |50 gp|38 gp|75 gp||X|X|X|
-|Vial|   |1 gp|7 sp|2 gp||X|X|X|
-|[Tools]|   ||||||||
-|_Artisan's Tools_|   ||||||||
-|Alchemist's Supplies|   |50 gp|38 gp|75 gp||X|X|X|
-|Calligrapher's Supplies|   |10 gp|7 gp|15 gp|||X|X|
-|_Musical Instrument_|   ||||||||
-|Lute|   |35 gp|26 gp|53 gp|||X|X|
-|Lyre|   |30 gp|22 gp|45 gp||||X|
-|[Magic Items]|   ||||||||
-|_Spell Scrolls/ Gems_|   ||||||||
-|Common (Cantrip)|   |50 gp|38 gp|75 gp|X|X|X|X|
-|Common (Level 1)|   |100 gp|75 gp|150 gp|X|X|X|X|
-|Uncommon (Level 2)|   |250 gp|187 gp|375 gp|||X|X|
-|Uncommon (Level 3)|   |500 gp|375 gp|750 gp|||X|X|
-|Rare (Level 4)|   |2500 gp|1875 gp|3750 gp||||X|
-|Rare (Level 5)|   |5000 gp|3750 gp|7500 gp||||X|
-|[Services]|   ||||||||
-|Magic Appraisal (_Identify_)|   |100 gp|75 gp|150 gp|X|X|X|X|
-|[Miscellaneous]|   ||||||||
-|Spell Components|See Spell|   |(x0.75)|(x1.5)||X|X|X|
-||||||||||
+|                                     |           |               |              |                  |                                           |              |              |                   |                  |                      |                   |                  |                  |                    |
+| ----------------------------------- | --------- | ------------- | ------------ | ---------------- | ----------------------------------------- | ------------ | ------------ | ----------------- | ---------------- | -------------------- | ----------------- | ---------------- | ---------------- | ------------------ |
+| Item Name                           |           | Cost (Normal) | Cost (Cheap) | Cost (Expensive) | Limited Stock                             | Rural Locale | Urban Locale | Premium Locale    |                  |                      |                   |                  |                  |                    |
+| [Weapons]                           |           |               |              |                  |                                           |              |              |                   |                  |                      |                   |                  |                  |                    |
+| _Simple Melee Weapons_              |           |               |              |                  |                                           |              |              |                   |                  |                      |                   |                  |                  |                    |
+| Quarterstaff                        |           | 2 sp          | 1 sp         | 3 sp             | X                                         | X            | X            | X                 |                  |                      |                   |                  |                  |                    |
+| [Adventuring Gear]                  |           |               |              |                  |                                           |              |              |                   |                  |                      |                   |                  |                  |                    |
+| Abacus                              |           |               |              |                  |                                           |              | X            | X                 |                  |                      |                   |                  |                  |                    |
+| _Arcane Focus_                      |           |               |              |                  |                                           |              |              |                   |                  |                      |                   |                  |                  |                    |
+| Crystal                             |           | 10 gp         | 7 gp         | 15 gp            | X                                         | X            | X            | X                 |                  |                      |                   |                  |                  |                    |
+| Orb                                 |           | 20 gp         | 15 gp        | 30 gp            |                                           |              | X            | X                 |                  |                      |                   |                  |                  |                    |
+| Rod                                 |           | 10 gp         | 7 gp         | 15 gp            |                                           | X            | X            | X                 |                  |                      |                   |                  |                  |                    |
+| Staff                               |           | 5 gp          | 3 gp         | 8 gp             | X                                         | X            | X            | X                 |                  |                      |                   |                  |                  |                    |
+| Wand                                |           | 10 gp         | 7 gp         | 15 gp            | X                                         | X            | X            | X                 |                  |                      |                   |                  |                  |                    |
+| Bottle, glass                       |           | 2 gp          | 1 gp         | 3 gp             |                                           | X            | X            | X                 |                  |                      |                   |                  |                  |                    |
+| Candle                              |           | 1 cp          | 1 cp         | 2 cp             | X                                         | X            | X            | X                 |                  |                      |                   |                  |                  |                    |
+| Case, Map or Scroll                 |           | 1 gp          | 7 sp         | 2 gp             |                                           | X            | X            | X                 |                  |                      |                   |                  |                  |                    |
+| Item Name\|   \|<br>\|---\|<br>\|\\ | \\        | <br>\\        | ---\\        | <br>\\           | Continued from "Arcane Shop" section...\\ |              |              | **Cost (Normal)** | **Cost (Cheap)** | **Cost (Expensive)** | **Limited Stock** | **Rural Locale** | **Urban Locale** | **Premium Locale** |
+| Component Pouch                     |           | 25 gp         | 18 gp        | 38 gp            |                                           |              |              |                   |                  |                      |                   |                  |                  |                    |
+| _Druidic Focus_                     |           |               |              |                  |                                           |              |              |                   |                  |                      |                   |                  |                  |                    |
+| Sprig of Mistletoe                  |           | 1 gp          | 7 sp         | 2 gp             | X                                         | X            | X            | X                 |                  |                      |                   |                  |                  |                    |
+| Totem                               |           | 1 gp          | 7 sp         | 2 gp             |                                           |              | X            | X                 |                  |                      |                   |                  |                  |                    |
+| Wooden Staff                        |           | 5 gp          | 3 gp         | 8 gp             | X                                         | X            | X            | X                 |                  |                      |                   |                  |                  |                    |
+| Yew Wand                            |           | 10 gp         | 7 gp         | 15 gp            |                                           | X            | X            | X                 |                  |                      |                   |                  |                  |                    |
+| Hourglass                           |           | 25 gp         | 18 gp        | 38 gp            |                                           |              |              | X                 |                  |                      |                   |                  |                  |                    |
+| Ink (1 ounce bottle)                |           | 10 gp         | 7 gp         | 15 gp            |                                           | X            | X            | X                 |                  |                      |                   |                  |                  |                    |
+| Ink Pen                             |           | 2 cp          | 1 cp         | 3 cp             |                                           | X            | X            | X                 |                  |                      |                   |                  |                  |                    |
+| Paper (one sheet)                   |           | 2 sp          | 1 sp         | 3 sp             |                                           |              | X            | X                 |                  |                      |                   |                  |                  |                    |
+| Parchment (one sheet)               |           | 1 sp          | 7 cp         | 2 sp             |                                           | X            | X            | X                 |                  |                      |                   |                  |                  |                    |
+| Pouch                               |           | 5 sp          | 3 sp         | 8 sp             |                                           | X            | X            | X                 |                  |                      |                   |                  |                  |                    |
+| Robes                               |           | 1 gp          | 7 sp         | 2 gp             |                                           |              | X            | X                 |                  |                      |                   |                  |                  |                    |
+| Spellbook                           |           | 50 gp         | 38 gp        | 75 gp            |                                           | X            | X            | X                 |                  |                      |                   |                  |                  |                    |
+| Vial                                |           | 1 gp          | 7 sp         | 2 gp             |                                           | X            | X            | X                 |                  |                      |                   |                  |                  |                    |
+| [Tools]                             |           |               |              |                  |                                           |              |              |                   |                  |                      |                   |                  |                  |                    |
+| _Artisan's Tools_                   |           |               |              |                  |                                           |              |              |                   |                  |                      |                   |                  |                  |                    |
+| Alchemist's Supplies                |           | 50 gp         | 38 gp        | 75 gp            |                                           | X            | X            | X                 |                  |                      |                   |                  |                  |                    |
+| Calligrapher's Supplies             |           | 10 gp         | 7 gp         | 15 gp            |                                           |              | X            | X                 |                  |                      |                   |                  |                  |                    |
+| _Musical Instrument_                |           |               |              |                  |                                           |              |              |                   |                  |                      |                   |                  |                  |                    |
+| Lute                                |           | 35 gp         | 26 gp        | 53 gp            |                                           |              | X            | X                 |                  |                      |                   |                  |                  |                    |
+| Lyre                                |           | 30 gp         | 22 gp        | 45 gp            |                                           |              |              | X                 |                  |                      |                   |                  |                  |                    |
+| [Magic Items]                       |           |               |              |                  |                                           |              |              |                   |                  |                      |                   |                  |                  |                    |
+| _Spell Scrolls/ Gems_               |           |               |              |                  |                                           |              |              |                   |                  |                      |                   |                  |                  |                    |
+| Common (Cantrip)                    |           | 50 gp         | 38 gp        | 75 gp            | X                                         | X            | X            | X                 |                  |                      |                   |                  |                  |                    |
+| Common (Level 1)                    |           | 100 gp        | 75 gp        | 150 gp           | X                                         | X            | X            | X                 |                  |                      |                   |                  |                  |                    |
+| Uncommon (Level 2)                  |           | 250 gp        | 187 gp       | 375 gp           |                                           |              | X            | X                 |                  |                      |                   |                  |                  |                    |
+| Uncommon (Level 3)                  |           | 500 gp        | 375 gp       | 750 gp           |                                           |              | X            | X                 |                  |                      |                   |                  |                  |                    |
+| Rare (Level 4)                      |           | 2500 gp       | 1875 gp      | 3750 gp          |                                           |              |              | X                 |                  |                      |                   |                  |                  |                    |
+| Rare (Level 5)                      |           | 5000 gp       | 3750 gp      | 7500 gp          |                                           |              |              | X                 |                  |                      |                   |                  |                  |                    |
+| [Services]                          |           |               |              |                  |                                           |              |              |                   |                  |                      |                   |                  |                  |                    |
+| Magic Appraisal (_Identify_)        |           | 100 gp        | 75 gp        | 150 gp           | X                                         | X            | X            | X                 |                  |                      |                   |                  |                  |                    |
+| [Miscellaneous]                     |           |               |              |                  |                                           |              |              |                   |                  |                      |                   |                  |                  |                    |
+| Spell Components                    | See Spell |               | (x0.75)      | (x1.5)           |                                           | X            | X            | X                 |                  |                      |                   |                  |                  |                    |
+|                                     |           |               |              |                  |                                           |              |              |                   |                  |                      |                   |                  |                  |                    |
 
 Spell Scroll/ Gem Availability
 
