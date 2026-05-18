@@ -219,8 +219,8 @@ Spell Level</strong></th>
 
 # **Chapter 7: Spells**
 
-<img src="./media/image80.png" style="width:5.95027in;height:8.07292in" />Archmages of Greyhawk—Jallarzi, Mordenkainen, and Bigby—\
-prepare their magic as they open a gate to another plane
+![[Pasted image 20260517213223.png]]
+Archmages of Greyhawk—Jallarzi, Mordenkainen, and Bigby—prepare their magic as they open a gate to another plane
 
 This chapter gives rules for casting spells. It also includes [descriptions](https://www.dndbeyond.com/sources/dnd/phb-2024/spell-descriptions) of common spells in the worlds of Dungeons & Dragons. Those spells are used by many class features, magic items, and monsters.
 
@@ -426,7 +426,8 @@ If a spell has movable effects, they aren’t restricted by its range unless the
 
 Components
 
-<img src="./media/image81.png" style="width:6.5in;height:3.42917in" />An aasimar Wizard uses a crystal material component to focus the magic of Cone of Cold
+![[Pasted image 20260517213308.png]]
+An aasimar Wizard uses a crystal material component to focus the magic of Cone of Cold
 
 A spell’s components are physical requirements the spellcaster must meet to cast the spell. Each spell’s description indicates whether it requires Verbal (V), Somatic (S), or Material (M) components. If the spellcaster can’t provide one or more of a spell’s components, the spellcaster can’t cast the spell.
 
@@ -472,7 +473,7 @@ A typical spell requires the caster to pick one or more targets to be affected b
 
 ***Areas of Effect.*** Some spells, such as [***Thunderwave***](https://www.dndbeyond.com/spells/2619184-thunderwave), cover an area called an [**area of effect**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#AreaofEffect), which is defined in the [rules glossary](https://www.dndbeyond.com/sources/dnd/phb-2024/rules-glossary#AreaofEffect). The area determines what the spell targets. The description of a spell specifies whether it has an area of effect, which is typically one of these shapes: [**Cone**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ConeAreaofEffect), [**Cube**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#CubeAreaofEffect), [**Cylinder**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#CylinderAreaofEffect), [**Emanation**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#EmanationAreaofEffect), [**Line**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#LineAreaofEffect), or [**Sphere**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#SphereAreaofEffect).
 
-<img src="./media/image82.png" style="width:6.5in;height:3.44097in" />
+![[Pasted image 20260517213321.png]]
 
 ***Awareness of Being Targeted.*** Unless a spell has a perceptible effect, a creature doesn’t know it was targeted by the spell. An effect like lightning is obvious, but a more subtle effect, such as an attempt to read thoughts, goes unnoticed unless a spell’s description says otherwise.
 
@@ -678,7 +679,7 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 **Duration:** [**Concentration**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Concentration), up to 1 minute
 
-<img src="./media/image83.png" style="width:4.39766in;height:7.3125in" />
+![[Pasted image 20260517213350.png|263]]
 
 A Brazier Affected by the Spell Animate Objects
 
@@ -860,7 +861,8 @@ You tap into your life force to heal yourself. Roll one or two of your unexpende
 
 ------------------------------------------------------------------------
 
-<img src="./media/image84.png" style="width:6.5in;height:4.29792in" />A goliath Warlock calls on Armor of Agathys and Arms of Hadar to battle foes from the deep
+![[Pasted image 20260517213418.png|533]]
+A goliath Warlock calls on Armor of Agathys and Arms of Hadar to battle foes from the deep
 
 [***Armor of Agathys***](https://www.dndbeyond.com/spells/2618870-armor-of-agathys)
 
@@ -1190,7 +1192,8 @@ You touch a creature, which must succeed on a Wisdom saving throw or become curs
 
 ------------------------------------------------------------------------
 
-<img src="./media/image85.png" style="width:6.5in;height:4.24236in" />The Wizard Bigby uses his signature spell, Bigby’s Hand, to prevent interruptions to his research
+![[Pasted image 20260517213453.png|551]]
+The Wizard Bigby uses his signature spell, Bigby’s Hand, to prevent interruptions to his research
 
 [***Bigby’s Hand***](https://www.dndbeyond.com/spells/2618928-bigbys-hand)
 
@@ -1500,7 +1503,8 @@ Channeling the chill of the grave, make a melee spell attack against a target wi
 
 ------------------------------------------------------------------------
 
-<img src="./media/image86.png" style="width:6.5in;height:4.34375in" />A human Sorcerer chastises ghouls with the unpredictable energy of a Chromatic Orb
+![[Pasted image 20260517213524.png|559]]
+A human Sorcerer chastises ghouls with the unpredictable energy of a Chromatic Orb
 
 [***Chromatic Orb***](https://www.dndbeyond.com/spells/2618966-chromatic-orb)
 
@@ -1782,7 +1786,8 @@ For the duration, you can take a Bonus Action to designate a direction that is h
 
 ------------------------------------------------------------------------
 
-<img src="./media/image87.png" style="width:6.5in;height:4.34375in" />The icy Wizard Otiluke blasts monsters with Cone of Cold
+![[Pasted image 20260517213603.png|508]]
+The icy Wizard Otiluke blasts monsters with Cone of Cold
 
 [***Cone of Cold***](https://www.dndbeyond.com/spells/2619042-cone-of-cold)
 
@@ -2091,7 +2096,8 @@ The water level remains elevated until the spell ends or you choose a different 
 
 ------------------------------------------------------------------------
 
-<img src="./media/image88.png" style="width:6.5in;height:3.91528in" />A brass dragon casts Control Weather to save a community from a destructive storm
+![[Pasted image 20260517213745.png|501]]
+A brass dragon casts Control Weather to save a community from a destructive storm
 
 [***Control Weather***](https://www.dndbeyond.com/spells/2619054-control-weather)
 
@@ -2489,7 +2495,8 @@ For the duration, a willing creature you touch has [**Darkvision**](https://www
 
 ------------------------------------------------------------------------
 
-<img src="./media/image89.png" style="width:6.5in;height:4.34028in" />An elf Cleric uses the spell Daylight to bring the light of dawn to a vampire court
+![[Pasted image 20260517213808.png|506]]
+An elf Cleric uses the spell Daylight to bring the light of dawn to a vampire court
 
 [***Daylight***](https://www.dndbeyond.com/spells/2619083-daylight)
 
@@ -2725,7 +2732,8 @@ This spell automatically disintegrates a Large or smaller nonmagical object or a
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 3d6 for each spell slot level above 6.
 
-<img src="./media/image90.png" style="width:6.5in;height:4.34375in" />A tiefling Cleric casts Dispel Evil and Good to expel an evil spirit from a possessed innocent
+![[Pasted image 20260517213840.png|504]]
+A tiefling Cleric casts Dispel Evil and Good to expel an evil spirit from a possessed innocent
 
 [***Dispel Evil and Good***](https://www.dndbeyond.com/spells/2619096-dispel-evil-and-good)
 
@@ -2817,7 +2825,8 @@ Until the spell ends, your attacks with weapons deal an extra 1d4 Radiant damage
 
 ------------------------------------------------------------------------
 
-<img src="./media/image91.png" style="width:6.5in;height:4.20556in" />A dwarf Paladin empowers her weapon with Divine Smite, unleashing holy wrath on fiendish mezzoloths
+![[Pasted image 20260517213935.png|504]]
+A dwarf Paladin empowers her weapon with Divine Smite, unleashing holy wrath on fiendish mezzoloths
 
 [***Divine Smite***](https://www.dndbeyond.com/spells/2618833-divine-smite)
 
@@ -3027,8 +3036,8 @@ You can make the messenger terrifying to the target. If you do so, the messenger
 
 Whispering to the spirits of nature, you create one of the following effects within range.
 
-<img src="./media/image92.png" style="width:6.5in;height:4.40694in" />A sprite casts Druidcraft\
-to make flowers blossom
+![[Pasted image 20260517213957.png|269]]
+A sprite casts Druidcraft to make flowers blossom
 
 ***Weather Sensor.*** You create a Tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round.
 
@@ -3186,7 +3195,8 @@ While Restrained, the target takes 1d6 Piercing damage at the start of each of i
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 1.
 
-<img src="./media/image93.png" style="width:6.5in;height:4.27917in" />A dragonborn Druid uses Entangle to stop rampaging gnolls
+![[Pasted image 20260517214023.png|439]]
+A dragonborn Druid uses Entangle to stop rampaging gnolls
 
 [***Entangle***](https://www.dndbeyond.com/spells/2619186-entangle)
 
@@ -3246,7 +3256,8 @@ This spell ends instantly if you cast it while you are on the Ethereal Plane or 
 
 ------------------------------------------------------------------------
 
-<img src="./media/image94.png" style="width:6.5in;height:3.77431in" />The Wizard Evard calls on his infamous spell, Evard’s Black Tentacles, to teach reckless bandits a lesson
+![[Pasted image 20260517214409.png|497]]
+The Wizard Evard calls on his infamous spell, Evard’s Black Tentacles, to teach reckless bandits a lesson
 
 [***Evard’s Black Tentacles***](https://www.dndbeyond.com/spells/2619187-evards-black-tentacles)
 
@@ -3442,7 +3453,8 @@ Finally, when you cast a spell with a range of touch, your familiar can deliver 
 
 ***One Familiar Only.*** You can’t have more than one familiar at a time. If you cast this spell while you have a familiar, you instead cause it to adopt a new eligible form.
 
-<img src="./media/image95.png" style="width:6.5in;height:4.89653in" />Spirits summoned by Find Familiar take forms inspired by the mages who conjure them
+![[Pasted image 20260517214438.png|515]]
+Spirits summoned by Find Familiar take forms inspired by the mages who conjure them
 
 ------------------------------------------------------------------------
 
@@ -3568,7 +3580,8 @@ A Humanoid killed by this spell rises at the start of your next turn as a [**Zo
 
 ------------------------------------------------------------------------
 
-<img src="./media/image96.png" style="width:6.5in;height:3.86319in" />An elf Wizard demonstrates the problem-solving potential of the spell Fireball
+![[Pasted image 20260517215450.png|547]]
+An elf Wizard demonstrates the problem-solving potential of the spell Fireball
 
 [***Fireball***](https://www.dndbeyond.com/spells/2618887-fireball)
 
@@ -3904,7 +3917,8 @@ The target can’t talk or manipulate objects, and any objects it was carrying o
 
 ------------------------------------------------------------------------
 
-<img src="./media/image97.png" style="width:6.5in;height:4.20556in" />Otto the Bard casts Gate to open a portal to the Outlands
+![[Pasted image 20260517215530.png|512]]
+Otto the Bard casts Gate to open a portal to the Outlands
 
 [***Gate***](https://www.dndbeyond.com/spells/2618932-gate)
 
@@ -4200,7 +4214,8 @@ You touch a creature and magically remove one of the following effects from it:
 
 ------------------------------------------------------------------------
 
-<img src="./media/image98.png" style="width:6.5in;height:4.34375in" />A halfling Cleric casts Guardian of Faith to fend off a ravenous worg
+![[Pasted image 20260517215615.png|512]]
+A halfling Cleric casts Guardian of Faith to fend off a ravenous worg
 
 [***Guardian of Faith***](https://www.dndbeyond.com/spells/2619135-guardian-of-faith)
 
@@ -4496,7 +4511,8 @@ The creature that damaged you is momentarily surrounded by green flames. It make
 
 ------------------------------------------------------------------------
 
-<img src="./media/image99.png" style="width:6.5in;height:4.10208in" />The spell Heroes’ Feast prepares adventurers for greatness
+![[Pasted image 20260517215642.png|422]]
+The spell Heroes’ Feast prepares adventurers for greatness
 
 [***Heroes’ Feast***](https://www.dndbeyond.com/spells/2618983-heroes-feast)
 
@@ -4606,7 +4622,8 @@ For the duration, you emit an aura in a 30-foot [**Emanation**](https://www.dnd
 
 ------------------------------------------------------------------------
 
-<img src="./media/image100.png" style="width:6.5in;height:4.34375in" />An aasimar Warlock exposes foes to the all-consuming Hunger of Hadar
+![[Pasted image 20260517215701.png|454]]
+An aasimar Warlock exposes foes to the all-consuming Hunger of Hadar
 
 [***Hunger of Hadar***](https://www.dndbeyond.com/spells/2619162-hunger-of-hadar)
 
@@ -4680,7 +4697,8 @@ Spells (I)
 
 You create a shard of ice and fling it at one creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 Piercing damage. Hit or miss, the shard then explodes. The target and each creature within 5 feet of it must succeed on a Dexterity saving throw or take 2d6 Cold damage.
 
-<img src="./media/image101.png" style="width:6.5in;height:5.93681in" />Ice Knife
+![[Pasted image 20260517215721.png|445]]
+Ice Knife
 
 ***Using a Higher-Level Spell Slot.*** The Cold damage increases by 1d6 for each spell slot level above 1.
 
@@ -4852,7 +4870,8 @@ A creature you touch has the [**Invisible**](https://www.dndbeyond.com/sources/
 
 Spells (J)
 
-<img src="./media/image102.png" style="width:6.5in;height:4.1875in" />With her spell, Jallarzi’s Storm of Radiance, the Warlock Jallarzi makes vrocks regret leaving the Abyss
+![[Pasted image 20260517215751.png|608]]
+With her spell, Jallarzi’s Storm of Radiance, the Warlock Jallarzi makes vrocks regret leaving the Abyss
 
 [***Jallarzi’s Storm of Radiance***](https://www.dndbeyond.com/spells/2618836-jallarzis-storm-of-radiance)
 
@@ -4990,7 +5009,8 @@ The spell ends early if you leave the Emanation or if you cast it again.
 
 You touch a creature and end one condition on it: [**Blinded**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#BlindedCondition), [**Deafened**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#DeafenedCondition), [**Paralyzed**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ParalyzedCondition), or [**Poisoned**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#PoisonedCondition).
 
-<img src="./media/image103.png" style="width:6.5in;height:4.20556in" />A human Druid casts Lesser Restoration to ease the suffering of a friend who was poisoned in battle
+![[Pasted image 20260517215825.png|471]]
+A human Druid casts Lesser Restoration to ease the suffering of a friend who was poisoned in battle
 
 ------------------------------------------------------------------------
 
@@ -5144,7 +5164,8 @@ You touch a creature. The target’s Speed increases by 10 feet until the spell 
 
 Spells (M)
 
-<img src="./media/image104.png" style="width:6.5in;height:4.33125in" />A human Wizard fends off peril with Mage Armor and the unerring bolts of Magic Missile
+![[Pasted image 20260517215847.png|482]]
+A human Wizard fends off peril with Mage Armor and the unerring bolts of Magic Missile
 
 [***Mage Armor***](https://www.dndbeyond.com/spells/2619006-mage-armor)
 
@@ -5430,7 +5451,8 @@ Minor physical damage to the stone doesn’t harm you, but its partial destructi
 
 ------------------------------------------------------------------------
 
-<img src="./media/image105.png" style="width:6.5in;height:4.19375in" />The daring Wizard Melf takes aim at a rampaging troll with Melf’s Acid Arrow
+![[Pasted image 20260517215921.png|489]]
+The daring Wizard Melf takes aim at a rampaging troll with Melf’s Acid Arrow
 
 [***Melf’s Acid Arrow***](https://www.dndbeyond.com/spells/2619032-melfs-acid-arrow)
 
@@ -5724,7 +5746,8 @@ On your later turns, you can take a [**Magic**](https://www.dndbeyond.com/sourc
 
 ------------------------------------------------------------------------
 
-<img src="./media/image106.png" style="width:6.5in;height:4.34375in" />The Wizard Mordenkainen welcomes guests to his magical dwelling, Mordenkainen’s Magnificent Mansion
+![[Pasted image 20260517215949.png|495]]
+The Wizard Mordenkainen welcomes guests to his magical dwelling, Mordenkainen’s Magnificent Mansion
 
 [***Mordenkainen’s Magnificent Mansion***](https://www.dndbeyond.com/spells/2619112-mordenkainens-magnificent-mansion)
 
@@ -6004,7 +6027,8 @@ For the duration, the target makes a Wisdom saving throw at the end of each of i
 
 *Level 3 Illusion (Wizard)*
 
-<img src="./media/image107.png" style="width:6.5in;height:7.01389in" />Phantom Steed
+![[Pasted image 20260517220017.png|432]]
+Phantom Steed
 
 **Casting Time:** 1 minute or Ritual
 
@@ -6318,8 +6342,8 @@ Eight rays of light flash from you in a 60-foot [**Cone**](https://www.dndbeyon
 </tbody>
 </table>
 
-<img src="./media/image108.png" style="width:6.5in;height:6.54931in" />A dwarf had an unfortunate encounter with\
-the indigo ray of Prismatic Spray
+![[Pasted image 20260517220047.png|402]]
+A dwarf had an unfortunate encounter with the indigo ray of Prismatic Spray
 
 ------------------------------------------------------------------------
 
@@ -6425,9 +6449,8 @@ Until the spell ends, you can take a [**Magic**](https://www.dndbeyond.com/sour
 
 You create an illusion of an object, a creature, or some other visible phenomenon within range that activates when a specific trigger occurs. The illusion is imperceptible until then. It must be no larger than a 30-foot [**Cube**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#CubeAreaofEffect), and you decide when you cast the spell how the illusion behaves and what sounds it makes. This scripted performance can last up to 5 minutes.
 
-<img src="./media/image109.png" style="width:6.5in;height:5.0125in" />A spellcaster could use Programmed Illusion\
-to cause a watchdog to appear and kindly\
-ask intruders to leave
+![[Pasted image 20260517220113.png|360]]
+A spellcaster could use Programmed Illusion to cause a watchdog to appear and kindly ask intruders to leave
 
 When the trigger you specify occurs, the illusion springs into existence and performs in the manner you described. Once the illusion finishes performing, it disappears and remains dormant for 10 minutes, after which the illusion can be activated again.
 
@@ -6519,7 +6542,8 @@ You remove poison and rot from nonmagical food and drink in a 5-foot-radius [**
 
 Spells (R)
 
-<img src="./media/image110.png" style="width:6.5in;height:4.20556in" />A human Cleric casts Raise Dead to return a fallen comrade to life
+![[Pasted image 20260517220141.png|378]]
+A human Cleric casts Raise Dead to return a fallen comrade to life
 
 [***Raise Dead***](https://www.dndbeyond.com/spells/2618922-raise-dead)
 
@@ -6822,7 +6846,8 @@ You hurl three fiery rays. You can hurl them at one target within range or at se
 
 ------------------------------------------------------------------------
 
-<img src="./media/image111.png" style="width:6.5in;height:4.16319in" />The Scrying spell helps a gnome Bard keep in touch with friends and family around the world
+![[Pasted image 20260517220206.png|475]]
+The Scrying spell helps a gnome Bard keep in touch with friends and family around the world
 
 [***Scrying***](https://www.dndbeyond.com/spells/2619007-scrying)
 
@@ -6954,7 +6979,8 @@ You can set a condition for the spell to end early. The condition can be anythin
 
 ------------------------------------------------------------------------
 
-<img src="./media/image112.png" style="width:6.5in;height:4.02569in" />Rival mages use Shapechange to transform into a beholder and a behir during a magical duel
+![[Pasted image 20260517220227.png|442]]
+Rival mages use Shapechange to transform into a beholder and a behir during a magical duel
 
 [***Shapechange***](https://www.dndbeyond.com/spells/2618982-shapechange)
 
@@ -7118,8 +7144,8 @@ You create the image of an object, a creature, or some other visible phenomenon 
 
 As a [**Magic**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#MagicAction) action, you can cause the image to move to any spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking.
 
-<img src="./media/image113.png" style="width:6.5in;height:8.07292in" />Silent Image can concoct illusions of\
-the mundane and the whimsical
+![[Pasted image 20260517220249.png|390]]
+Silent Image can concoct illusions of the mundane and the whimsical
 
 Physical interaction with the image reveals it to be an illusion, since things can pass through it. A creature that takes a [**Study**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#StudyAction) action to examine the image can determine that it is an illusion with a successful Intelligence ([**Investigation**](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image.
 
@@ -7257,7 +7283,8 @@ For the duration, you can comprehend and verbally communicate with Beasts, and y
 
 Most Beasts have little to say about topics that don’t pertain to survival or companionship, but at minimum, a Beast can give you information about nearby locations and monsters, including whatever it has perceived within the past day.
 
-<img src="./media/image114.png" style="width:6.5in;height:4.61458in" />A human Druid uses Speak with Animals to chat with his best bear friend
+![[Pasted image 20260517220314.png|480]]
+A human Druid uses Speak with Animals to chat with his best bear friend
 
 ------------------------------------------------------------------------
 
@@ -7357,7 +7384,8 @@ When you cast this spell, you can designate creatures to be unaffected by it. An
 
 ------------------------------------------------------------------------
 
-<img src="./media/image115.png" style="width:6.5in;height:4.20556in" />A goliath Cleric casts Spiritual Weapon in battle with an umber hulk
+![[Pasted image 20260517220326.png|469]]
+A goliath Cleric casts Spiritual Weapon in battle with an umber hulk
 
 [***Spiritual Weapon***](https://www.dndbeyond.com/spells/2619081-spiritual-weapon)
 
@@ -7539,7 +7567,8 @@ The target must succeed on a Wisdom saving throw or have the [**Charmed**](http
 
 **Duration:** [**Concentration**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Concentration), up to 1 hour
 
-<img src="./media/image116.png" style="width:6.5in;height:4.77431in" />Aberrant Spirit (Beholderkin)
+![[Pasted image 20260517220353.png|442]]
+Aberrant Spirit (Beholderkin)
 
 You call forth an aberrant spirit. It manifests in an unoccupied space that you can see within range and uses the **Aberrant Spirit** stat block. When you cast the spell, choose Beholderkin, Mind Flayer, or Slaad. The creature resembles an Aberration of that kind, which determines certain details in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
 
@@ -7659,7 +7688,9 @@ Actions
 
 [***Summon Celestial***](https://www.dndbeyond.com/spells/2619108-summon-celestial)
 
-*Level 5 Conjuration (Cleric, Paladin)*<img src="./media/image117.png" style="width:6.5in;height:7.55903in" />Celestial Spirit (Avenger)
+*Level 5 Conjuration (Cleric, Paladin)*
+![[Pasted image 20260517220408.png|392]]
+Celestial Spirit (Avenger)
 
 **Casting Time:** Action
 
@@ -7723,7 +7754,7 @@ Actions
 
 *Level 4 Conjuration (Wizard)*
 
-<img src="./media/image118.png" style="width:4.75026in;height:6.9375in" />
+![[Pasted image 20260517220433.png|366]]
 
 Construct Spirit (Stone)
 
@@ -7853,7 +7884,7 @@ Actions
 
 ***Breath Weapon.**Dexterity Saving Throw:* DC equals your spell save DC, each creature in a 30-foot [**Cone**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ConeAreaofEffect). *Failure:* 2d6 damage of a type this spirit has Resistance to (your choice when you cast the spell). *Success:* Half damage.
 
-<img src="./media/image119.png" style="width:4.69578in;height:5.85417in" />
+![[Pasted image 20260517220454.png|282]]
 
 Draconic Spirit (Cold)
 
@@ -7921,7 +7952,8 @@ Actions
 
 ------------------------------------------------------------------------
 
-<img src="./media/image120.png" style="width:6.5in;height:3.27292in" />A Ranger casts Summon Fey, conjuring a fuming fey spirit to confront a marauding merrow
+![[Pasted image 20260517220506.png|432]]
+A Ranger casts Summon Fey, conjuring a fuming fey spirit to confront a marauding merrow
 
 [***Summon Fey***](https://www.dndbeyond.com/spells/2619115-summon-fey)
 
@@ -7993,7 +8025,8 @@ Bonus Actions
 
 *Level 6 Conjuration (Warlock, Wizard)*
 
-<img src="./media/image121.png" style="width:6.5in;height:6.67153in" />Fiendish Spirit (Devil)
+![[Pasted image 20260517220517.png|488]]
+Fiendish Spirit (Devil)
 
 **Casting Time:** Action
 
@@ -8079,7 +8112,7 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 ***Using a Higher-Level Spell Slot.*** Use the spell slot’s level for the spell’s level in the stat block.
 
-<img src="./media/image122.png" style="width:3.58771in;height:5.48958in" />
+![[Pasted image 20260517220530.png|305]]
 
 Undead Spirit (Ghostly)
 
@@ -8259,7 +8292,8 @@ The liquid in the cauldron duplicates the properties of a Common or an Uncommon 
 
 Potions obtained from the cauldron that aren’t consumed disappear when you cast this spell again.
 
-<img src="./media/image123.png" style="width:6.5in;height:4.34028in" />The legendary witch Tasha uses her spell, Tasha’s Bubbling Cauldron, to produce a magic potion
+![[Pasted image 20260517220551.png|403]]
+The legendary witch Tasha uses her spell, Tasha’s Bubbling Cauldron, to produce a magic potion
 
 ------------------------------------------------------------------------
 
@@ -8453,7 +8487,8 @@ You can create a permanent teleportation circle by casting this spell in the sam
 
 ------------------------------------------------------------------------
 
-<img src="./media/image124.png" style="width:6.5in;height:4.02569in" />A Red Wizard of Thay orders skeletal servants to heap riches on the disk of Tenser’s Floating Disk
+![[Pasted image 20260517220608.png|487]]
+A Red Wizard of Thay orders skeletal servants to heap riches on the disk of Tenser’s Floating Disk
 
 [***Tenser’s Floating Disk***](https://www.dndbeyond.com/spells/2619169-tensers-floating-disk)
 
@@ -8629,7 +8664,8 @@ This spell grants the creature you touch the ability to understand any spoken or
 
 ------------------------------------------------------------------------
 
-<img src="./media/image125.png" style="width:6.5in;height:2.95486in" />Transport via Plants and Tree Stride turn trees into a transportation network
+![[Pasted image 20260517220627.png|500]]
+Transport via Plants and Tree Stride turn trees into a transportation network
 
 [***Transport via Plants***](https://www.dndbeyond.com/spells/2619196-transport-via-plants)
 
@@ -8813,7 +8849,8 @@ Until the spell ends, you can make the attack again on each of your turns as a 
 
 ------------------------------------------------------------------------
 
-<img src="./media/image126.png" style="width:6.5in;height:4.4625in" />A gnome Bard casts Vicious Mockery to skewer a kobold with magical insults
+![[Pasted image 20260517220645.png|499]]
+A gnome Bard casts Vicious Mockery to skewer a kobold with magical insults
 
 [***Vicious Mockery***](https://www.dndbeyond.com/spells/2619216-vicious-mockery)
 
@@ -8833,7 +8870,8 @@ You unleash a string of insults laced with subtle enchantments at one creature y
 
 ------------------------------------------------------------------------
 
-<img src="./media/image127.png" style="width:6.5in;height:4.20278in" />A tiefling Sorcerer unleashes Vitriolic Sphere on nothics
+![[Pasted image 20260517220657.png|516]]
+A tiefling Sorcerer unleashes Vitriolic Sphere on nothics
 
 [***Vitriolic Sphere***](https://www.dndbeyond.com/spells/2619219-vitriolic-sphere)
 
@@ -9011,10 +9049,9 @@ This spell grants up to ten willing creatures of your choice within range the ab
 
 **Duration:** 1 hour
 
-<img src="./media/image128.png" style="width:5.88101in;height:7.27083in" />
+![[Pasted image 20260517220720.png|442]]
 
-Spells like Water Breathing and Water Walk\
-assist visits to aquatic realms.
+Spells like Water Breathing and Water Walk assist visits to aquatic realms.
 
 This spell grants the ability to move across any liquid surface—such as water, acid, mud, snow, quicksand, or lava—as if it were harmless solid ground (creatures crossing molten lava can still take damage from the heat). Up to ten willing creatures of your choice within range gain this ability for the duration.
 
@@ -9136,7 +9173,8 @@ Alternatively, you can create one of the following effects of your choice:
 
 The stress of casting *Wish* to produce any effect other than duplicating another spell weakens you. After enduring that stress, each time you cast a spell until you finish a [**Long Rest**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#LongRest), you take 1d10 Necrotic damage per level of that spell. This damage can’t be reduced or prevented in any way. In addition, your Strength score becomes 3 for 2d4 days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. Finally, there is a 33 percent chance that you are unable to cast *Wish* ever again if you suffer this stress.
 
-<img src="./media/image129.png" style="width:6.5in;height:4.20556in" />A halfling Warlock zaps a zombie with the grasping lightning of Witch Bolt
+![[Pasted image 20260517220801.png|490]]
+A halfling Warlock zaps a zombie with the grasping lightning of Witch Bolt
 
 [***Witch Bolt***](https://www.dndbeyond.com/spells/2619215-witch-bolt)
 

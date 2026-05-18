@@ -28301,7 +28301,7 @@ This spell ends instantly if you cast it while you are on the Ethereal Plane or 
 
 ------------------------------------------------------------------------
 
-![[Pasted image 20260517214409.png]]
+![[Pasted image 20260517214409.png|497]]
 The Wizard Evard calls on his infamous spell, Evard’s Black Tentacles, to teach reckless bandits a lesson
 
 [***Evard’s Black Tentacles***](https://www.dndbeyond.com/spells/2619187-evards-black-tentacles)
@@ -28625,7 +28625,8 @@ A Humanoid killed by this spell rises at the start of your next turn as a [**Zo
 
 ------------------------------------------------------------------------
 
-<img src="./media/image96.png" style="width:6.5in;height:3.86319in" />An elf Wizard demonstrates the problem-solving potential of the spell Fireball
+![[Pasted image 20260517215450.png|547]]
+An elf Wizard demonstrates the problem-solving potential of the spell Fireball
 
 [***Fireball***](https://www.dndbeyond.com/spells/2618887-fireball)
 
@@ -28961,7 +28962,8 @@ The target can’t talk or manipulate objects, and any objects it was carrying o
 
 ------------------------------------------------------------------------
 
-<img src="./media/image97.png" style="width:6.5in;height:4.20556in" />Otto the Bard casts Gate to open a portal to the Outlands
+![[Pasted image 20260517215530.png|512]]
+Otto the Bard casts Gate to open a portal to the Outlands
 
 [***Gate***](https://www.dndbeyond.com/spells/2618932-gate)
 
@@ -29257,7 +29259,8 @@ You touch a creature and magically remove one of the following effects from it:
 
 ------------------------------------------------------------------------
 
-<img src="./media/image98.png" style="width:6.5in;height:4.34375in" />A halfling Cleric casts Guardian of Faith to fend off a ravenous worg
+![[Pasted image 20260517215615.png|512]]
+A halfling Cleric casts Guardian of Faith to fend off a ravenous worg
 
 [***Guardian of Faith***](https://www.dndbeyond.com/spells/2619135-guardian-of-faith)
 
@@ -29553,7 +29556,8 @@ The creature that damaged you is momentarily surrounded by green flames. It make
 
 ------------------------------------------------------------------------
 
-<img src="./media/image99.png" style="width:6.5in;height:4.10208in" />The spell Heroes’ Feast prepares adventurers for greatness
+![[Pasted image 20260517215642.png|422]]
+The spell Heroes’ Feast prepares adventurers for greatness
 
 [***Heroes’ Feast***](https://www.dndbeyond.com/spells/2618983-heroes-feast)
 
@@ -29663,7 +29667,8 @@ For the duration, you emit an aura in a 30-foot [**Emanation**](https://www.dnd
 
 ------------------------------------------------------------------------
 
-<img src="./media/image100.png" style="width:6.5in;height:4.34375in" />An aasimar Warlock exposes foes to the all-consuming Hunger of Hadar
+![[Pasted image 20260517215701.png|454]]
+An aasimar Warlock exposes foes to the all-consuming Hunger of Hadar
 
 [***Hunger of Hadar***](https://www.dndbeyond.com/spells/2619162-hunger-of-hadar)
 
@@ -29737,7 +29742,8 @@ Spells (I)
 
 You create a shard of ice and fling it at one creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 Piercing damage. Hit or miss, the shard then explodes. The target and each creature within 5 feet of it must succeed on a Dexterity saving throw or take 2d6 Cold damage.
 
-<img src="./media/image101.png" style="width:6.5in;height:5.93681in" />Ice Knife
+![[Pasted image 20260517215721.png|445]]
+Ice Knife
 
 ***Using a Higher-Level Spell Slot.*** The Cold damage increases by 1d6 for each spell slot level above 1.
 
@@ -29909,7 +29915,8 @@ A creature you touch has the [**Invisible**](https://www.dndbeyond.com/sources/
 
 Spells (J)
 
-<img src="./media/image102.png" style="width:6.5in;height:4.1875in" />With her spell, Jallarzi’s Storm of Radiance, the Warlock Jallarzi makes vrocks regret leaving the Abyss
+![[Pasted image 20260517215751.png|608]]
+With her spell, Jallarzi’s Storm of Radiance, the Warlock Jallarzi makes vrocks regret leaving the Abyss
 
 [***Jallarzi’s Storm of Radiance***](https://www.dndbeyond.com/spells/2618836-jallarzis-storm-of-radiance)
 
@@ -30047,7 +30054,8 @@ The spell ends early if you leave the Emanation or if you cast it again.
 
 You touch a creature and end one condition on it: [**Blinded**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#BlindedCondition), [**Deafened**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#DeafenedCondition), [**Paralyzed**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ParalyzedCondition), or [**Poisoned**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#PoisonedCondition).
 
-<img src="./media/image103.png" style="width:6.5in;height:4.20556in" />A human Druid casts Lesser Restoration to ease the suffering of a friend who was poisoned in battle
+![[Pasted image 20260517215825.png|471]]
+A human Druid casts Lesser Restoration to ease the suffering of a friend who was poisoned in battle
 
 ------------------------------------------------------------------------
 
@@ -30201,7 +30209,8 @@ You touch a creature. The target’s Speed increases by 10 feet until the spell 
 
 Spells (M)
 
-<img src="./media/image104.png" style="width:6.5in;height:4.33125in" />A human Wizard fends off peril with Mage Armor and the unerring bolts of Magic Missile
+![[Pasted image 20260517215847.png|482]]
+A human Wizard fends off peril with Mage Armor and the unerring bolts of Magic Missile
 
 [***Mage Armor***](https://www.dndbeyond.com/spells/2619006-mage-armor)
 
@@ -30487,7 +30496,8 @@ Minor physical damage to the stone doesn’t harm you, but its partial destructi
 
 ------------------------------------------------------------------------
 
-<img src="./media/image105.png" style="width:6.5in;height:4.19375in" />The daring Wizard Melf takes aim at a rampaging troll with Melf’s Acid Arrow
+![[Pasted image 20260517215921.png|489]]
+The daring Wizard Melf takes aim at a rampaging troll with Melf’s Acid Arrow
 
 [***Melf’s Acid Arrow***](https://www.dndbeyond.com/spells/2619032-melfs-acid-arrow)
 
@@ -30781,7 +30791,8 @@ On your later turns, you can take a [**Magic**](https://www.dndbeyond.com/sourc
 
 ------------------------------------------------------------------------
 
-<img src="./media/image106.png" style="width:6.5in;height:4.34375in" />The Wizard Mordenkainen welcomes guests to his magical dwelling, Mordenkainen’s Magnificent Mansion
+![[Pasted image 20260517215949.png|495]]
+The Wizard Mordenkainen welcomes guests to his magical dwelling, Mordenkainen’s Magnificent Mansion
 
 [***Mordenkainen’s Magnificent Mansion***](https://www.dndbeyond.com/spells/2619112-mordenkainens-magnificent-mansion)
 
@@ -31061,7 +31072,8 @@ For the duration, the target makes a Wisdom saving throw at the end of each of i
 
 *Level 3 Illusion (Wizard)*
 
-<img src="./media/image107.png" style="width:6.5in;height:7.01389in" />Phantom Steed
+![[Pasted image 20260517220017.png|432]]
+Phantom Steed
 
 **Casting Time:** 1 minute or Ritual
 
@@ -31375,8 +31387,8 @@ Eight rays of light flash from you in a 60-foot [**Cone**](https://www.dndbeyon
 </tbody>
 </table>
 
-<img src="./media/image108.png" style="width:6.5in;height:6.54931in" />A dwarf had an unfortunate encounter with\
-the indigo ray of Prismatic Spray
+![[Pasted image 20260517220047.png|402]]
+A dwarf had an unfortunate encounter with the indigo ray of Prismatic Spray
 
 ------------------------------------------------------------------------
 
@@ -31482,9 +31494,8 @@ Until the spell ends, you can take a [**Magic**](https://www.dndbeyond.com/sour
 
 You create an illusion of an object, a creature, or some other visible phenomenon within range that activates when a specific trigger occurs. The illusion is imperceptible until then. It must be no larger than a 30-foot [**Cube**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#CubeAreaofEffect), and you decide when you cast the spell how the illusion behaves and what sounds it makes. This scripted performance can last up to 5 minutes.
 
-<img src="./media/image109.png" style="width:6.5in;height:5.0125in" />A spellcaster could use Programmed Illusion\
-to cause a watchdog to appear and kindly\
-ask intruders to leave
+![[Pasted image 20260517220113.png|360]]
+A spellcaster could use Programmed Illusion to cause a watchdog to appear and kindly ask intruders to leave
 
 When the trigger you specify occurs, the illusion springs into existence and performs in the manner you described. Once the illusion finishes performing, it disappears and remains dormant for 10 minutes, after which the illusion can be activated again.
 
@@ -31576,7 +31587,8 @@ You remove poison and rot from nonmagical food and drink in a 5-foot-radius [**
 
 Spells (R)
 
-<img src="./media/image110.png" style="width:6.5in;height:4.20556in" />A human Cleric casts Raise Dead to return a fallen comrade to life
+![[Pasted image 20260517220141.png|378]]
+A human Cleric casts Raise Dead to return a fallen comrade to life
 
 [***Raise Dead***](https://www.dndbeyond.com/spells/2618922-raise-dead)
 
@@ -31879,7 +31891,8 @@ You hurl three fiery rays. You can hurl them at one target within range or at se
 
 ------------------------------------------------------------------------
 
-<img src="./media/image111.png" style="width:6.5in;height:4.16319in" />The Scrying spell helps a gnome Bard keep in touch with friends and family around the world
+![[Pasted image 20260517220206.png|475]]
+The Scrying spell helps a gnome Bard keep in touch with friends and family around the world
 
 [***Scrying***](https://www.dndbeyond.com/spells/2619007-scrying)
 
@@ -32011,7 +32024,8 @@ You can set a condition for the spell to end early. The condition can be anythin
 
 ------------------------------------------------------------------------
 
-<img src="./media/image112.png" style="width:6.5in;height:4.02569in" />Rival mages use Shapechange to transform into a beholder and a behir during a magical duel
+![[Pasted image 20260517220227.png|442]]
+Rival mages use Shapechange to transform into a beholder and a behir during a magical duel
 
 [***Shapechange***](https://www.dndbeyond.com/spells/2618982-shapechange)
 
@@ -32175,8 +32189,8 @@ You create the image of an object, a creature, or some other visible phenomenon 
 
 As a [**Magic**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#MagicAction) action, you can cause the image to move to any spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking.
 
-<img src="./media/image113.png" style="width:6.5in;height:8.07292in" />Silent Image can concoct illusions of\
-the mundane and the whimsical
+![[Pasted image 20260517220249.png|390]]
+Silent Image can concoct illusions of the mundane and the whimsical
 
 Physical interaction with the image reveals it to be an illusion, since things can pass through it. A creature that takes a [**Study**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#StudyAction) action to examine the image can determine that it is an illusion with a successful Intelligence ([**Investigation**](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image.
 
@@ -32314,7 +32328,8 @@ For the duration, you can comprehend and verbally communicate with Beasts, and y
 
 Most Beasts have little to say about topics that don’t pertain to survival or companionship, but at minimum, a Beast can give you information about nearby locations and monsters, including whatever it has perceived within the past day.
 
-<img src="./media/image114.png" style="width:6.5in;height:4.61458in" />A human Druid uses Speak with Animals to chat with his best bear friend
+![[Pasted image 20260517220314.png|480]]
+A human Druid uses Speak with Animals to chat with his best bear friend
 
 ------------------------------------------------------------------------
 
@@ -32414,7 +32429,8 @@ When you cast this spell, you can designate creatures to be unaffected by it. An
 
 ------------------------------------------------------------------------
 
-<img src="./media/image115.png" style="width:6.5in;height:4.20556in" />A goliath Cleric casts Spiritual Weapon in battle with an umber hulk
+![[Pasted image 20260517220326.png|469]]
+A goliath Cleric casts Spiritual Weapon in battle with an umber hulk
 
 [***Spiritual Weapon***](https://www.dndbeyond.com/spells/2619081-spiritual-weapon)
 
@@ -32596,7 +32612,8 @@ The target must succeed on a Wisdom saving throw or have the [**Charmed**](http
 
 **Duration:** [**Concentration**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Concentration), up to 1 hour
 
-<img src="./media/image116.png" style="width:6.5in;height:4.77431in" />Aberrant Spirit (Beholderkin)
+![[Pasted image 20260517220353.png|442]]
+Aberrant Spirit (Beholderkin)
 
 You call forth an aberrant spirit. It manifests in an unoccupied space that you can see within range and uses the **Aberrant Spirit** stat block. When you cast the spell, choose Beholderkin, Mind Flayer, or Slaad. The creature resembles an Aberration of that kind, which determines certain details in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
 
@@ -32716,7 +32733,9 @@ Actions
 
 [***Summon Celestial***](https://www.dndbeyond.com/spells/2619108-summon-celestial)
 
-*Level 5 Conjuration (Cleric, Paladin)*<img src="./media/image117.png" style="width:6.5in;height:7.55903in" />Celestial Spirit (Avenger)
+*Level 5 Conjuration (Cleric, Paladin)*
+![[Pasted image 20260517220408.png|392]]
+Celestial Spirit (Avenger)
 
 **Casting Time:** Action
 
@@ -32780,7 +32799,7 @@ Actions
 
 *Level 4 Conjuration (Wizard)*
 
-<img src="./media/image118.png" style="width:4.75026in;height:6.9375in" />
+![[Pasted image 20260517220433.png|366]]
 
 Construct Spirit (Stone)
 
@@ -32910,7 +32929,7 @@ Actions
 
 ***Breath Weapon.**Dexterity Saving Throw:* DC equals your spell save DC, each creature in a 30-foot [**Cone**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ConeAreaofEffect). *Failure:* 2d6 damage of a type this spirit has Resistance to (your choice when you cast the spell). *Success:* Half damage.
 
-<img src="./media/image119.png" style="width:4.69578in;height:5.85417in" />
+![[Pasted image 20260517220454.png|282]]
 
 Draconic Spirit (Cold)
 
@@ -32978,7 +32997,8 @@ Actions
 
 ------------------------------------------------------------------------
 
-<img src="./media/image120.png" style="width:6.5in;height:3.27292in" />A Ranger casts Summon Fey, conjuring a fuming fey spirit to confront a marauding merrow
+![[Pasted image 20260517220506.png|432]]
+A Ranger casts Summon Fey, conjuring a fuming fey spirit to confront a marauding merrow
 
 [***Summon Fey***](https://www.dndbeyond.com/spells/2619115-summon-fey)
 
@@ -33050,7 +33070,8 @@ Bonus Actions
 
 *Level 6 Conjuration (Warlock, Wizard)*
 
-<img src="./media/image121.png" style="width:6.5in;height:6.67153in" />Fiendish Spirit (Devil)
+![[Pasted image 20260517220517.png|488]]
+Fiendish Spirit (Devil)
 
 **Casting Time:** Action
 
@@ -33136,7 +33157,7 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 ***Using a Higher-Level Spell Slot.*** Use the spell slot’s level for the spell’s level in the stat block.
 
-<img src="./media/image122.png" style="width:3.58771in;height:5.48958in" />
+![[Pasted image 20260517220530.png|305]]
 
 Undead Spirit (Ghostly)
 
@@ -33316,7 +33337,8 @@ The liquid in the cauldron duplicates the properties of a Common or an Uncommon 
 
 Potions obtained from the cauldron that aren’t consumed disappear when you cast this spell again.
 
-<img src="./media/image123.png" style="width:6.5in;height:4.34028in" />The legendary witch Tasha uses her spell, Tasha’s Bubbling Cauldron, to produce a magic potion
+![[Pasted image 20260517220551.png|403]]
+The legendary witch Tasha uses her spell, Tasha’s Bubbling Cauldron, to produce a magic potion
 
 ------------------------------------------------------------------------
 
@@ -33510,7 +33532,8 @@ You can create a permanent teleportation circle by casting this spell in the sam
 
 ------------------------------------------------------------------------
 
-<img src="./media/image124.png" style="width:6.5in;height:4.02569in" />A Red Wizard of Thay orders skeletal servants to heap riches on the disk of Tenser’s Floating Disk
+![[Pasted image 20260517220608.png|487]]
+A Red Wizard of Thay orders skeletal servants to heap riches on the disk of Tenser’s Floating Disk
 
 [***Tenser’s Floating Disk***](https://www.dndbeyond.com/spells/2619169-tensers-floating-disk)
 
@@ -33686,7 +33709,8 @@ This spell grants the creature you touch the ability to understand any spoken or
 
 ------------------------------------------------------------------------
 
-<img src="./media/image125.png" style="width:6.5in;height:2.95486in" />Transport via Plants and Tree Stride turn trees into a transportation network
+![[Pasted image 20260517220627.png|500]]
+Transport via Plants and Tree Stride turn trees into a transportation network
 
 [***Transport via Plants***](https://www.dndbeyond.com/spells/2619196-transport-via-plants)
 
@@ -33870,7 +33894,8 @@ Until the spell ends, you can make the attack again on each of your turns as a 
 
 ------------------------------------------------------------------------
 
-<img src="./media/image126.png" style="width:6.5in;height:4.4625in" />A gnome Bard casts Vicious Mockery to skewer a kobold with magical insults
+![[Pasted image 20260517220645.png|499]]
+A gnome Bard casts Vicious Mockery to skewer a kobold with magical insults
 
 [***Vicious Mockery***](https://www.dndbeyond.com/spells/2619216-vicious-mockery)
 
@@ -33890,7 +33915,8 @@ You unleash a string of insults laced with subtle enchantments at one creature y
 
 ------------------------------------------------------------------------
 
-<img src="./media/image127.png" style="width:6.5in;height:4.20278in" />A tiefling Sorcerer unleashes Vitriolic Sphere on nothics
+![[Pasted image 20260517220657.png|516]]
+A tiefling Sorcerer unleashes Vitriolic Sphere on nothics
 
 [***Vitriolic Sphere***](https://www.dndbeyond.com/spells/2619219-vitriolic-sphere)
 
@@ -34068,10 +34094,9 @@ This spell grants up to ten willing creatures of your choice within range the ab
 
 **Duration:** 1 hour
 
-<img src="./media/image128.png" style="width:5.88101in;height:7.27083in" />
+![[Pasted image 20260517220720.png|442]]
 
-Spells like Water Breathing and Water Walk\
-assist visits to aquatic realms.
+Spells like Water Breathing and Water Walk assist visits to aquatic realms.
 
 This spell grants the ability to move across any liquid surface—such as water, acid, mud, snow, quicksand, or lava—as if it were harmless solid ground (creatures crossing molten lava can still take damage from the heat). Up to ten willing creatures of your choice within range gain this ability for the duration.
 
@@ -34193,7 +34218,8 @@ Alternatively, you can create one of the following effects of your choice:
 
 The stress of casting *Wish* to produce any effect other than duplicating another spell weakens you. After enduring that stress, each time you cast a spell until you finish a [**Long Rest**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#LongRest), you take 1d10 Necrotic damage per level of that spell. This damage can’t be reduced or prevented in any way. In addition, your Strength score becomes 3 for 2d4 days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. Finally, there is a 33 percent chance that you are unable to cast *Wish* ever again if you suffer this stress.
 
-<img src="./media/image129.png" style="width:6.5in;height:4.20556in" />A halfling Warlock zaps a zombie with the grasping lightning of Witch Bolt
+![[Pasted image 20260517220801.png|490]]
+A halfling Warlock zaps a zombie with the grasping lightning of Witch Bolt
 
 [***Witch Bolt***](https://www.dndbeyond.com/spells/2619215-witch-bolt)
 
@@ -34310,7 +34336,7 @@ An affected creature is aware of the spell and can avoid answering questions to 
 
 This appendix provides an overview of the multiverse, the overarching reality that encompasses D&D’s countless worlds and adventures. These realms are explored in [greater detail](https://www.dndbeyond.com/sources/dnd/dmg-2024/cosmology) in the [*Dungeon Master’s Guide*](https://www.dndbeyond.com/sources/dnd/dmg-2024), along with other planes like the [**Far Realm**](https://www.dndbeyond.com/sources/dnd/dmg-2024/cosmology#FarRealm), [**Negative Plane**](https://www.dndbeyond.com/sources/dnd/dmg-2024/cosmology#NegativePlane), and [**Positive Plane**](https://www.dndbeyond.com/sources/dnd/dmg-2024/cosmology#PositivePlane).
 
-<img src="./media/image130.png" style="width:5.47206in;height:7.375in" />
+![[Pasted image 20260517220818.png|588]]
 
 The Material Realms
 
@@ -34560,7 +34586,8 @@ Actions
 
 ***Bite.*** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 1 Piercing damage.
 
-<img src="./media/image131.png" style="width:6.5in;height:5.0125in" />Bat
+![[Pasted image 20260517220857.png|262]]
+Bat
 
 ------------------------------------------------------------------------
 
@@ -34714,7 +34741,8 @@ Actions
 
 ------------------------------------------------------------------------
 
-<img src="./media/image132.png" style="width:5.58546in;height:6.98958in" />Cat
+![[Pasted image 20260517220914.png|252]]
+Cat
 
 [**Cat**](https://www.dndbeyond.com/monsters/4775808-cat)
 
@@ -34872,7 +34900,7 @@ Actions
 
 ***Bite.*** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 6 (1d8 + 2) Piercing damage. If the target is a Medium or smaller creature, it has the [**Grappled**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#GrappledCondition) condition (escape DC 12). While Grappled, the target has the [**Restrained**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#RestrainedCondition) condition.
 
-<img src="./media/image133.png" style="width:5.58072in;height:6.4375in" />
+![[Pasted image 20260517220929.png|357]]
 
 Crocodile
 
@@ -35026,7 +35054,7 @@ Actions
 
 ***Ram.*** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Bludgeoning damage. If the target is a Large or smaller creature and the elk moved 20+ feet straight toward it immediately before the hit, the target takes an extra 3 (1d6) Bludgeoning damage and has the [**Prone**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ProneCondition) condition.
 
-<img src="./media/image134.png" style="width:4.84213in;height:3.98958in" />
+![[Pasted image 20260517220945.png|331]]
 
 Frog
 
@@ -35074,7 +35102,7 @@ Actions
 
 ------------------------------------------------------------------------
 
-<img src="./media/image135.png" style="width:5.1018in;height:5.44792in" />
+![[Pasted image 20260517220959.png|337]]
 
 Giant Badger
 
@@ -35276,7 +35304,8 @@ Actions
 
 ***Web (Recharge 5–6).*** *Dexterity Saving Throw:* DC 13, one creature the spider can see within 60 feet. *Failure:* The target has the [**Restrained**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#RestrainedCondition) condition until the web is destroyed (AC 10; HP 5; Vulnerability to Fire damage; Immunity to Poison and Psychic damage).
 
-<img src="./media/image136.png" style="width:6.5in;height:5.66736in" />Giant Spiders
+![[Pasted image 20260517221016.png|433]]
+Giant Spiders
 
 ------------------------------------------------------------------------
 
@@ -35434,7 +35463,8 @@ Actions
 
 ***Shape-Shift.*** The imp [**shape-shifts**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ShapeShifting) to resemble a rat (Speed 20 ft.), a raven (20 ft., Fly 60 ft.), or a spider (20 ft., Climb 20 ft.), or it returns to its true form. Its game statistics are the same in each form, except for its Speed. Any equipment it is wearing or carrying isn’t transformed.
 
-<img src="./media/image137.png" style="width:5.93382in;height:5.60417in" />Imp
+![[Pasted image 20260517221031.png|345]]
+Imp
 
 ------------------------------------------------------------------------
 
@@ -35556,7 +35586,8 @@ Actions
 
 ***Bite.*** *Melee Attack Roll:* +3, reach 5 ft. *Hit:* 4 (1d6 + 1) Piercing damage. If the target is a Medium or smaller creature, it has the [**Prone**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ProneCondition) condition.
 
-<img src="./media/image138.png" style="width:5.51837in;height:4.36458in" />Mastiff
+![[Pasted image 20260517221049.png|399]]
+Mastiff
 
 ------------------------------------------------------------------------
 
@@ -35756,7 +35787,8 @@ Actions
 
 ***Hooves.*** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Bludgeoning damage.
 
-<img src="./media/image139.png" style="width:5.65468in;height:4.77083in" />Pseudodragon
+![[Pasted image 20260517221105.png|376]]
+Pseudodragon
 
 ------------------------------------------------------------------------
 
@@ -35852,7 +35884,7 @@ Actions
 
 ***Shape-Shift.*** The quasit [**shape-shifts**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ShapeShifting) to resemble a bat (Speed 10 ft., Fly 40 ft.), a centipede (40 ft., Climb 40 ft.), or a toad (40 ft., Swim 40 ft.), or it returns to its true form. Its game statistics are the same in each form, except for its Speed. Any equipment it is wearing or carrying isn’t transformed.
 
-<img src="./media/image140.png" style="width:4.85837in;height:5.42569in" />
+![[Pasted image 20260517221117.png|354]]
 
 Quasit
 
@@ -36130,7 +36162,8 @@ Actions
 
 ***Bite.*** *Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Piercing damage.
 
-<img src="./media/image141.png" style="width:6.075in;height:8.3in" />Slaad Tadpole
+![[Pasted image 20260517221136.png|278]]
+Slaad Tadpole
 
 ------------------------------------------------------------------------
 
@@ -36178,7 +36211,7 @@ Reactions
 
 ***Burst of Ingenuity (2/Day).*** *Trigger:* The sphinx or another creature within 30 feet makes an ability check or a saving throw. *Response:* The sphinx adds 2 to the roll.
 
-<img src="./media/image142.png" style="width:4.984in;height:6.07292in" />
+![[Pasted image 20260517221147.png|481]]
 
 Sphinx of Wonder
 
@@ -36266,7 +36299,8 @@ Actions
 
 ***Invisibility.*** The sprite casts [***Invisibility***](https://www.dndbeyond.com/spells/2619116-invisibility) on itself, requiring no spell components and using Charisma as the spellcasting ability.
 
-<img src="./media/image143.png" style="width:6.5in;height:7.76111in" />Sprite
+![[Pasted image 20260517221157.png|368]]
+Sprite
 
 ------------------------------------------------------------------------
 
@@ -36412,7 +36446,8 @@ Actions
 
 ***Bite.*** *Melee Attack Roll:* +5, reach 5 ft. *Hit:* 1 Piercing damage.
 
-**BORJA PINDADO**<img src="./media/image144.png" style="width:6.5in;height:2.62569in" />Wolf
+![[Pasted image 20260517221218.png|497]]
+Wolf
 
 ------------------------------------------------------------------------
 
@@ -36545,7 +36580,7 @@ The glossary uses the following conventions:
 | **Wis.** | Wisdom              |
 | **XP**   | Experience Point(s) |
 
-<img src="./media/image145.png" style="width:6.5in;height:0.67014in" />
+![[Pasted image 20260517221248.png]]
 
 Rules Definitions
 
@@ -37068,7 +37103,7 @@ A Cylinder is an [area of effect](https://www.dndbeyond.com/sources/dnd/phb-202
 
 A Cylinder’s point of origin is included in the area of effect.
 
-<img src="./media/image146.png" style="width:6.5in;height:0.69097in" />
+![[Pasted image 20260517221319.png]]
 
 ------------------------------------------------------------------------
 
@@ -37910,7 +37945,7 @@ Round Down
 
 Whenever you divide or multiply a number in the game, round down if you end up with a fraction, even if the fraction is one-half or greater. Some rules make an exception and tell you to round up.
 
-<img src="./media/image147.png" style="width:6.5in;height:0.69722in" />
+![[Pasted image 20260517221356.png]]
 
 ------------------------------------------------------------------------
 
