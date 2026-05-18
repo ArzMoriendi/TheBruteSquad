@@ -4370,7 +4370,7 @@ Character class provides a character’s most exciting capabilities. This chapte
 **
 
 ### **Barbarian**
-
+![[Pasted image 20260517203246.png|558]]
 A Fierce Warrior of Primal Rage
 
 <table>
@@ -4748,7 +4748,7 @@ Barbarian Subclasses
 A Barbarian subclass is a specialization that grants you features at certain Barbarian levels, as specified in the subclass. This section presents the [Path of the Berserker](https://www.dndbeyond.com/sources/dnd/phb-2024/character-classes#PathoftheBerserker), [Path of the Wild Heart](https://www.dndbeyond.com/sources/dnd/phb-2024/character-classes#PathoftheWildHeart), [Path of the World Tree](https://www.dndbeyond.com/sources/dnd/phb-2024/character-classes#PathoftheWorldTree), and [Path of the Zealot](https://www.dndbeyond.com/sources/dnd/phb-2024/character-classes#PathoftheZealot) subclasses.
 
 Path of the Berserker
-
+![[Pasted image 20260517203337.png|283]]
 Path of the Berserker Subclass
 
 *Channel Rage into Violent Fury*
@@ -4778,7 +4778,7 @@ Path of the Wild Heart
 *Walk in Community with the Animal World*
 
 Barbarians who follow the Path of the Wild Heart view themselves as kin to animals. These Barbarians learn magical means to communicate with animals, and their Rage heightens their connection to animals as it fills them with supernatural might.
-
+![[Pasted image 20260517203404.png|247]]
 Path of the Wild Heart Subclass
 
 **Level 3: Animal Speaker**
@@ -4820,7 +4820,7 @@ Whenever you activate your Rage, you gain one of the following options of your c
 ***Ram.*** While your Rage is active, you can cause a Large or smaller creature to have the [**Prone**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ProneCondition) condition when you hit it with a melee attack.
 
 Path of the World Tree
-
+![[Pasted image 20260517203428.png|191]]
 Path of the World Tree Subclass
 
 *Trace the Roots and Branches of the Multiverse*
@@ -4854,7 +4854,7 @@ Path of the Zealot
 *Rage in Ecstatic Union with a God*
 
 Barbarians who walk the Path of the Zealot receive boons from a god or pantheon. These Barbarians experience their Rage as an ecstatic episode of divine union that infuses them with power. They are often allies to the priests and other followers of their god or pantheon.
-
+![[Pasted image 20260517203447.png|188]]
 Path of the Zealot Subclass
 
 **Level 3: Divine Fury**
@@ -4892,7 +4892,7 @@ While in this form, you gain the benefits below.
 ***Revivification.*** When a creature within 30 feet of you would drop to 0 Hit Points, you can take a Reaction to expend a use of your Rage to instead change the target’s Hit Points to a number equal to your Barbarian level.
 
 ### **Bard**
-
+![[Pasted image 20260517203503.png|537]]
 An Inspiring Performer of Music, Dance, and Magic
 
 <table>
@@ -5414,7 +5414,7 @@ You gain a Bard subclass of your choice. The [College of Dance](https://www.dnd
 **Level 4: Ability Score Improvement**
 
 You gain the Ability Score Improvement feat (see [chapter 5](https://www.dndbeyond.com/sources/dnd/phb-2024/feats#AbilityScoreImprovement)) or another feat of your choice for which you qualify. You gain this feature again at Bard levels 8, 12, and 16.
-
+![[Pasted image 20260517203533.png|358]]
 A Bard shapes inspiration and imagination into magic
 
 **Level 5: Font of Inspiration**
@@ -6352,7 +6352,7 @@ Bard Subclasses
 A Bard subclass is a specialization that grants you features at certain Bard levels, as specified in the subclass. Bards form loose associations, which they call colleges, to preserve their traditions. This section presents the [College of Dance](https://www.dndbeyond.com/sources/dnd/phb-2024/character-classes#CollegeofDance), [College of Glamour](https://www.dndbeyond.com/sources/dnd/phb-2024/character-classes#CollegeofGlamour), [College of Lore](https://www.dndbeyond.com/sources/dnd/phb-2024/character-classes#CollegeofLore), and [College of Valor](https://www.dndbeyond.com/sources/dnd/phb-2024/character-classes#CollegeofValor) subclasses.
 
 College of Dance
-
+![[Pasted image 20260517203610.png|192]]
 College of Dance Subclass
 
 *Move in Harmony with the Cosmos*
@@ -6392,7 +6392,7 @@ College of Glamour
 *Weave Beguiling Fey Magic*
 
 The College of Glamour traces its origins to the beguiling magic of the Feywild. Bards who study this magic weave threads of beauty and terror into their songs and stories, and the mightiest among them can cloak themselves in otherworldly majesty. Their performances stir up wistful longing for forgotten innocence, evoke unconscious memories of long-held fears, and tug at the emotions of even the most hard-hearted listeners.
-
+![[Pasted image 20260517203635.png|216]]
 College of Glamour Subclass
 
 **Level 3: Beguiling Magic**
@@ -6424,7 +6424,7 @@ As a Bonus Action, you can assume a magically majestic presence for 1 minute or 
 Once you assume this majestic presence, you can’t do so again until you finish a [**Short**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ShortRest) or [**Long Rest**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#LongRest).
 
 College of Lore
-
+![[Pasted image 20260517203821.png|223]]
 College of Lore Subclass
 
 *Plumb the Depths of Magical Knowledge*
@@ -6452,7 +6452,7 @@ When you make an ability check or attack roll and fail, you can expend one use o
 College of Valor
 
 *Sing the Deeds of Ancient Heroes*
-
+![[Pasted image 20260517203847.png|217]]
 College of Valor Subclass
 
 Bards of the College of Valor are daring storytellers whose tales preserve the memory of the great heroes of the past. These Bards sing the deeds of the mighty in vaulted halls or to crowds gathered around great bonfires. They travel to witness great events firsthand and to ensure that the memory of these events doesn’t pass away. With their songs, they inspire new generations to reach the same heights of accomplishment as the heroes of old.
@@ -6485,7 +6485,7 @@ After you cast a spell that has a casting time of an action, you can make one at
 **
 
 ### **Cleric**
-
+![[Pasted image 20260517203907.png|536]]
 A Miraculous Priest of Divine Power
 
 <table>
@@ -7011,7 +7011,7 @@ Divine power infuses you in battle. You gain one of the following options of you
 **Level 10: Divine Intervention**
 
 You can call on your deity or pantheon to intervene on your behalf. As a [**Magic**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#MagicAction) action, choose any Cleric spell of level 5 or lower that doesn’t require a Reaction to cast. As part of the same action, you cast that spell without expending a spell slot or needing Material components. You can’t use this feature again until you finish a [**Long Rest**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#LongRest).
-
+![[Pasted image 20260517203941.png|365]]
 A Cleric prays for the day’s spells
 
 **Level 14: Improved Blessed Strikes**
@@ -7838,7 +7838,7 @@ When a spell you cast with a spell slot restores Hit Points to a creature, that 
 **Level 3: Life Domain Spells**
 
 Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Life Domain Spells table, you thereafter always have the listed spells prepared.
-
+![[Pasted image 20260517204004.png|216]]
 Life Domain Subclass
 
 <table>
@@ -7892,7 +7892,7 @@ Light Domain
 *Bring Light to Banish Darkness*
 
 The Light Domain emphasizes the divine power to bring about blazing fire and revelation. Clerics who wield this power are enlightened souls infused with radiance and the power of their deities’ discerning vision, charged with chasing away lies and burning away darkness.
-
+![[Pasted image 20260517204021.png|218]]
 Light Domain Subclass
 
 The Light Domain is associated with gods of truth, vigilance, beauty, insight, and renewal. Some of these gods are identified with the sun or as charioteers who guide the sun across the sky. Others are sentinels who pierce deception. Some are deities of beauty and artistry who teach that art is a vehicle for the soul’s improvement.
@@ -7962,7 +7962,7 @@ Trickery Domain
 *Make Mischief and Challenge Authority*
 
 The Trickery Domain offers magic of deception, illusion, and stealth. Clerics who wield this magic are a disruptive force in the world, puncturing pride, mocking tyrants, freeing captives, and flouting hollow traditions. They prefer subterfuge and pranks to direct confrontation.
-
+![[Pasted image 20260517204045.png|192]]
 Trickery Domain Subclass
 
 Gods of trickery are mischief-makers and instigators who stand as a constant challenge to the accepted order among both gods and mortals. They embody the forces of change and social upheaval, and they’re patrons of thieves, scoundrels, gamblers, rebels, and liberators. Religious orders that operate in secret, especially those that seek to undermine oppressive governments or hierarchies, also draw on the power of the Trickery Domain.
@@ -8080,7 +8080,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 </tr>
 </tbody>
 </table>
-
+![[Pasted image 20260517204110.png|192]]
 War Domain Subclass
 
 **Level 3: War Priest**
@@ -8096,7 +8096,7 @@ You can expend a use of your Channel Divinity to cast [***Shield of Faith***](h
 You gain Resistance to Bludgeoning, Piercing, and Slashing damage.
 
 ### **Druid**
-
+![[Pasted image 20260517204129.png|521]]
 A Nature Priest of Primal Power
 
 <table>
@@ -8712,7 +8712,7 @@ The vitality of nature constantly blooms within you, granting you the following 
 ***Nature Magician.*** You can convert uses of Wild Shape into a spell slot (no action required). Choose a number of your unexpended uses of Wild Shape and convert them into a single spell slot, with each use contributing 2 spell levels. For example, if you convert two uses of Wild Shape, you produce a level 4 spell slot. Once you use this benefit, you can’t do so again until you finish a [**Long Rest**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#LongRest).
 
 ***Longevity.*** The primal magic that you wield causes you to age more slowly. For every ten years that pass, your body ages only one year.
-
+![[Pasted image 20260517204251.png|521]]
 A Druid channels the power of nature through their magic
 
 Druid Spell List
@@ -9603,7 +9603,7 @@ Circle of the Land
 *Celebrate Connection to the Natural World*
 
 The Circle of the Land comprises mystics and sages who safeguard ancient knowledge and rites. These Druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle’s wisest members preside as the chief priests of their communities.
-
+![[Pasted image 20260517204309.png|212]]
 Circle of the Land Subclass
 
 **Level 3: Circle of the Land Spells**
@@ -9863,13 +9863,13 @@ In addition, you can cast the spells from this feature while you’re in a Wild 
 **Level 6: Improved Circle Forms**
 
 While in a Wild Shape form, you gain the following benefits.
-
+![[Pasted image 20260517204336.png|199]]
 Circle of the Moon Subclass
 
 ***Lunar Radiance.*** Each of your attacks in a Wild Shape form can deal its normal damage type or Radiant damage. You make this choice each time you hit with those attacks.
 
 ***Increased Toughness.*** You can add your Wisdom modifier to your Constitution saving throws.
-
+![[Pasted image 20260517204354.png|286]]
 A Druid in wolf form howls at the moon
 
 **Level 10: Moonlight Step**
@@ -9935,7 +9935,7 @@ When you reach a Druid level specified in the Circle of the Sea Spells table, yo
 As a Bonus Action, you can expend a use of your Wild Shape to manifest a 5-foot [**Emanation**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#EmanationAreaofEffect) that takes the form of ocean spray that surrounds you for 10 minutes. It ends early if you dismiss it (no action required), manifest it again, or have the [**Incapacitated**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition) condition.
 
 When you manifest the Emanation and as a Bonus Action on your subsequent turns, you can choose another creature you can see in the Emanation. The target must succeed on a Constitution saving throw against your spell save DC or take Cold damage and, if the creature is Large or smaller, be pushed up to 15 feet away from you. To determine this damage, roll a number of d6s equal to your Wisdom modifier (minimum of one die).
-
+![[Pasted image 20260517204409.png|182]]
 Circle of the Sea Subclass
 
 **Level 6: Aquatic Affinity**
@@ -10013,7 +10013,7 @@ If you lose the map, you can perform a 1-hour ceremony to magically create a rep
 </tr>
 </tbody>
 </table>
-
+![[Pasted image 20260517204428.png|196]]
 Circle of the Stars Subclass
 
 **Level 3: Starry Form**
@@ -10051,7 +10051,7 @@ Moreover, at the start of each of your turns while in your Starry Form, you can 
 While in your Starry Form, you become partially incorporeal, giving you Resistance to Bludgeoning, Piercing, and Slashing damage.
 
 ### **Fighter**
-
+![[Pasted image 20260517204444.png|494]]
 A Master of All Arms and Armor
 
 <table>
@@ -10353,7 +10353,7 @@ You gain an Epic Boon feat (see [chapter 5](https://www.dndbeyond.com/sources/d
 **Level 20: Three Extra Attacks**
 
 You can attack four times instead of once whenever you take the [**Attack**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#AttackAction) action on your turn.
-
+![[Pasted image 20260517204551.png|476]]
 A Fighter stands between an ally and the onslaught of a black dragon
 
 Fighter Subclasses
@@ -10369,7 +10369,7 @@ Battle Masters are students of the art of battle, learning martial techniques pa
 **Level 3: Combat Superiority**
 
 Your experience on the battlefield has refined your fighting techniques. You learn maneuvers that are fueled by special dice called Superiority Dice.
-
+![[Pasted image 20260517204606.png|213]]
 Battle Master Subclass
 
 ***Maneuvers.*** You learn three maneuvers of your choice from the [“Maneuver Options”](https://www.dndbeyond.com/sources/dnd/phb-2024/character-classes#ManeuverOptions) section later in this subclass’s description. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.
@@ -10491,7 +10491,7 @@ When you make an Intelligence ([**History**](https://www.dndbeyond.com/sources/d
 When you hit a creature with an attack roll using a weapon or an [**Unarmed Strike**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnarmedStrike), you can expend one Superiority Die and add the die to the attack’s damage roll. If the target is Large or smaller, it must succeed on a Strength saving throw or have the [**Prone**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ProneCondition) condition.
 
 Champion
-
+![[Pasted image 20260517204637.png|197]]
 Champion Subclass
 
 *Pursue Physical Excellence in Combat*
@@ -10533,7 +10533,7 @@ Eldritch Knight
 *Support Combat Skills with Arcane Magic*
 
 Eldritch Knights combine the martial mastery common to all Fighters with a careful study of magic. Their spells both complement and extend their combat skills, providing additional protection to shore up their armor and also allowing them to engage many foes at once with explosive magic.
-
+![[Pasted image 20260517204703.png|332]]
 Eldritch Knight Subclass
 
 **Level 3: Spellcasting**
@@ -10759,7 +10759,7 @@ Psi Warrior
 *Augment Physical Might with Psionic Power*
 
 Psi Warriors awaken the power of their minds to augment their physical might. They harness this psionic power to infuse their weapon strikes, lash out with telekinetic energy, and create barriers of mental force.
-
+![[Pasted image 20260517204721.png|198]]
 Psi Warrior Subclass
 
 **Level 3: Psionic Power**
@@ -10853,7 +10853,7 @@ You always have the [***Telekinesis***](https://www.dndbeyond.com/spells/261915
 Once you cast the spell with this feature, you can’t do so in this way again until you finish a [**Long Rest**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#LongRest) unless you expend a Psionic Energy Die (no action required) to restore your use of it.
 
 ### **Monk**
-
+![[Pasted image 20260517204741.png|523]]
 A Martial Artist of Supernatural Focus
 
 <table>
@@ -11251,7 +11251,7 @@ Warrior of Mercy
 *Manipulate Forces of Life and Death*
 
 Warriors of Mercy manipulate the life force of others. These Monks are wandering physicians, but they bring a swift end to their enemies. They often wear masks, presenting themselves as faceless bringers of life and death.
-
+![[Pasted image 20260517204940.png|206]]
 Warrior of Mercy Subclass
 
 **Level 3: Hand of Harm**
@@ -11291,7 +11291,7 @@ Your mastery of life energy opens the door to the ultimate mercy. As a [**Magic
 Once you use this feature, you can’t use it again until you finish a [**Long Rest**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#LongRest).
 
 Warrior of Shadow
-
+![[Pasted image 20260517205004.png|191]]
 Warrior of Shadow Subclass
 
 *Harness Shadow Power for Stealth and Subterfuge*
@@ -11331,7 +11331,7 @@ Warrior of the Elements
 *Wield Strikes and Bursts of Elemental Power*
 
 Warriors of the Elements tap into the power of the Elemental Planes. Harnessing their supernatural focus, these Monks momentarily tame the energy of the Elemental Chaos to empower themselves in and out of battle.
-
+![[Pasted image 20260517205024.png|246]]
 Warrior of the Elements Subclass
 
 **Level 3: Elemental Attunement**
@@ -11367,7 +11367,7 @@ While your Elemental Attunement is active, you also gain the following benefits.
 ***Empowered Strikes.*** Once on each of your turns, you can deal extra damage to a target equal to one roll of your Martial Arts die when you hit it with an [**Unarmed Strike**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnarmedStrike). The extra damage is the same type dealt by that strike.
 
 Warrior of the Open Hand
-
+![[Pasted image 20260517205049.png|230]]
 Warrior of the Open Hand Subclass
 
 *Master Unarmed Combat Techniques*
@@ -11401,7 +11401,7 @@ You gain the ability to set up lethal vibrations in someone’s body. When you h
 You can have only one creature under the effect of this feature at a time. You can end the vibrations harmlessly (no action required).
 
 ### **Paladin**
-
+![[Pasted image 20260517205117.png|539]]
 A Devout Warrior of Sacred Oaths
 
 <table>
@@ -11825,9 +11825,8 @@ You can attack twice instead of once whenever you take the [**Attack**](https:/
 You can call on the aid of an otherworldly steed. You always have the [***Find Steed***](https://www.dndbeyond.com/spells/2618879-find-steed) spell prepared.
 
 You can also cast the spell once without expending a spell slot, and you regain the ability to do so when you finish a [**Long Rest**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#LongRest).
-
-A Paladin’s dedication to her\
-cause manifests as magical might
+![[Pasted image 20260517205246.png|278]]
+A Paladin’s dedication to her cause manifests as magical might
 
 **Level 6: Aura of Protection**
 
@@ -12245,7 +12244,7 @@ These paladins share the following tenets:
 **Level 3: Oath of Devotion Spells**
 
 The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of Devotion Spells table, you thereafter always have the listed spells prepared.
-
+![[Pasted image 20260517205316.png|257]]
 Oath of Devotion Subclass
 
 <table style="width:100%;">
@@ -12317,7 +12316,7 @@ Oath of Glory
 *Strive for the Heights of Heroism*
 
 Paladins who take the Oath of Glory believe they and their companions are destined to achieve glory through deeds of heroism. They train diligently and encourage their companions, so they’re all ready when destiny calls.
-
+![[Pasted image 20260517205335.png|202]]
 Oath of Glory Subclass
 
 These paladins share the following tenets:
@@ -12463,7 +12462,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 **Level 7: Aura of Warding**
 
 Ancient magic lies so heavily upon you that it forms an eldritch ward, blunting energy from beyond the Material Plane; you and your allies have Resistance to Necrotic, Psychic, and Radiant damage while in your Aura of Protection.
-
+![[Pasted image 20260517205410.png|203]]
 Oath of the Ancients Subclass
 
 **Level 15: Undying Sentinel**
@@ -12487,7 +12486,7 @@ Oath of Vengeance
 *Punish Evildoers at Any Cost*
 
 The Oath of Vengeance is a solemn commitment to punish those who have committed grievously evil acts. When evil armies slaughter helpless villagers, when a tyrant defies the will of the gods, when a thieves’ guild grows too violent, when a dragon rampages through the countryside—at times like these, paladins arise and swear an Oath of Vengeance to set right what has gone wrong.
-
+![[Pasted image 20260517205430.png|211]]
 Oath of Vengeance Subclass
 
 These paladins share the following tenets:
@@ -12563,7 +12562,7 @@ As a Bonus Action, you gain the benefits below for 10 minutes or until you end t
 ***Frightful Aura.*** Whenever an enemy starts its turn in your Aura of Protection, that creature must succeed on a Wisdom saving throw or have the [**Frightened**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#FrightenedCondition) condition for 1 minute or until it takes any damage. Attack rolls against the Frightened creature have [**Advantage**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Advantage).
 
 ### **Ranger**
-
+![[Pasted image 20260517205455.png|443]]
 A Wandering Warrior Imbued with Primal Magic
 
 <table>
@@ -12983,7 +12982,7 @@ Primal forces now help fuel you on your journeys, granting you the following ben
 **Level 13: Relentless Hunter**
 
 Taking damage can’t break your [**Concentration**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Concentration) on [***Hunter’s Mark***](https://www.dndbeyond.com/spells/2619166-hunters-mark).
-
+![[Pasted image 20260517205528.png|357]]
 **Level 14: Nature’s Veil**
 
 You invoke spirits of nature to magically hide yourself. As a Bonus Action, you can give yourself the [**Invisible**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#InvisibleCondition) condition until the end of your next turn.
@@ -13424,7 +13423,7 @@ Beast Master
 *Bond with a Primal Beast*
 
 A Beast Master forms a mystical bond with a special animal, drawing on primal magic and a deep connection to the natural world.
-
+![[Pasted image 20260517205549.png|201]]
 Beast Master Subclass
 
 **Level 3: Primal Companion**
@@ -13620,7 +13619,7 @@ When you reach a Ranger level specified in the Fey Wanderer Spells table, you th
 </table>
 
 You also possess a fey blessing. Choose it from the Feywild Gifts table or determine it randomly.
-
+![[Pasted image 20260517205618.png|189]]
 Fey Wanderer Subclass
 
 <table style="width:100%;">
@@ -13694,7 +13693,7 @@ Gloom Stalker
 *Draw on Shadow Magic to Fight Your Foes*
 
 Gloom Stalkers are at home in the darkest places, wielding magic drawn from the Shadowfell to combat enemies that lurk in darkness.
-
+![[Pasted image 20260517205637.png|194]]
 Gloom Stalker Subclass
 
 **Level 3: Dread Ambusher**
@@ -13772,7 +13771,7 @@ The Psychic damage of your Dreadful Strike becomes 2d8. In addition, when you us
 When a creature makes an attack roll against you, you can take a Reaction to impose [**Disadvantage**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Disadvantage) on that roll. Whether the attack hits or misses, you can then teleport up to 30 feet to an unoccupied space you can see.
 
 Hunter
-
+![[Pasted image 20260517205655.png|218]]
 Hunter Subclass
 
 *Protect Nature and People from Destruction*
@@ -13808,8 +13807,8 @@ Once per turn when you deal damage to a creature marked by your [***Hunter’s 
 When you take damage, you can take a Reaction to give yourself Resistance to that damage and any other damage of the same type until the end of the current turn.
 
 ### **Rogue**
-
-**AURORE FOLNY**A Dexterous Expert in Stealth and Subterfuge
+![[Pasted image 20260517205721.png|502]]
+A Dexterous Expert in Stealth and Subterfuge
 
 <table>
 <colgroup>
@@ -14076,8 +14075,7 @@ To use this effect, you must have a [**Poisoner’s Kit**](https://www.dndbeyon
 ***Trip (Cost: 1d6).*** If the target is Large or smaller, it must succeed on a Dexterity saving throw or have the [**Prone**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ProneCondition) condition.
 
 ***Withdraw (Cost: 1d6).*** Immediately after the attack, you move up to half your Speed without provoking [**Opportunity Attacks**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#OpportunityAttack).
-
-**BRYAN SOLA**
+![[Pasted image 20260517205741.png|498]]
 
 **Level 5: Uncanny Dodge**
 
@@ -14144,7 +14142,7 @@ Whenever you gain a Rogue level, you can replace one of your cantrips, except [
 When you reach Rogue level 10, you learn another Wizard cantrip of your choice.
 
 ***Spell Slots.*** The Arcane Trickster Spellcasting table shows how many spell slots you have to cast your level 1+ spells. You regain all expended spell slots when you finish a [**Long Rest**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#LongRest).
-
+![[Pasted image 20260517205802.png|212]]
 Arcane Trickster Subclass
 
 <table style="width:93%;">
@@ -14351,14 +14349,14 @@ Immediately after a creature casts a spell that targets you or includes you in i
 
 Once you steal a spell with this feature, you can’t use this feature again until you finish a [**Long Rest**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#LongRest).
 
-**BILLY CHRISTIAN**
+![[Pasted image 20260517205828.png|476]]
 
 Assassin
 
 *Practice the Grim Art of Death*
 
 An Assassin’s training focuses on using stealth, poison, and disguise to eliminate foes with deadly efficiency. While some Rogues who follow this path are hired killers, spies, or bounty hunters, the capabilities of this subclass are equally useful for adventurers facing a variety of monstrous enemies.
-
+![[Pasted image 20260517205901.png|189]]
 Assassin Subclass
 
 **Level 3: Assassinate**
@@ -14448,7 +14446,7 @@ You harbor a wellspring of psionic energy within yourself. It is represented by 
 </tr>
 </tbody>
 </table>
-
+![[Pasted image 20260517205921.png|191]]
 Soulknife Subclass
 
 Any features in this subclass that use a Psionic Energy Die use only the dice from this subclass. Some of your powers expend a Psionic Energy Die, as specified in a power’s description, and you can’t use a power if it requires you to use a die when your Psionic Energy Dice are all expended.
@@ -14496,13 +14494,13 @@ Once you use this feature, you can’t do so again until you finish a [**Long R
 You can sweep your Psychic Blades through a creature’s mind. When you use your Psychic Blades to deal Sneak Attack damage to a creature, you can force that target to make a Wisdom saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus). If the save fails, the target has the [**Stunned**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#StunnedCondition) condition for 1 minute. The Stunned target repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
 Once you use this feature, you can’t do so again until you finish a [**Long Rest**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#LongRest) unless you expend three Psionic Energy Dice (no action required) to restore your use of it.
-
+![[Pasted image 20260517205952.png|471]]
 Thief
 
 *Hunt for Treasure as a Classic Adventurer*
 
 A mix of burglar, treasure hunter, and explorer, you are the epitome of an adventurer. In addition to improving your agility and stealth, you gain abilities useful for delving into ruins and getting maximum benefit from the magic items you find there.
-
+![[Pasted image 20260517210005.png|168]]
 Thief Subclass
 
 **Level 3: Fast Hands**
@@ -14542,7 +14540,7 @@ You’ve learned how to maximize use of magic items, granting you the following 
 You are adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal [**Initiative**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Initiative) and your second turn at your Initiative minus 10.
 
 ### **Sorcerer**
-
+![[Pasted image 20260517210023.png|481]]
 A Dazzling Mage Filled with Innate Magic
 
 <table>
@@ -15155,7 +15153,7 @@ You can use Empowered Spell even if you’ve already used a different Metamagic 
 When you cast a spell that has a duration of 1 minute or longer, you can spend 1 Sorcery Point to double its duration to a maximum duration of 24 hours.
 
 If the affected spell requires [**Concentration**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Concentration), you have [**Advantage**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Advantage) on any saving throw you make to maintain that Concentration.
-
+![[Pasted image 20260517210604.png|221]]
 **Heightened Spell**
 
 *Cost: 2 Sorcery Points*
@@ -16197,7 +16195,7 @@ When you reach a Sorcerer level specified in the Psionic Spells table, you there
 </tr>
 </tbody>
 </table>
-
+![[Pasted image 20260517210648.png|198]]
 Aberrant Sorcery Subclass
 
 **Level 3: Telepathic Speech**
@@ -16277,7 +16275,7 @@ When you reach a Sorcerer level specified in the Clockwork Spells table, you the
 </table>
 
 In addition, consult the Manifestations of Order table and choose or randomly determine a way your connection to order manifests while you are casting any of your Sorcerer spells.
-
+![[Pasted image 20260517210715.png|197]]
 Clockwork Sorcery Subclass
 
 <table>
@@ -16356,7 +16354,7 @@ Draconic Sorcery
 
 Your innate magic comes from the gift of a dragon. Perhaps an ancient dragon facing death bequeathed some of its magical power to you or your ancestor. You might have absorbed magic from a site infused with dragons’ power. Or perhaps you handled a treasure taken from a dragon’s hoard that was steeped in draconic power. Or you might have a dragon for an ancestor.
 
-<img src="./media/image16.png" style="width:3.32465in;height:8.39583in" />
+![[Pasted image 20260517210742.png|193]]
 
 Draconic Sorcery Subclass
 
@@ -16440,7 +16438,7 @@ You can manipulate chaos itself to give yourself [**Advantage**](https://www.dn
 
 If you do cast a Sorcerer spell with a spell slot before you finish a Long Rest, you automatically roll on the [Wild Magic Surge table](https://www.dndbeyond.com/sources/dnd/phb-2024/character-classes-continued#WildMagicSurge).
 
-<img src="./media/image17.png" style="width:3.65466in;height:8.13542in" />
+![[Pasted image 20260517210809.png|216]]
 
 Wild Magic Sorcery Subclass
 
@@ -16452,7 +16450,8 @@ You have the ability to twist fate using your wild magic. Immediately after anot
 
 You gain a modicum of control over the surges of your wild magic. Whenever you roll on the [Wild Magic Surge table](https://www.dndbeyond.com/sources/dnd/phb-2024/character-classes-continued#WildMagicSurge), you can roll twice and use either number.
 
-<img src="./media/image18.png" style="width:6.5in;height:5.07778in" />The Sorcerer Delina manipulates wild magic to create unpredictable wonders
+![[Pasted image 20260517210827.png|561]]
+The Sorcerer Delina manipulates wild magic to create unpredictable wonders
 
 **Level 18: Tamed Surge**
 
@@ -16580,7 +16579,7 @@ Once you use this feature, you can’t do so again until you finish a [**Long R
 
 ### **Warlock**
 
-<img src="./media/image19.png" style="width:6.03125in;height:8.1003in" />
+![[Pasted image 20260517210842.png|517]]
 
 An Occultist Empowered by Otherworldly Pacts
 
@@ -16942,7 +16941,7 @@ You can cast your arcanum spell once without expending a spell slot, and you mus
 
 As shown in the [Warlock Features table](https://www.dndbeyond.com/sources/dnd/phb-2024/character-classes-continued#WarlockFeatures), you gain another Warlock spell of your choice that can be cast in this way when you reach Warlock levels 13 (level 7 spell), 15 (level 8 spell), and 17 (level 9 spell). You regain all uses of your Mystic Arcanum when you finish a [**Long Rest**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#LongRest).
 
-<img src="./media/image20.png" style="width:6.5in;height:5.08611in" />
+![[Pasted image 20260517210937.png|313]]
 
 Whenever you gain a Warlock level, you can replace one of your arcanum spells with another Warlock spell of the same level.
 
@@ -17875,7 +17874,7 @@ Archfey Patron
 
 Your pact draws on the power of the Feywild. When you choose this subclass, you might make a deal with an archfey, such as the Prince of Frost; the Queen of Air and Darkness, ruler of the Gloaming Court; Titania of the Summer Court; or an ancient hag. Or you might call on a spectrum of Fey, weaving a web of favors and debts. Whoever they are, your patron is often inscrutable and whimsical.
 
-<img src="./media/image21.png" style="width:3.32431in;height:9in" />
+![[Pasted image 20260517211030.png|187]]
 
 Archfey Patron Subclass
 
@@ -17997,7 +17996,8 @@ You gain the ability to channel celestial energy to heal wounds. You have a pool
 
 As a Bonus Action, you can heal yourself or one creature you can see within 60 feet of yourself, expending dice from the pool. The maximum number of dice you can expend at once equals your Charisma modifier (minimum of one die). Roll the dice you expend, and restore a number of Hit Points equal to the roll’s total. Your pool regains all expended dice when you finish a [**Long Rest**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#LongRest).
 
-<img src="./media/image22.png" style="width:3.09653in;height:9in" />Celestial Patron Subclass
+![[Pasted image 20260517211056.png|178]]
+Celestial Patron Subclass
 
 **Level 6: Radiant Soul**
 
@@ -18018,7 +18018,7 @@ Fiend Patron
 *Make a Deal with the Lower Planes*
 
 Your pact draws on the Lower Planes, the realms of perdition. You might forge a bargain with a demon lord such as Demogorgon or Orcus; an archdevil such as Asmodeus; or a pit fiend, balor, yugoloth, or night hag that is especially mighty. That patron’s aims are evil—the corruption or destruction of all things, ultimately including you—and your path is defined by the extent to which you strive against those aims.
-
+![[Pasted image 20260517211155.png|178]]
 Fiend Patron Subclass
 
 **Level 3: Dark One’s Blessing**
@@ -18094,7 +18094,7 @@ The telepathic connection lasts for a number of minutes equal to your Warlock le
 **Level 3: Great Old One Spells**
 
 The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Great Old One Spells table, you thereafter always have the listed spells prepared.
-
+![[Pasted image 20260517211227.png|225]]
 Great Old One Patron Subclass
 
 <table>
@@ -18156,7 +18156,7 @@ When you cast [***Summon Aberration***](https://www.dndbeyond.com/spells/261910
 In addition, the first time each turn the Aberration hits a creature under the effect of your [***Hex***](https://www.dndbeyond.com/spells/2618988-hex), the Aberration deals extra Psychic damage to the target equal to the bonus damage of that spell.
 
 ### **Wizard**
-
+![[Pasted image 20260517211253.png|468]]
 A Scholarly Magic-User of Arcane Power
 
 <table>
@@ -18656,8 +18656,8 @@ You gain a Wizard subclass of your choice. The [Abjurer](https://www.dndbeyond.
 
 You gain the Ability Score Improvement feat (see [chapter 5](https://www.dndbeyond.com/sources/dnd/phb-2024/feats#AbilityScoreImprovement)) or another feat of your choice for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
 
-**APRIL PRIME**The elf queen Yolande awes a red dragon\
-with her spell, Yolande’s Regal Presence
+![[Pasted image 20260517211327.png|428]]
+The elf queen Yolande awes a red dragon with her spell, Yolande’s Regal Presence
 
 **Level 5: Memorize Spell**
 
@@ -19536,7 +19536,6 @@ This section presents the Wizard spell list. The spells are organized by spell l
 </tbody>
 </table>
 
-**JANE KATSUBO**
 
 <table style="width:100%;">
 <colgroup>
@@ -19833,6 +19832,7 @@ This section presents the Wizard spell list. The spells are organized by spell l
 </tbody>
 </table>
 
+![[Pasted image 20260517211522.png]]
 The Wizard Leomund studies spellbooks to prepare his magic
 
 <table>
@@ -20119,7 +20119,7 @@ You can weave magic around yourself for protection. When you cast an Abjuration 
 
 Whenever you cast an Abjuration spell with a spell slot, the ward regains a number of Hit Points equal to twice the level of the spell slot. Alternatively, as a Bonus Action, you can expend a spell slot, and the ward regains a number of Hit Points equal to twice the level of the spell slot expended.
 
-<img src="./media/image23.png" style="width:2.94078in;height:5.8125in" />
+![[Pasted image 20260517211558.png|206]]
 
 Abjurer Subclass
 
@@ -20145,7 +20145,7 @@ Diviner
 
 The counsel of a Diviner is sought by those who want a clearer understanding of the past, present, and future. As a Diviner, you strive to part the veils of space, time, and consciousness. You work to master spells of discernment, remote viewing, supernatural knowledge, and foresight.
 
-<img src="./media/image24.png" style="width:4.43333in;height:9in" />
+![[Pasted image 20260517211619.png|229]]
 
 Diviner Subclass
 
@@ -20181,7 +20181,7 @@ The visions in your dreams intensify and paint a more accurate picture in your m
 
 Evoker
 
-<img src="./media/image25.png" style="width:3.82153in;height:9in" />
+![[Pasted image 20260517211637.png|167]]
 
 Evoker Subclass
 
@@ -20221,7 +20221,7 @@ Illusionist
 
 You specialize in magic that dazzles the senses and tricks the mind, and the illusions you craft make the impossible seem real.
 
-<img src="./media/image26.png" style="width:2.76186in;height:7.1875in" />
+![[Pasted image 20260517211656.png|201]]
 
 Illusionist Subclass
 
@@ -20253,7 +20253,7 @@ You have learned to weave shadow magic into your illusions to give them a semi-r
 
 # **Chapter 4: Character Origins**
 
-<img src="./media/image27.png" style="width:5.97707in;height:7.9375in" />
+![[Pasted image 20260517211730.png|538]]
 
 Not even a white dragon’s wrath can chill these heroes of the\
 Forgotten Realms: Laeral Silverhand, Drizzt Do’Urden, and Vajra Safahr
@@ -20348,7 +20348,7 @@ Sixteen backgrounds are presented in this section in alphabetical order:
 
 Acolyte
 
-<img src="./media/image28.jpeg" style="width:6.5in;height:2.4625in" />
+![[Pasted image 20260517211817.png]]
 
 **Ability Scores:** Intelligence, Wisdom, Charisma
 
@@ -20366,7 +20366,7 @@ You devoted yourself to service in a temple, either nestled in a town or seclude
 
 Artisan
 
-<img src="./media/image29.jpeg" style="width:6.5in;height:2.36458in" />
+![[Pasted image 20260517211830.png]]
 
 **Ability Scores:** Strength, Dexterity, Intelligence
 
@@ -20384,7 +20384,7 @@ You began mopping floors and scrubbing counters in an artisan’s workshop for a
 
 Charlatan
 
-<img src="./media/image30.jpeg" style="width:6.5in;height:2.4625in" />
+![[Pasted image 20260517211843.png]]
 
 **Ability Scores:** Dexterity, Constitution, Charisma
 
@@ -20402,7 +20402,7 @@ Once you were old enough to order an ale, you soon had a favorite stool in every
 
 Criminal
 
-<img src="./media/image31.jpeg" style="width:6.5in;height:2.36458in" />
+![[Pasted image 20260517211852.png]]
 
 **Ability Scores:** Dexterity, Constitution, Intelligence
 
@@ -20420,7 +20420,7 @@ You eked out a living in dark alleyways, cutting purses or burgling shops. Perha
 
 Entertainer
 
-<img src="./media/image32.jpeg" style="width:6.5in;height:2.4625in" />
+![[Pasted image 20260517211901.png]]
 
 **Ability Scores:** Strength, Dexterity, Charisma
 
@@ -20436,7 +20436,7 @@ You spent much of your youth following roving fairs and carnivals, performing od
 
 Farmer
 
-<img src="./media/image33.jpeg" style="width:6.5in;height:2.36458in" />
+![[Pasted image 20260517211908.png]]
 
 **Ability Scores:** Strength, Constitution, Wisdom
 
@@ -20454,7 +20454,7 @@ You grew up close to the land. Years tending animals and cultivating the earth r
 
 Guard
 
-<img src="./media/image34.jpeg" style="width:6.5in;height:2.4625in" />
+![[Pasted image 20260517211916.png]]
 
 **Ability Scores:** Strength, Intelligence, Wisdom
 
@@ -20472,7 +20472,7 @@ Your feet ache when you remember the countless hours you spent at your post in t
 
 Guide
 
-<img src="./media/image35.jpeg" style="width:6.5in;height:2.36458in" />
+![[Pasted image 20260517211922.png]]
 
 **Ability Scores:** Dexterity, Constitution, Wisdom
 
@@ -20490,7 +20490,7 @@ You came of age outdoors, far from settled lands. Your home was anywhere you cho
 
 Hermit
 
-<img src="./media/image36.jpeg" style="width:6.5in;height:2.4625in" />
+![[Pasted image 20260517211928.png]]
 
 **Ability Scores:** Constitution, Wisdom, Charisma
 
@@ -20508,7 +20508,7 @@ You spent your early years secluded in a hut or monastery located well beyond th
 
 Merchant
 
-<img src="./media/image37.jpeg" style="width:6.5in;height:2.36458in" />
+![[Pasted image 20260517211933.png]]
 
 **Ability Scores:** Constitution, Intelligence, Charisma
 
@@ -20526,7 +20526,7 @@ You were apprenticed to a trader, caravan master, or shopkeeper, learning the fu
 
 Noble
 
-<img src="./media/image38.jpeg" style="width:6.5in;height:2.4625in" />
+![[Pasted image 20260517211940.png]]
 
 **Ability Scores:** Strength, Intelligence, Charisma
 
@@ -20544,7 +20544,7 @@ You were raised in a castle, surrounded by wealth, power, and privilege. Your fa
 
 Sage
 
-<img src="./media/image39.jpeg" style="width:6.5in;height:2.36736in" />
+![[Pasted image 20260517211945.png]]
 
 **Ability Scores:** Constitution, Intelligence, Wisdom
 
@@ -20562,7 +20562,7 @@ You spent your formative years traveling between manors and monasteries, perform
 
 Sailor
 
-<img src="./media/image40.jpeg" style="width:6.5in;height:2.4625in" />
+![[Pasted image 20260517211952.png]]
 
 **Ability Scores:** Strength, Dexterity, Wisdom
 
@@ -20578,7 +20578,7 @@ You lived as a seafarer, wind at your back and decks swaying beneath your feet. 
 
 Scribe
 
-<img src="./media/image41.jpeg" style="width:6.5in;height:2.36458in" />
+![[Pasted image 20260517211959.png]]
 
 **Ability Scores:** Dexterity, Intelligence, Wisdom
 
@@ -20596,7 +20596,7 @@ You spent formative years in a scriptorium, a monastery dedicated to the preserv
 
 Soldier
 
-<img src="./media/image42.jpeg" style="width:6.5in;height:2.4625in" />
+![[Pasted image 20260517212013.png]]
 
 **Ability Scores:** Strength, Dexterity, Constitution
 
@@ -20614,7 +20614,7 @@ You began training for war as soon as you reached adulthood and carry precious f
 
 Wayfarer
 
-<img src="./media/image43.jpeg" style="width:6.5in;height:2.36458in" />
+![[Pasted image 20260517212019.png]]
 
 **Ability Scores:** Dexterity, Wisdom, Charisma
 
@@ -20634,7 +20634,7 @@ Ten species are presented in this section in alphabetical order: [Aasimar](http
 
 **Aasimar**
 
-<img src="./media/image44.png" style="width:6.5in;height:4.18472in" />
+![[Pasted image 20260517212031.png|549]]
 
 Aasimar (pronounced AH-sih-mar) are mortals who carry a spark of the Upper Planes within their souls. Whether descended from an angelic being or infused with celestial power, they can fan that spark to bring light, healing, and heavenly fury.
 
@@ -20674,7 +20674,7 @@ Here are the transformation options:
 
 **Dragonborn**
 
-<img src="./media/image45.png" style="width:6.5in;height:3.84167in" />
+![[Pasted image 20260517212046.png|515]]
 
 The ancestors of dragonborn hatched from the eggs of chromatic and metallic dragons. One story holds that these eggs were blessed by the dragon gods Bahamut and Tiamat, who wanted to populate the multiverse with people created in their image. Another story claims that dragons created the first dragonborn without the gods’ blessings. Whatever their origin, dragonborn have made homes for themselves on the Material Plane.
 
@@ -20762,7 +20762,7 @@ As a Dragonborn, you have these special traits.
 
 **Dwarf**
 
-<img src="./media/image46.png" style="width:6.5in;height:4.30694in" />
+![[Pasted image 20260517212057.png|527]]
 
 Dwarves were raised from the earth in the elder days by a deity of the forge. Called by various names on different worlds—Moradin, Reorx, and others—that god gave dwarves an affinity for stone and metal and for living underground. The god also made them resilient like the mountains, with a life span of about 350 years.
 
@@ -20792,7 +20792,7 @@ As a Dwarf, you have these special traits.
 
 **Elf**
 
-<img src="./media/image47.png" style="width:6.5in;height:4.23958in" />
+![[Pasted image 20260517212108.png|570]]
 
 Created by the god Corellon, the first elves could change their forms at will. They lost this ability when Corellon cursed them for plotting with the deity Lolth, who tried and failed to usurp Corellon’s dominion. When Lolth was cast into the Abyss, most elves renounced her and earned Corellon’s forgiveness, but that which Corellon had taken from them was lost forever.
 
@@ -20816,7 +20816,8 @@ Wood elves carry the magic of primeval forests within themselves. They are known
 
 ------------------------------------------------------------------------
 
-<img src="./media/image48.png" style="width:6.5in;height:4.27639in" />A ship departs from a city built by high elves
+![[Pasted image 20260517212134.png|534]]
+A ship departs from a city built by high elves
 
 **Elf Traits**
 
@@ -20884,7 +20885,7 @@ When you reach character levels 3 and 5, you learn a higher-level spell, as show
 
 **Gnome**
 
-<img src="./media/image49.png" style="width:6.5in;height:4.24861in" />
+![[Pasted image 20260517212149.png|557]]
 
 Gnomes are magical folk created by gods of invention, illusions, and life underground. The earliest gnomes were seldom seen by other folk due to the gnomes’ secretive nature and their propensity for living in forests and burrows. What they lacked in size, they made up for in cleverness. They confounded predators with traps and labyrinthine tunnels. They also learned magic from gods like Garl Glittergold, Baervan Wildwanderer, and Baravar Cloakshadow, who visited them in disguise. That magic eventually created the lineages of forest gnomes and rock gnomes.
 
@@ -20914,7 +20915,7 @@ As a Gnome, you have these special traits.
 
 **Goliath**
 
-<img src="./media/image50.png" style="width:6.5in;height:4.24861in" />
+![[Pasted image 20260517212207.png|508]]
 
 Towering over most folk, goliaths are distant descendants of giants. Each goliath bears the favors of the first giants—favors that manifest in various supernatural boons, including the ability to quickly grow and temporarily approach the height of goliaths’ gigantic kin.
 
@@ -20952,7 +20953,7 @@ As a Goliath, you have these special traits.
 
 **Halfling**
 
-<img src="./media/image51.png" style="width:6.5in;height:4.27917in" />
+![[Pasted image 20260517212217.png|553]]
 
 Cherished and guided by gods who value life, home, and hearth, halflings gravitate toward bucolic havens where family and community help shape their lives. That said, many halflings possess a brave and adventurous spirit that leads them on journeys of discovery, affording them the chance to explore a bigger world and make new friends along the way. Their size—similar to that of a human child—helps them pass through crowds unnoticed and slip through tight spaces.
 
@@ -20984,7 +20985,7 @@ As a Halfling, you have these special traits.
 
 **Human**
 
-<img src="./media/image52.png" style="width:6.5in;height:4.14167in" />
+![[Pasted image 20260517212226.png|526]]
 
 Found throughout the multiverse, humans are as varied as they are numerous, and they endeavor to achieve as much as they can in the years they are given. Their ambition and resourcefulness are commended, respected, and feared on many worlds.
 
@@ -20992,7 +20993,6 @@ Humans are as diverse in appearance as the people of Earth, and they have many g
 
 ------------------------------------------------------------------------
 
-<img src="./media/image53.png" style="width:6.5in;height:5.70417in" />
 
 **Human Traits**
 
@@ -21012,7 +21012,7 @@ As a Human, you have these special traits.
 
 **Orc**
 
-<img src="./media/image54.png" style="width:6.5in;height:4.2in" />
+![[Pasted image 20260517212257.png|575]]
 
 Orcs trace their creation to Gruumsh, a powerful god who roamed the wide open spaces of the Material Plane. Gruumsh equipped his children with gifts to help them wander great plains, vast caverns, and churning seas and to face the monsters that lurk there. Even when they turn their devotion to other gods, orcs retain Gruumsh’s gifts: endurance, determination, and the ability to see in darkness.
 
@@ -21038,7 +21038,7 @@ As an Orc, you have these special traits.
 
 **Tiefling**
 
-<img src="./media/image55.png" style="width:6.5in;height:4.24861in" />
+![[Pasted image 20260517212310.png|551]]
 
 Tieflings are either born in the Lower Planes or have fiendish ancestors who originated there. A tiefling (pronounced TEE-fling) is linked by blood to a devil, a demon, or some other Fiend. This connection to the Lower Planes is the tiefling’s fiendish legacy, which comes with the promise of power yet has no effect on the tiefling’s moral outlook.
 
@@ -21056,7 +21056,8 @@ Tieflings who have the chthonic legacy feel not only the tug of Carceri but also
 
 The infernal legacy connects tieflings not only to Gehenna but also the Nine Hells and the raging battlefields of Acheron. Horns, spines, tails, golden eyes, and a faint odor of sulfur or smoke are common physical features of such tieflings, most of whom trace their ancestry to devils.
 
-<img src="./media/image56.png" style="width:6.5in;height:4.97569in" />Infernal Tiefling, Chthonic Tiefling, Abyssal Tiefling
+![[Pasted image 20260517212328.png|478]]
+Infernal Tiefling, Chthonic Tiefling, Abyssal Tiefling
 
 ------------------------------------------------------------------------
 
@@ -21074,7 +21075,7 @@ As a Tiefling, you have the following special traits.
 
 ***Fiendish Legacy.*** You are the recipient of a legacy that grants you supernatural abilities. Choose a legacy from the Fiendish Legacies table. You gain the level 1 benefit of the chosen legacy.
 
-<img src="./media/image57.png" style="width:2.55404in;height:6.53125in" />
+![[Pasted image 20260517212341.png|165]]
 
 When you reach character levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a [**Long Rest**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#LongRest). You can also cast the spell using any spell slots you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the legacy).
 
@@ -21122,10 +21123,9 @@ When you reach character levels 3 and 5, you learn a higher-level spell, as show
 
 # **Chapter 5: Feats**
 
-<img src="./media/image58.png" style="width:6.18238in;height:7.90764in" />
+![[Pasted image 20260517212401.png|534]]
 
-The Weathermay-Foxgrove Twins, Gennifer and Laurie, along with the investigators\
-Alanik Ray and Arthur Sedgwick, fight to escape the horrors of Castle Ravenloft
+The Weathermay-Foxgrove Twins, Gennifer and Laurie, along with the investigators Alanik Ray and Arthur Sedgwick, fight to escape the horrors of Castle Ravenloft
 
 This chapter offers a collection of feats, which are special features not tied to a character class. A feat represents a talent or an area of expertise that gives a character special capabilities. It embodies training, experience, and abilities beyond what a class provides.
 
@@ -21564,7 +21564,7 @@ You gain the following benefits.
 
 ***Healing Rerolls.*** Whenever you roll a die to determine the number of Hit Points you restore with a spell or with this feat’s Battle Medic benefit, you can reroll the die if it rolls a 1, and you must use the new roll.
 
-<img src="./media/image59.png" style="width:6.5in;height:3.72153in" />
+![[Pasted image 20260517212440.png|530]]
 
 ------------------------------------------------------------------------
 
@@ -21596,7 +21596,7 @@ You gain the following benefits.
 
 ***Repeatable.*** You can take this feat more than once, but you must choose a different spell list each time.
 
-<img src="./media/image60.png" style="width:6.5in;height:4.15in" />
+![[Pasted image 20260517212454.png|495]]
 
 ------------------------------------------------------------------------
 
@@ -21822,7 +21822,7 @@ Your exposure to the Feywild’s magic grants you the following benefits.
 
 ***Fey Magic.*** Choose one level 1 spell from the Divination or Enchantment school of magic. You always have that spell and the [***Misty Step***](https://www.dndbeyond.com/spells/2619133-misty-step) spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either spell in this way, you can’t cast that spell in this way again until you finish a [**Long Rest**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#LongRest). You can also cast these spells using spell slots you have of the appropriate level. The spells’ spellcasting ability is the ability increased by this feat.
 
-<img src="./media/image61.png" style="width:6.5in;height:5.01875in" />
+![[Pasted image 20260517212512.png|469]]
 
 ------------------------------------------------------------------------
 
@@ -22020,7 +22020,7 @@ You gain the following benefits.
 
 ***Brew Poison.*** You gain proficiency with the Poisoner’s Kit. With 1 hour of work using such a kit and expending 50 GP worth of materials, you can create a number of poison doses equal to your Proficiency Bonus. As a Bonus Action, you can apply a poison dose to a weapon or piece of ammunition. Once applied, the poison retains its potency for 1 minute or until until you deal damage with the poisoned item, whichever is shorter. When a creature takes damage from the poisoned item, that creature must succeed on a Constitution saving throw (DC 8 plus the modifier of the ability increased by this feat and your Proficiency Bonus) or take 2d8 Poison damage and have the [**Poisoned**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#PoisonedCondition) condition until the end of your next turn.
 
-<img src="./media/image62.png" style="width:6.5in;height:4.7125in" />
+![[Pasted image 20260517212532.png|504]]
 
 ------------------------------------------------------------------------
 
@@ -22062,7 +22062,7 @@ You gain the following benefits.
 
 ***Quick Ritual.*** With this benefit, you can cast a Ritual spell that you have prepared using its regular casting time rather than the extended time for a Ritual. Doing so doesn’t require a spell slot. Once you cast the spell in this way, you can’t use this benefit again until you finish a [**Long Rest**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#LongRest).
 
-<img src="./media/image63.png" style="width:6.5in;height:4.90278in" />
+![[Pasted image 20260517212545.png|515]]
 
 ------------------------------------------------------------------------
 
@@ -22252,7 +22252,7 @@ You gain the following benefits.
 
 ***Mastery Property.*** Your training with weapons allows you to use the [mastery property](https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#MasteryProperties) of one kind of Simple or Martial weapon of your choice, provided you have proficiency with it. Whenever you finish a [**Long Rest**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#LongRest), you can change the kind of weapon to another eligible kind.
 
-<img src="./media/image64.png" style="width:6.5in;height:5.025in" />
+![[Pasted image 20260517212603.png|436]]
 
 Fighting Style Feats
 
@@ -22330,7 +22330,7 @@ When you hit with a ranged attack roll using a weapon that has the [**Thrown**]
 
 When you make an extra attack as a result of using a weapon that has the [**Light**](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Light) property, you can add your ability modifier to the damage of that attack if you aren’t already adding it to the damage.
 
-<img src="./media/image65.png" style="width:6.5in;height:6.12639in" />
+![[Pasted image 20260517212621.png|383]]
 
 ------------------------------------------------------------------------
 
@@ -22396,7 +22396,7 @@ You gain the following benefits.
 
 ***Improve Fate.*** When you or another creature within 60 feet of you succeeds on or fails a [**D20 Test**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#D20Test), you can roll 2d4 and apply the total rolled as a bonus or penalty to the d20 roll. Once you use this benefit, you can’t use it again until you roll Initiative or finish a [**Short**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ShortRest) or [**Long Rest**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#LongRest).
 
-<img src="./media/image66.png" style="width:6.5in;height:3.76389in" />
+![[Pasted image 20260517212637.png|407]]
 
 ------------------------------------------------------------------------
 
@@ -22452,7 +22452,7 @@ You gain the following benefits.
 
 ***Expertise.*** Choose one skill in which you lack [**Expertise**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Expertise). You gain Expertise in that skill.
 
-<img src="./media/image67.png" style="width:6.5in;height:4.22917in" />
+![[Pasted image 20260517212649.png|382]]
 
 ------------------------------------------------------------------------
 
@@ -22508,10 +22508,9 @@ You gain the following benefits.
 
 # **Chapter 6: Equipment**
 
-<img src="./media/image68.png" style="width:6.17104in;height:7.89577in" />
+![[Pasted image 20260517212707.png|482]]
 
-In the skies of Eberron, the inventor Vi and her Fixers escape the\
-Lord of Blades and a plummeting airship that burns with green flame!
+In the skies of Eberron, the inventor Vi and her Fixers escape the Lord of Blades and a plummeting airship that burns with green flame!
 
 The right equipment can make the difference between success and failure for adventurers. This chapter provides rules and prices for weapons, armor, and other kinds of equipment that characters might purchase or find. The DM lets you know if a shop has an item for sale and whether it’s available at the listed price.
 
@@ -22879,7 +22878,15 @@ The Weapons table in this section shows the game’s main weapons. The table lis
 </tbody>
 </table>
 
-**, ,** <img src="./media/image69.png" style="width:6.5in;height:5.49653in" />Simple Melee Weapons<img src="./media/image70.png" style="width:6.5in;height:3.27917in" />Simple Ranged Weapons<img src="./media/image71.png" style="width:6.5in;height:6.02292in" />Martial Melee Weapons<img src="./media/image72.png" style="width:6.5in;height:3.65556in" />Martial Ranged Weapons
+![[Pasted image 20260517212815.png|520]]
+
+Simple Melee Weapons
+![[Pasted image 20260517212829.png|561]]
+Simple Ranged Weapons
+![[Pasted image 20260517212844.png]]
+Martial Melee Weapons
+![[Pasted image 20260517212902.png]]
+Martial Ranged Weapons
 
 Weapon Proficiency
 
@@ -23123,7 +23130,12 @@ The Armor table lists the game’s main armor. The table includes the cost and w
 </tbody>
 </table>
 
-<img src="./media/image73.png" style="width:6.5in;height:2.02222in" />Light Armor and Shields<img src="./media/image74.png" style="width:6.5in;height:2.59722in" />Medium Armor<img src="./media/image75.png" style="width:6.5in;height:4.12014in" />Heavy Armor
+![[Pasted image 20260517212928.png]]
+Light Armor and Shields
+![[Pasted image 20260517212935.png]]
+Medium Armor
+![[Pasted image 20260517212941.png]]
+Heavy Armor
 
 Armor Training
 
@@ -23421,7 +23433,9 @@ These tools support adventure and other pursuits.
 
 Adventuring Gear
 
-<img src="./media/image76.png" style="width:6.5in;height:4.19375in" />A Warlock channels magic through an Arcane Focus
+![[Pasted image 20260517213013.png|509]]
+
+A Warlock channels magic through an Arcane Focus
 
 The Adventuring Gear table in this section includes gear that adventurers often find useful. These items are described here in alphabetical order, with an item’s price appearing after its name.
 
@@ -24307,7 +24321,8 @@ A Lamp burns [**Oil**](https://www.dndbeyond.com/equipment/393-oil) as fuel to
 
 A Bullseye Lantern burns [**Oil**](https://www.dndbeyond.com/equipment/393-oil) as fuel to cast [**Bright Light**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#BrightLight) in a 60-foot [**Cone**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ConeAreaofEffect) and [**Dim Light**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#DimLight) for an additional 60 feet.
 
-**,** <img src="./media/image77.png" style="width:6.5in;height:7.87083in" />Lamp and Net
+ ![[Pasted image 20260517213110.png|373]]
+ Lamp and Net
 
 ------------------------------------------------------------------------
 
@@ -24525,7 +24540,6 @@ A Torch burns for 1 hour, casting [**Bright Light**](https://www.dndbeyond.com/
 
 A Vial holds up to 4 ounces.
 
-<img src="./media/image78.png" style="width:3.21434in;height:7.52083in" />
 
 ------------------------------------------------------------------------
 
@@ -24817,7 +24831,8 @@ Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 H
 
 Services
 
-<img src="./media/image79.png" style="width:6.5in;height:4.34375in" />A Wizard and her familiar spend an afternoon shopping
+![[Pasted image 20260517213151.png|548]]
+A Wizard and her familiar spend an afternoon shopping
 
 This section outlines services and other expenses that adventurers might spend money on.
 
@@ -25249,8 +25264,8 @@ Spell Level</strong></th>
 
 # **Chapter 7: Spells**
 
-<img src="./media/image80.png" style="width:5.95027in;height:8.07292in" />Archmages of Greyhawk—Jallarzi, Mordenkainen, and Bigby—\
-prepare their magic as they open a gate to another plane
+![[Pasted image 20260517213223.png]]
+Archmages of Greyhawk—Jallarzi, Mordenkainen, and Bigby—prepare their magic as they open a gate to another plane
 
 This chapter gives rules for casting spells. It also includes [descriptions](https://www.dndbeyond.com/sources/dnd/phb-2024/spell-descriptions) of common spells in the worlds of Dungeons & Dragons. Those spells are used by many class features, magic items, and monsters.
 
@@ -25456,7 +25471,8 @@ If a spell has movable effects, they aren’t restricted by its range unless the
 
 Components
 
-<img src="./media/image81.png" style="width:6.5in;height:3.42917in" />An aasimar Wizard uses a crystal material component to focus the magic of Cone of Cold
+![[Pasted image 20260517213308.png]]
+An aasimar Wizard uses a crystal material component to focus the magic of Cone of Cold
 
 A spell’s components are physical requirements the spellcaster must meet to cast the spell. Each spell’s description indicates whether it requires Verbal (V), Somatic (S), or Material (M) components. If the spellcaster can’t provide one or more of a spell’s components, the spellcaster can’t cast the spell.
 
@@ -25502,7 +25518,7 @@ A typical spell requires the caster to pick one or more targets to be affected b
 
 ***Areas of Effect.*** Some spells, such as [***Thunderwave***](https://www.dndbeyond.com/spells/2619184-thunderwave), cover an area called an [**area of effect**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#AreaofEffect), which is defined in the [rules glossary](https://www.dndbeyond.com/sources/dnd/phb-2024/rules-glossary#AreaofEffect). The area determines what the spell targets. The description of a spell specifies whether it has an area of effect, which is typically one of these shapes: [**Cone**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ConeAreaofEffect), [**Cube**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#CubeAreaofEffect), [**Cylinder**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#CylinderAreaofEffect), [**Emanation**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#EmanationAreaofEffect), [**Line**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#LineAreaofEffect), or [**Sphere**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#SphereAreaofEffect).
 
-<img src="./media/image82.png" style="width:6.5in;height:3.44097in" />
+![[Pasted image 20260517213321.png]]
 
 ***Awareness of Being Targeted.*** Unless a spell has a perceptible effect, a creature doesn’t know it was targeted by the spell. An effect like lightning is obvious, but a more subtle effect, such as an attempt to read thoughts, goes unnoticed unless a spell’s description says otherwise.
 
@@ -25708,7 +25724,7 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 **Duration:** [**Concentration**](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Concentration), up to 1 minute
 
-<img src="./media/image83.png" style="width:4.39766in;height:7.3125in" />
+![[Pasted image 20260517213350.png|263]]
 
 A Brazier Affected by the Spell Animate Objects
 
@@ -25890,7 +25906,8 @@ You tap into your life force to heal yourself. Roll one or two of your unexpende
 
 ------------------------------------------------------------------------
 
-<img src="./media/image84.png" style="width:6.5in;height:4.29792in" />A goliath Warlock calls on Armor of Agathys and Arms of Hadar to battle foes from the deep
+![[Pasted image 20260517213418.png|533]]
+A goliath Warlock calls on Armor of Agathys and Arms of Hadar to battle foes from the deep
 
 [***Armor of Agathys***](https://www.dndbeyond.com/spells/2618870-armor-of-agathys)
 
@@ -26220,7 +26237,8 @@ You touch a creature, which must succeed on a Wisdom saving throw or become curs
 
 ------------------------------------------------------------------------
 
-<img src="./media/image85.png" style="width:6.5in;height:4.24236in" />The Wizard Bigby uses his signature spell, Bigby’s Hand, to prevent interruptions to his research
+![[Pasted image 20260517213453.png|551]]
+The Wizard Bigby uses his signature spell, Bigby’s Hand, to prevent interruptions to his research
 
 [***Bigby’s Hand***](https://www.dndbeyond.com/spells/2618928-bigbys-hand)
 
@@ -26530,7 +26548,8 @@ Channeling the chill of the grave, make a melee spell attack against a target wi
 
 ------------------------------------------------------------------------
 
-<img src="./media/image86.png" style="width:6.5in;height:4.34375in" />A human Sorcerer chastises ghouls with the unpredictable energy of a Chromatic Orb
+![[Pasted image 20260517213524.png|559]]
+A human Sorcerer chastises ghouls with the unpredictable energy of a Chromatic Orb
 
 [***Chromatic Orb***](https://www.dndbeyond.com/spells/2618966-chromatic-orb)
 
@@ -26812,7 +26831,8 @@ For the duration, you can take a Bonus Action to designate a direction that is h
 
 ------------------------------------------------------------------------
 
-<img src="./media/image87.png" style="width:6.5in;height:4.34375in" />The icy Wizard Otiluke blasts monsters with Cone of Cold
+![[Pasted image 20260517213603.png|508]]
+The icy Wizard Otiluke blasts monsters with Cone of Cold
 
 [***Cone of Cold***](https://www.dndbeyond.com/spells/2619042-cone-of-cold)
 
@@ -27121,7 +27141,8 @@ The water level remains elevated until the spell ends or you choose a different 
 
 ------------------------------------------------------------------------
 
-<img src="./media/image88.png" style="width:6.5in;height:3.91528in" />A brass dragon casts Control Weather to save a community from a destructive storm
+![[Pasted image 20260517213745.png|501]]
+A brass dragon casts Control Weather to save a community from a destructive storm
 
 [***Control Weather***](https://www.dndbeyond.com/spells/2619054-control-weather)
 
@@ -27519,7 +27540,8 @@ For the duration, a willing creature you touch has [**Darkvision**](https://www
 
 ------------------------------------------------------------------------
 
-<img src="./media/image89.png" style="width:6.5in;height:4.34028in" />An elf Cleric uses the spell Daylight to bring the light of dawn to a vampire court
+![[Pasted image 20260517213808.png|506]]
+An elf Cleric uses the spell Daylight to bring the light of dawn to a vampire court
 
 [***Daylight***](https://www.dndbeyond.com/spells/2619083-daylight)
 
@@ -27755,7 +27777,8 @@ This spell automatically disintegrates a Large or smaller nonmagical object or a
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 3d6 for each spell slot level above 6.
 
-<img src="./media/image90.png" style="width:6.5in;height:4.34375in" />A tiefling Cleric casts Dispel Evil and Good to expel an evil spirit from a possessed innocent
+![[Pasted image 20260517213840.png|504]]
+A tiefling Cleric casts Dispel Evil and Good to expel an evil spirit from a possessed innocent
 
 [***Dispel Evil and Good***](https://www.dndbeyond.com/spells/2619096-dispel-evil-and-good)
 
@@ -27847,7 +27870,8 @@ Until the spell ends, your attacks with weapons deal an extra 1d4 Radiant damage
 
 ------------------------------------------------------------------------
 
-<img src="./media/image91.png" style="width:6.5in;height:4.20556in" />A dwarf Paladin empowers her weapon with Divine Smite, unleashing holy wrath on fiendish mezzoloths
+![[Pasted image 20260517213935.png|504]]
+A dwarf Paladin empowers her weapon with Divine Smite, unleashing holy wrath on fiendish mezzoloths
 
 [***Divine Smite***](https://www.dndbeyond.com/spells/2618833-divine-smite)
 
@@ -28057,8 +28081,8 @@ You can make the messenger terrifying to the target. If you do so, the messenger
 
 Whispering to the spirits of nature, you create one of the following effects within range.
 
-<img src="./media/image92.png" style="width:6.5in;height:4.40694in" />A sprite casts Druidcraft\
-to make flowers blossom
+![[Pasted image 20260517213957.png|269]]
+A sprite casts Druidcraft to make flowers blossom
 
 ***Weather Sensor.*** You create a Tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round.
 
@@ -28216,7 +28240,8 @@ While Restrained, the target takes 1d6 Piercing damage at the start of each of i
 
 ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 1.
 
-<img src="./media/image93.png" style="width:6.5in;height:4.27917in" />A dragonborn Druid uses Entangle to stop rampaging gnolls
+![[Pasted image 20260517214023.png|439]]
+A dragonborn Druid uses Entangle to stop rampaging gnolls
 
 [***Entangle***](https://www.dndbeyond.com/spells/2619186-entangle)
 
@@ -28276,7 +28301,8 @@ This spell ends instantly if you cast it while you are on the Ethereal Plane or 
 
 ------------------------------------------------------------------------
 
-<img src="./media/image94.png" style="width:6.5in;height:3.77431in" />The Wizard Evard calls on his infamous spell, Evard’s Black Tentacles, to teach reckless bandits a lesson
+![[Pasted image 20260517214409.png]]
+The Wizard Evard calls on his infamous spell, Evard’s Black Tentacles, to teach reckless bandits a lesson
 
 [***Evard’s Black Tentacles***](https://www.dndbeyond.com/spells/2619187-evards-black-tentacles)
 
@@ -28472,7 +28498,8 @@ Finally, when you cast a spell with a range of touch, your familiar can deliver 
 
 ***One Familiar Only.*** You can’t have more than one familiar at a time. If you cast this spell while you have a familiar, you instead cause it to adopt a new eligible form.
 
-<img src="./media/image95.png" style="width:6.5in;height:4.89653in" />Spirits summoned by Find Familiar take forms inspired by the mages who conjure them
+![[Pasted image 20260517214438.png|515]]
+Spirits summoned by Find Familiar take forms inspired by the mages who conjure them
 
 ------------------------------------------------------------------------
 

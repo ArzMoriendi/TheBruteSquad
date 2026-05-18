@@ -1,77 +1,52 @@
 <%*
 /*
-========================================
-D&D SESSION NOTES + PREP TEMPLATE
-Obsidian + Templater
-========================================
+D&D SESSION PREP TEMPLATE
+Designed for Obsidian + Templater
 */
 
 const sessionNumber = await tp.system.prompt("Session Number");
 const sessionTitle = await tp.system.prompt("Session Title");
-const sessionDate = tp.date.now("DD MMMM YYYY");
-const inGameDate = await tp.system.prompt("In-Game Date");
+const sessionDate = tp.date.now("YYYY-MM-DD");
 %>
 
-# Session <% sessionNumber %> - <% sessionTitle %>
+# Session <% sessionNumber %>: <% sessionTitle %>
 
 **Date:** <% sessionDate %>  
-**In-Game Date:** <% inGameDate %>  
+**Campaign:**  
+**Location(s):**  
+**Party Level:**  
+**Expected Session Length:**  
 
 ---
 
-# Players
-
-- [[Leyawiin]]
-- [[Zwargie]]
-- [[Sarhice Vavoca]]
-- [[Bronn the Humble]]
-- [[Veldar]]
-- [[Ghoulman]]
-
----
-# Previous Session Recap
+# Previous Sessions Recap
 
 ## Major Events
 - 
 - 
 - 
 
-#  Scene Setter
+## Outstanding Threads
+- 
+- 
+- 
 
-> 
+## Player Goals / Intentions
+- 
+- 
+- 
 
+## Emotional Tone
+- 
+
+# Things the Party Should Know
+
+- [[Luskan]] direction
+- Pirate Lords names
+- Why Kragnoroth wanted nothing
+- 
+- 
 ---
-
-
-
-# DM ONLY NOTES
-> [!danger]- DM ONLY - REMOVE BEFORE PLAYER SHARING
->
-> ## Hidden Information
-> - 
-> - 
->
-> ## Villain Motivations
-> - 
-> - 
->
-> ## Planned Reveals
-> - 
-> - 
->
-> ## Possible Consequences
-> - 
-> - 
->
-> ## Emergency Encounters / Backup Plans
-> - 
-> - 
->
-> ## Improvised Lore
-> - 
-> - 
-
-
 
 # Session Purpose / Theme
 
@@ -84,12 +59,36 @@ const inGameDate = await tp.system.prompt("In-Game Date");
 - [ ] Intrigue
 - [ ] Triumph
 - [ ] Exploration
+- [ ] Desperation
 - [ ] Political
 - [ ] Emotional
 - [ ] Other:
 
-## What Should Players Learn or Feel?
+## What Should Players Feel or Learn?
 - 
+- 
+
+---
+
+# Opening Scene
+
+## Opening Description
+> 
+
+## Immediate Hook
+- 
+
+## Sensory Details
+### Sight
+- 
+
+### Sound
+- 
+
+### Smell
+- 
+
+### Atmosphere
 - 
 
 ---
@@ -113,7 +112,10 @@ const inGameDate = await tp.system.prompt("In-Game Date");
 ### Important NPCs
 - 
 
-### Clues / Discoveries
+### Encounters / Events
+- 
+
+### Secrets / Clues
 - 
 
 ---
@@ -135,7 +137,10 @@ const inGameDate = await tp.system.prompt("In-Game Date");
 ### Important NPCs
 - 
 
-### Clues / Discoveries
+### Encounters / Events
+- 
+
+### Secrets / Clues
 - 
 
 ---
@@ -170,7 +175,7 @@ const inGameDate = await tp.system.prompt("In-Game Date");
 
 ---
 
-# Character Arcs & Spotlight Moments
+# Character Arcs & Story Progression
 
 | Character            | Development / Spotlight |
 | -------------------- | ----------------------- |
@@ -190,10 +195,15 @@ const inGameDate = await tp.system.prompt("In-Game Date");
 3. 
 4. 
 5. 
+6. 
+7. 
+8. 
+9. 
+10. 
 
 ---
 
-#  Encounters
+# Encounters
 
 ## Encounter 1
 
@@ -209,13 +219,16 @@ const inGameDate = await tp.system.prompt("In-Game Date");
 ### Purpose
 - 
 
-### Enemies / Obstacles
+### Opponents / Obstacles
 - 
 
 ### Terrain / Environment
 - 
 
 ### Stakes
+- 
+
+### Possible Outcomes
 - 
 
 ---
@@ -234,13 +247,16 @@ const inGameDate = await tp.system.prompt("In-Game Date");
 ### Purpose
 - 
 
-### Enemies / Obstacles
+### Opponents / Obstacles
 - 
 
 ### Terrain / Environment
 - 
 
 ### Stakes
+- 
+
+### Possible Outcomes
 - 
 
 ---
@@ -256,10 +272,10 @@ const inGameDate = await tp.system.prompt("In-Game Date");
 ## Environmental Features
 - 
 
-## Ambient Sounds
+## Travel Conditions
 - 
 
-## Travel Conditions
+## Ambient Sounds
 - 
 
 ---
@@ -283,26 +299,11 @@ const inGameDate = await tp.system.prompt("In-Game Date");
 
 ---
 
-# Session Notes
-
-## Scene 1
-- 
-
----
-
-## Scene 2
-- 
-
----
-
-## Scene 3
-- 
-
----
-
-# Improvisation Notes
+# Improvisation Tools
 
 ## Random NPC Names
+- 
+- 
 - 
 - 
 - 
@@ -314,6 +315,9 @@ const inGameDate = await tp.system.prompt("In-Game Date");
 ## Rumors
 - 
 - 
+- 
+
+## Emergency Combat Encounter
 - 
 
 ---
@@ -338,28 +342,15 @@ const inGameDate = await tp.system.prompt("In-Game Date");
 
 ---
 
+# Post-Session Notes
 
-# Current Threads
-
-- [[Kragnoroth The Drunk]]
-- Collect on bounty - [[Luskan]]
-- [[Lathander]]
-- Learn what happened to the doomed area
-- [[Tomb of Annihilation]]
-- Head to [[Neverwinter]] / [[Waterdeep]]
-
----
-
-
-# Post-Session Summary
-
-## Major Events
+## Important Events
 - 
 
 ## NPCs Introduced
 - 
 
-## Player Decisions
+## Unexpected Player Decisions
 - 
 
 ## New Plot Threads
@@ -368,21 +359,21 @@ const inGameDate = await tp.system.prompt("In-Game Date");
 ## Loot Obtained
 - 
 
-## Memorable Quotes
+## Memorable Quotes / Moments
 > 
 
 ---
 
 # Prep for Next Session
 
-## Likely Destinations
+## Threads to Follow Up
 - 
 - 
 
-## Threads to Continue
+## Likely Next Destinations
 - 
 - 
 
-## Prep Needed
+## Needed Prep
 - 
 - 
