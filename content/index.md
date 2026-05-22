@@ -7,6 +7,8 @@ tags:
 
 Welcome to **The Brute Squad** Dungeons & Dragons campaign notes.
 
+[[Intro to Campaign]]
+
 ## Last Session
 [[Session 17]]
 
