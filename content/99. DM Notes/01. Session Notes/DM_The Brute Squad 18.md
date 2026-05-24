@@ -10,7 +10,7 @@
 
 ---
 
-# Previous Sessions Recap
+# Previous Session's Recap
 
 Our last two sessions found our heroes deep beneath the ruined mining outpost of Hammerfall Run, standing within a forgotten ritual chamber carved from ancient stone. There, amidst shattered goliath zombies and towering natural pillars, the Brute Squad confronted a Thayan mage attempting to corrupt a mysterious relic of stone and ruby pulsing with unnatural power. The battle nearly broke them. GhoulMan, newly arrived through a planar rift and still reeling from the destruction of his homeland, was magically turned against the party. Veldar was frozen solid beneath a devastating Cone of Cold, and the mage herself revealed troubling knowledge of Zwargie and relics stolen long before. Yet through stubborn resolve, steel, spellcraft, and sheer will, the Brute Squad survived. The mage escaped into the darkness, but the chamber — and the strange artifact within it — belonged to the party.
 
@@ -26,7 +26,7 @@ With their newfound status came smaller, stranger adventures throughout Mirabar 
 - Receiving reward from [[DM_Geldryn Axebinder]] for *Stoneheart Reliquary*
 - Selling the head of [[DM_Kragnoroth the Drunk]] to [[DM_MIrabar|Marmoreal and Theriggs]]
 - Securing transportation out of [[DM_Mirabar]]
-- [[DM_Bronn]] bought a goat
+- [[DM_Bronn the Humble]] bought a goat
 
 ## Outstanding Threads
 ### Major Plot Points
@@ -42,16 +42,16 @@ With their newfound status came smaller, stranger adventures throughout Mirabar 
 
 ### Minor Plot Points
 - [[DM_Ned Drummond]] owes the party money/favors
-- [[DM_Bronn]] owes [[DM_Mirabar|Dagna]] a favor
+- [[DM_Bronn the Humble]] owes [[DM_Mirabar|Dagna]] a favor
 - The party disposed of a Satyr skull and Vanessa's skull "somewhere" in Mirabar.
 
 ## Player Goals / Intentions
 - [[DM_Leyawiin]] - Learning more magic
 - [[DM_Zwargie]] - Understand why he lost his memory and the meaning behind the orb he now carries
 - [[DM_Veldar]] - Seek vengeance for the loss of his tribe and find a place of his own
-- [[DM_Sarhice]] - Find peace in death
+- [[99. DM Notes/02. Players/DM_Sarhice Vavoca]] - Find peace in death
 	- Collect things for his patron
-- [[DM_Bronn]] - Do right by his deity & find his place
+- [[DM_Bronn the Humble]] - Do right by his deity & find his place
 - [[DM_Ghoulman]] - Seek vengeance for loss of family/peace 
 
 ## Emotional Tone

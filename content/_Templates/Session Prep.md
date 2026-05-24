@@ -19,7 +19,7 @@ const sessionDate = tp.date.now("YYYY-MM-DD");
 
 ---
 
-# Previous Sessions Recap
+# Previous Session's Recap
 
 ## Major Events
 - 

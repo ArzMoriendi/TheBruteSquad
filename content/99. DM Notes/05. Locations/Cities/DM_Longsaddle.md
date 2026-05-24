@@ -29,7 +29,7 @@
 
 Longsaddle is a tiny hamlet along the Long Road between Triboar and Mirabar, nestled in cattle and horse ranch country of the Savage Frontier. Founded in 1042 DR by Shardra Harpell, an escaped Calishite slave, it is a remote but magically infused settlement fully integrated into the Lords’ Alliance despite its size .
 
-Longsaddle is home to [[DM_Daeric Elmlight]] and is where [[DM_Sarhice]] originally hails from 
+Longsaddle is home to [[DM_Daeric Elmlight]] and is where [[99. DM Notes/02. Players/DM_Sarhice Vavoca]] originally hails from 
 
 ### Government & Politics
 

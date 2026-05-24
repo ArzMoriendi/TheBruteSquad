@@ -1,3 +1,18 @@
+---
+Tags:
+  - location
+  - city
+Type: City
+Region: North Faerûn
+Ruler: Alderman Aldrich Sternfollow
+Primary Races: Humans
+Wealth: Modest
+Defenses: Reliant on Neverwinter
+Population: ~100
+---
+
+
+
 A true hamlet on the Sword Coast should feel _small, practical, and dependent on nearby larger settlements_ like Neverwinter.
 
 A hamlet is usually:
@@ -296,3 +311,118 @@ For Primcross, I’d focus on:
     
 
 That’s enough to make it feel real.
+
+Aldrich Sternfollow
+
+
+# City Name: Primcross
+
+
+## Overview:
+Primcross is a small hamlet, just outside the north eastern walls of [[Neverwinter]].  It exists as a waypoint for travelers, caravans, and hunters.  The main town provides limited support to those passing through.  
+
+[[Primcross.png|Map of Primcross]]
+
+
+## Geography \& Layout
+
+Terrain: Village/suburban
+Climate: Temperate
+Notable Features:
+- Bridge over a tributary
+
+
+## Government \& Power
+
+Ruling Body: Alderman
+Reliant on Neverwinter for everything else.
+
+
+## Key Figures
+
+Aldrich Sternfollow – Alderman, de facto town leader and lead liaison with Neverwinter
+
+## Economy \& Trade
+
+Primary Exports:  Agriculture, hunted food and furs
+Imports: Almost everything else
+Trade Routes: Primary 
+Wealth Level: Modest
+
+## Defense
+
+Guards / Military: Support from Neverwinter
+Fortifications: none
+
+## Culture \& Society
+
+General Attitude: (Current) Gloomy
+
+## Notable Locations
+
+Town Hall - Seat of government and office of 
+
+## Notable NPCs
+
+Marta - Tavern keep for nearby inn and tavern
+
+## Current Events
+
+The shop [[Leyawiin|Leyawiin's Literary Labrynth]] was recently broken into and Sylvie, the shop-owner's sister, was kidnapped.
+
+
+# DM ONLY NOTES
+> [!danger]- DM ONLY - REMOVE BEFORE PLAYER SHARING
+>
+> ## Hidden Information
+> - 
+> - 
+>
+> ## Villain Motivations
+> - 
+> - 
+>
+> ## Planned Reveals
+> - 
+> - 
+>
+> ## Possible Consequences
+> - 
+> - 
+>
+> ## Emergency Encounters / Backup Plans
+> - 
+> - 
+>
+> ## Improvised Lore
+> - 
+> - 
+
+## 🧭 Quests \& Hooks
+
+A merchant caravan has gone missing...
+
+Political tension is rising between...
+
+A hidden cult operates beneath...
+
+Secret factions:
+Hidden agendas:
+True ruler:
+Plot connections:
+
+
+
+
+| Name                     | Wares / Services            | Location         | Price | Owner                   | Notes                                                |
+| ------------------------ | --------------------------- | ---------------- | ----- | ----------------------- | ---------------------------------------------------- |
+| The Tempered Glyph       | Enchanting, magical items  | Merchant Quarter | $$$$  | [[Alren Voss]]          | Custom enchantments, long wait times                 |
+| Ironroot Forge           | Weapons, armor              | Stone District   | $$$   | [[Durnik Emberthane]]   | Dwarven craftsmanship, very durable gear             |
+| The Gilded Cask          | Wine, mead, rare spirits   | Trade Ward       | $$    | [[Daeric Elmlight]]     | Known for exotic imports and gossip                  |
+| Whisperleaf Apothecary   | Potions, herbal remedies   | Outer Ring       | $$    | [[Mira Fenwillow]]      | Quiet shop, rumored druid connections                |
+| Black Ledger Outfitters  | Adventuring gear, maps     | Market Square    | $$    | [[Corvin Bale]]         | Buys/sells used gear, flexible pricing               |
+| The Velvet Veil          | Clothing, disguises        | Noble District   | $$$   | [[Selise Maranor]]      | Discreet clientele, possible spy ties                |
+| Ember & Ash              | Alchemy supplies, bombs    | Industrial Ward  | $$$   | [[Ketta Bronzeflame]]   | Volatile experiments, occasional explosions          |
+| The Silver Reliquary     | Religious items, holy symbols | Temple District | $$    | [[Father Halwen]]       | Offers blessings for a donation                      |
+| Grinning Basilisk Curios | Oddities, rare artifacts   | Back Alley Market | $$$$ | [[Vexra Thorne]]        | Questionable legality, rare finds                    |
+| Hearthside Provisions    | Food, travel rations       | Outer Ring       | $     | [[Tobbin Reed]]         | Reliable, cheap, friendly owner                      |

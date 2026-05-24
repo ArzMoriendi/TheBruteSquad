@@ -10,7 +10,7 @@ Welcome to **The Brute Squad** Dungeons & Dragons campaign notes.
 [[Intro to Campaign]]
 
 ## Last Session
-[[Session 17]]
+[[Session 18]]
 
 ## Sessions
 
@@ -31,6 +31,7 @@ Welcome to **The Brute Squad** Dungeons & Dragons campaign notes.
 [[Session 14]]
 [[Session 15]]
 [[Session 16]]
+[[Session 17]]
 
 ## Basic Rules for DND
 [[Basic Rules 2024]]
