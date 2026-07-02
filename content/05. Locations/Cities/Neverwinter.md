@@ -1,3 +1,5 @@
+![[Neverwinter.jpg|405]]
+
 
 Neverwinter lies on the Sword Coast North at the mouth of the Neverwinter River.  It is one of the larger cities in the region and known for crafts, trades, and cultural development. 
 
