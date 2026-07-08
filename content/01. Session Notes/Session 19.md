@@ -41,7 +41,6 @@ With no further clues to uncover, the companions settled in for an uneasy night 
 
 #  Scene Setter
 
-**CHES 26**
 
 Morning came quietly to [[Primcross]], pale sunlight filtering through broken shutters and dust-choked air inside Leyawiin’s ruined shop. Outside, life pressed forward despite recent events; villagers resumed their routines, carts creaked along worn paths, and distant bells from Neverwinter carried across the breeze. However, things weren't quite right.  The hamlet was not whole.
 
