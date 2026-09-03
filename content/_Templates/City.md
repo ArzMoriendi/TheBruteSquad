@@ -78,16 +78,16 @@ Tensions:
 
 ## 🏪 Notable Locations
 
-\[\[Shop Name]] – Enchanter
-\[\[Tavern Name]] – Gathering place
-\[\[Temple Name]] – Religious center
+[[Shop Name]] – Enchanter
+[[Tavern Name]] – Gathering place
+[[Temple Name]] – Religious center
 
 
 
 ## 🧑‍🤝‍🧑 Notable NPCs
 
-\[\[Daeric Elmlight]] – Merchant
-\[\[Marmoreal]] – Earth Genasi Contact
+[[Daeric Elmlight]] – Merchant
+[[Marmoreal]] – Earth Genasi Contact
 
 
 
@@ -145,16 +145,27 @@ Plot connections:
 
 
 
+| Name | Wares / Services | Location | Price | Owner | Notes |
 
-| Name                     | Wares / Services            | Location         | Price | Owner                   | Notes                                                |
-| ------------------------ | --------------------------- | ---------------- | ----- | ----------------------- | ---------------------------------------------------- |
-| The Tempered Glyph       | Enchanting, magical items  | Merchant Quarter | $$$$  | [[Alren Voss]]          | Custom enchantments, long wait times                 |
-| Ironroot Forge           | Weapons, armor              | Stone District   | $$$   | [[Durnik Emberthane]]   | Dwarven craftsmanship, very durable gear             |
-| The Gilded Cask          | Wine, mead, rare spirits   | Trade Ward       | $$    | [[Daeric Elmlight]]     | Known for exotic imports and gossip                  |
-| Whisperleaf Apothecary   | Potions, herbal remedies   | Outer Ring       | $$    | [[Mira Fenwillow]]      | Quiet shop, rumored druid connections                |
-| Black Ledger Outfitters  | Adventuring gear, maps     | Market Square    | $$    | [[Corvin Bale]]         | Buys/sells used gear, flexible pricing               |
-| The Velvet Veil          | Clothing, disguises        | Noble District   | $$$   | [[Selise Maranor]]      | Discreet clientele, possible spy ties                |
-| Ember & Ash              | Alchemy supplies, bombs    | Industrial Ward  | $$$   | [[Ketta Bronzeflame]]   | Volatile experiments, occasional explosions          |
-| The Silver Reliquary     | Religious items, holy symbols | Temple District | $$    | [[Father Halwen]]       | Offers blessings for a donation                      |
-| Grinning Basilisk Curios | Oddities, rare artifacts   | Back Alley Market | $$$$ | [[Vexra Thorne]]        | Questionable legality, rare finds                    |
-| Hearthside Provisions    | Food, travel rations       | Outer Ring       | $     | [[Tobbin Reed]]         | Reliable, cheap, friendly owner                      |
+|------|------------------|----------|-------|-------|------|
+
+| The Tempered Glyph | Enchanting, magical items | Merchant Quarter | $$$$ | [[Alren Voss]] | Custom enchantments, long wait times |
+
+| Ironroot Forge | Weapons, armor | Stone District | $$$ | [[Durnik Emberthane]] | Dwarven craftsmanship, very durable gear |
+
+| The Gilded Cask | Wine, mead, rare spirits | Trade Ward | $$ | [[Daeric Elmlight]] | Known for exotic imports and gossip |
+
+| Whisperleaf Apothecary | Potions, herbal remedies | Outer Ring | $$ | [[Mira Fenwillow]] | Quiet shop, rumored druid connections |
+
+| Black Ledger Outfitters | Adventuring gear, maps | Market Square | $$ | [[Corvin Bale]] | Buys/sells used gear, flexible pricing |
+
+| The Velvet Veil | Clothing, disguises | Noble District | $$$ | [[Selise Maranor]] | Discreet clientele, possible spy ties |
+
+| Ember & Ash | Alchemy supplies, bombs | Industrial Ward | $$$ | [[[Ketta Bronzeflame]] | Volatile experiments, occasional explosions |
+
+| The Silver Reliquary | Religious items, holy symbols | Temple District | $$ | [[Father Halwen]] | Offers blessings for a donation |
+
+| Grinning Basilisk Curios | Oddities, rare artifacts | Back Alley Market | $$$$ | [[Vexra Thorne]] | Questionable legality, rare finds |
+
+| Hearthside Provisions | Food, travel rations | Outer Ring | $ | [[Tobbin Reed]] | Reliable, cheap, friendly owner |
+
