@@ -27,7 +27,7 @@ Preparations continued throughout Neverwinter as the party sought additional inf
 
 That evening, after settling into the *Mariner's Rest*, [[GhoulMan]] experienced a powerful supernatural vision. Within a cosmic arena overseen by celestial and infernal judges, he faced a series of increasingly difficult trials. He defeated two Gnoll Pack Lords and was rewarded with a *Greatsword of Sharpness*, overcame two Gladiators and received two *Rings of Demonic Protection*, and finally slew a mighty Minotaur Champion. Through these trials, GhoulMan proved that true strength lies not in never falling, but in always rising again. As dawn arrived, the Brute Squad completed their preparations and stood ready to leave the [[Faerûn|Sword Coast]] behind and begin their long-awaited voyage to Chult.
 
-## #Major Events
+## Major Events
 
 - The Brute Squad finalized preparations for their expedition to Chult.
 - Zwarg attempted to swim to the _Dawnmere_ and was rescued by fishermen.
