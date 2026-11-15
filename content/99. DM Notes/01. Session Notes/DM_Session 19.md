@@ -271,7 +271,7 @@ The path ahead is dangerous, but full of opportunity.
 | [[Sarhice Vavoca]]   |                         |
 | [[Bronn the Humble]] |                         |
 | [[Veldar]]           |                         |
-| [[Ghoulman]]         |                         |
+| [[GhoulMan]]         |                         |
 
 ---
 

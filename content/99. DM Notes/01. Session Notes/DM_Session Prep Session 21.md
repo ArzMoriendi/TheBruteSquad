@@ -201,7 +201,7 @@ And so, as dawn broke over Neverwinter, the Brute Squad stood ready. Their suppl
 | [[Sarhice Vavoca]]   |                         |
 | [[Bronn the Humble]] |                         |
 | [[Veldar]]           |                         |
-| [[Ghoulman]]         |                         |
+| [[GhoulMan]]         |                         |
 
 ---
 

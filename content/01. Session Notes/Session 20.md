@@ -13,7 +13,7 @@
 - [[Sarhice Vavoca]]
 - [[Bronn the Humble]]
 - [[Veldar]]
-- [[Ghoulman]]
+- [[GhoulMan]]
 
 ---
 # Previous Session Recap

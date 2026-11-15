@@ -13,7 +13,7 @@
 - [[Sarhice Vavoca]]
 - [[Bronn the Humble]]
 - [[Veldar]]
-- [[Ghoulman]] - Absent
+- [[GhoulMan]] - Absent
 
 ---
 # Previous Session Recap
@@ -73,7 +73,7 @@ As the group debated next steps, two potential paths emerged:
 - Investigate [[Neverwinter]] for information, contacts, or black market leads
 - Travel toward the Neverwinter Woods, where prior connections to kobold tribes might provide additional insight
 
-As night fell, the party settled in at the ruined shop. They secured what they could, cleaned portions of the space, and settled in uneasily. Veldar had passed out on the floor of the shop as soon as he entered. Leyawiin withdrew to her sister’s room, overcome by the weight of the situation. [[Zwargie|Zwarg]] tucked in the shop privy.  [[Bronn the Humble|Bronn]] lay curled up in the fur of his mount, Geezer, in the back garden, while [[Sarhice Vavoca|Sarhice]] (borrowing Leyawiin's garden shovel), continued to dig through the night looking for the basement.  [[Ghoulman]] found a corner and curled up, sleeping restlessly. 
+As night fell, the party settled in at the ruined shop. They secured what they could, cleaned portions of the space, and settled in uneasily. Veldar had passed out on the floor of the shop as soon as he entered. Leyawiin withdrew to her sister’s room, overcome by the weight of the situation. [[Zwargie|Zwarg]] tucked in the shop privy.  [[Bronn the Humble|Bronn]] lay curled up in the fur of his mount, Geezer, in the back garden, while [[Sarhice Vavoca|Sarhice]] (borrowing Leyawiin's garden shovel), continued to dig through the night looking for the basement.  [[GhoulMan]] found a corner and curled up, sleeping restlessly. 
 
 Where will the Brute Squad go next?
 

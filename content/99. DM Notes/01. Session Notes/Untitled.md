@@ -181,7 +181,7 @@ Over the next day, the party prepared for the voyage south. They purchased survi
 | [[Sarhice Vavoca]]   |                         |
 | [[Bronn the Humble]] |                         |
 | [[Veldar]]           |                         |
-| [[Ghoulman]]         |                         |
+| [[GhoulMan]]         |                         |
 
 ---
 

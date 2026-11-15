@@ -14,7 +14,7 @@
 - [[Sarhice Vavoca]]
 - [[Bronn the Humble]]
 - [[Veldar]]
-- [[Ghoulman]]
+- [[GhoulMan]]
 
 ---
 # Previous Session Recap
@@ -241,7 +241,7 @@ Voyage awaits!
 | [[Sarhice Vavoca]]   |                         |
 | [[Bronn the Humble]] |                         |
 | [[Veldar]]           |                         |
-| [[Ghoulman]]         |                         |
+| [[GhoulMan]]         |                         |
 
 ---
 

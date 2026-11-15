@@ -9,11 +9,11 @@
 # Players
 
 - [[Leyawiin]]
-- Ducky
+- [[Duck Behind the Willow|Ducky]]
 - [[Sarhice Vavoca]]
-- Gogz the Goblin
+- [[Gogz the Tinkerer]]
 - [[Veldar]]
-- [[Ghoulman]]
+- [[GhoulMan]]
 
 ---
 # Previous Session Recap

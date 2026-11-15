@@ -10,11 +10,11 @@
 
 - [[Leyawiin]]
 - [[Zwargie]]
-- Ducky
+- [[Duck Behind the Willow|Ducky]]
 - [[Sarhice Vavoca]]
 - [[Bronn the Humble]]
 - [[Veldar]]
-- [[Ghoulman]]
+- [[GhoulMan]]
 
 ---
 # Previous Session Recap

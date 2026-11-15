@@ -218,7 +218,7 @@ Where will the Brute Squad go next?
 | [[Sarhice Vavoca]]   |                         |
 | [[Bronn the Humble]] |                         |
 | [[Veldar]]           |                         |
-| [[Ghoulman]]         |                         |
+| [[GhoulMan]]         |                         |
 
 ---
 
